@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 4,
-  "updatedAt": "2026-09-16T06:51:51.964Z",
+  "totalPulls": 5,
+  "updatedAt": "2026-09-16T12:30:38.315Z",
   "lastPull": {
-    "id": 217,
-    "name": "ursaring",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
+    "id": 972,
+    "name": "houndstone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
     "types": [
-      "normal"
+      "ghost"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-16T06:51:51.964Z"
+    "totalStats": 488,
+    "grade": "R",
+    "pulledAt": "2026-09-16T12:30:38.315Z"
   },
   "pulls": [
+    {
+      "id": 972,
+      "name": "houndstone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-09-16T12:30:38.315Z"
+    },
     {
       "id": 217,
       "name": "ursaring",
@@ -119,6 +130,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
       "lastPulledAt": "2026-09-16T01:43:30.119Z"
+    },
+    "972": {
+      "id": 972,
+      "name": "houndstone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 488,
+      "grade": "R",
+      "pulledAt": "2026-09-16T12:30:38.315Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T12:30:38.315Z",
+      "lastPulledAt": "2026-09-16T12:30:38.315Z"
     }
   },
   "typeTotals": {

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 5,
-  "updatedAt": "2026-09-16T12:30:38.315Z",
+  "totalPulls": 6,
+  "updatedAt": "2026-09-16T17:16:37.621Z",
   "lastPull": {
-    "id": 972,
-    "name": "houndstone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "id": 518,
+    "name": "musharna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
     "types": [
-      "ghost"
+      "psychic"
     ],
-    "totalStats": 488,
+    "totalStats": 487,
     "grade": "R",
-    "pulledAt": "2026-09-16T12:30:38.315Z"
+    "pulledAt": "2026-09-16T17:16:37.621Z"
   },
   "pulls": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-16T17:16:37.621Z"
+    },
     {
       "id": 972,
       "name": "houndstone",
@@ -115,6 +126,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:01.470Z",
       "lastPulledAt": "2026-09-16T01:43:01.470Z"
+    },
+    "518": {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-09-16T17:16:37.621Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T17:16:37.621Z",
+      "lastPulledAt": "2026-09-16T17:16:37.621Z"
     },
     "524": {
       "id": 524,

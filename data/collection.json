@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 6,
-  "updatedAt": "2026-09-16T17:16:37.621Z",
+  "totalPulls": 7,
+  "updatedAt": "2026-09-16T20:15:09.298Z",
   "lastPull": {
-    "id": 518,
-    "name": "musharna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "id": 597,
+    "name": "ferroseed",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
     "types": [
-      "psychic"
+      "grass",
+      "steel"
     ],
-    "totalStats": 487,
-    "grade": "R",
-    "pulledAt": "2026-09-16T17:16:37.621Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-09-16T20:15:09.298Z"
   },
   "pulls": [
+    {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-16T20:15:09.298Z"
+    },
     {
       "id": 518,
       "name": "musharna",
@@ -156,6 +169,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
       "lastPulledAt": "2026-09-16T01:43:30.119Z"
+    },
+    "597": {
+      "id": 597,
+      "name": "ferroseed",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-16T20:15:09.298Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T20:15:09.298Z",
+      "lastPulledAt": "2026-09-16T20:15:09.298Z"
     },
     "972": {
       "id": 972,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 1,
-  "updatedAt": "2026-09-16T01:42:34.753Z",
+  "totalPulls": 2,
+  "updatedAt": "2026-09-16T01:43:01.470Z",
   "lastPull": {
-    "id": 63,
-    "name": "abra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "id": 401,
+    "name": "kricketot",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
     "types": [
-      "psychic"
+      "bug"
     ],
-    "totalStats": 310,
+    "totalStats": 194,
     "grade": "N",
-    "pulledAt": "2026-09-16T01:42:34.753Z"
+    "pulledAt": "2026-09-16T01:43:01.470Z"
   },
   "pulls": [
+    {
+      "id": 401,
+      "name": "kricketot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 194,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:43:01.470Z"
+    },
     {
       "id": 63,
       "name": "abra",
@@ -41,6 +52,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:34.753Z",
       "lastPulledAt": "2026-09-16T01:42:34.753Z"
+    },
+    "401": {
+      "id": 401,
+      "name": "kricketot",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/401.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 194,
+      "grade": "N",
+      "pulledAt": "2026-09-16T01:43:01.470Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T01:43:01.470Z",
+      "lastPulledAt": "2026-09-16T01:43:01.470Z"
     }
   },
   "typeTotals": {

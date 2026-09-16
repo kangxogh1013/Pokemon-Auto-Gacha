@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 7,
-  "updatedAt": "2026-09-16T20:15:09.298Z",
+  "totalPulls": 8,
+  "updatedAt": "2026-09-16T23:01:57.107Z",
   "lastPull": {
-    "id": 597,
-    "name": "ferroseed",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
+    "id": 20,
+    "name": "raticate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
     "types": [
-      "grass",
-      "steel"
+      "normal"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-16T20:15:09.298Z"
+    "totalStats": 413,
+    "grade": "R",
+    "pulledAt": "2026-09-16T23:01:57.107Z"
   },
   "pulls": [
+    {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-16T23:01:57.107Z"
+    },
     {
       "id": 597,
       "name": "ferroseed",
@@ -95,6 +105,21 @@
     }
   ],
   "pokemon": {
+    "20": {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-09-16T23:01:57.107Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-16T23:01:57.107Z",
+      "lastPulledAt": "2026-09-16T23:01:57.107Z"
+    },
     "63": {
       "id": 63,
       "name": "abra",

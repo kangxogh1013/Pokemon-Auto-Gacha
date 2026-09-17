@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 10,
-  "updatedAt": "2026-09-17T06:31:59.792Z",
+  "totalPulls": 11,
+  "updatedAt": "2026-09-17T12:04:28.113Z",
   "lastPull": {
-    "id": 946,
-    "name": "bramblin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+    "id": 485,
+    "name": "heatran",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
     "types": [
-      "grass",
-      "ghost"
+      "fire",
+      "steel"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-17T06:31:59.792Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-17T12:04:28.113Z"
   },
   "pulls": [
+    {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T12:04:28.113Z"
+    },
     {
       "id": 946,
       "name": "bramblin",
@@ -115,17 +127,6 @@
       "totalStats": 194,
       "grade": "N",
       "pulledAt": "2026-09-16T01:43:01.470Z"
-    },
-    {
-      "id": 63,
-      "name": "abra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-09-16T01:42:34.753Z"
     }
   ],
   "pokemon": {
@@ -203,6 +204,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:01.470Z",
       "lastPulledAt": "2026-09-16T01:43:01.470Z"
+    },
+    "485": {
+      "id": 485,
+      "name": "heatran",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/485.png",
+      "types": [
+        "fire",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-17T12:04:28.113Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T12:04:28.113Z",
+      "lastPulledAt": "2026-09-17T12:04:28.113Z"
     },
     "518": {
       "id": 518,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 13,
-  "updatedAt": "2026-09-17T20:09:46.281Z",
+  "totalPulls": 14,
+  "updatedAt": "2026-09-17T22:51:26.706Z",
   "lastPull": {
-    "id": 490,
-    "name": "manaphy",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
+    "id": 586,
+    "name": "sawsbuck",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
     "types": [
-      "water"
+      "normal",
+      "grass"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-17T20:09:46.281Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-09-17T22:51:26.706Z"
   },
   "pulls": [
+    {
+      "id": 586,
+      "name": "sawsbuck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:51:26.706Z"
+    },
     {
       "id": 490,
       "name": "manaphy",
@@ -116,17 +129,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-09-16T12:30:38.315Z"
-    },
-    {
-      "id": 217,
-      "name": "ursaring",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/217.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-16T06:51:51.964Z"
     }
   ],
   "pokemon": {
@@ -265,6 +267,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
       "lastPulledAt": "2026-09-16T01:43:30.119Z"
+    },
+    "586": {
+      "id": 586,
+      "name": "sawsbuck",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/586.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-09-17T22:51:26.706Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T22:51:26.706Z",
+      "lastPulledAt": "2026-09-17T22:51:26.706Z"
     },
     "597": {
       "id": 597,

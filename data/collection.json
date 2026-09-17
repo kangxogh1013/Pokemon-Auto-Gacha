@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 9,
-  "updatedAt": "2026-09-17T01:22:24.815Z",
+  "totalPulls": 10,
+  "updatedAt": "2026-09-17T06:31:59.792Z",
   "lastPull": {
-    "id": 209,
-    "name": "snubbull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+    "id": 946,
+    "name": "bramblin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
     "types": [
-      "fairy"
+      "grass",
+      "ghost"
     ],
-    "totalStats": 300,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-17T01:22:24.815Z"
+    "pulledAt": "2026-09-17T06:31:59.792Z"
   },
   "pulls": [
+    {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T06:31:59.792Z"
+    },
     {
       "id": 209,
       "name": "snubbull",
@@ -236,6 +249,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:15:09.298Z",
       "lastPulledAt": "2026-09-16T20:15:09.298Z"
+    },
+    "946": {
+      "id": 946,
+      "name": "bramblin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
+      "types": [
+        "grass",
+        "ghost"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-17T06:31:59.792Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-17T06:31:59.792Z",
+      "lastPulledAt": "2026-09-17T06:31:59.792Z"
     },
     "972": {
       "id": 972,

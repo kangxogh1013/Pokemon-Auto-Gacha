@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 18,
-  "updatedAt": "2026-09-18T14:55:24.461Z",
+  "totalPulls": 19,
+  "updatedAt": "2026-09-18T18:13:42.383Z",
   "lastPull": {
-    "id": 972,
-    "name": "houndstone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "id": 169,
+    "name": "crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
     "types": [
-      "ghost"
+      "poison",
+      "flying"
     ],
-    "totalStats": 488,
-    "grade": "R",
-    "pulledAt": "2026-09-18T14:55:24.461Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-09-18T18:13:42.383Z"
   },
   "pulls": [
+    {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T18:13:42.383Z"
+    },
     {
       "id": 972,
       "name": "houndstone",
@@ -117,17 +130,6 @@
       "totalStats": 275,
       "grade": "N",
       "pulledAt": "2026-09-17T06:31:59.792Z"
-    },
-    {
-      "id": 209,
-      "name": "snubbull",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-17T01:22:24.815Z"
     }
   ],
   "pokemon": {
@@ -175,6 +177,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:34.753Z",
       "lastPulledAt": "2026-09-16T01:42:34.753Z"
+    },
+    "169": {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T18:13:42.383Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T18:13:42.383Z",
+      "lastPulledAt": "2026-09-18T18:13:42.383Z"
     },
     "209": {
       "id": 209,

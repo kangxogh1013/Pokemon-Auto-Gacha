@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 19,
-  "updatedAt": "2026-09-18T18:13:42.383Z",
+  "totalPulls": 20,
+  "updatedAt": "2026-09-18T21:00:01.434Z",
   "lastPull": {
-    "id": 169,
-    "name": "crobat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+    "id": 879,
+    "name": "copperajah",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
     "types": [
-      "poison",
-      "flying"
+      "steel"
     ],
-    "totalStats": 535,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-18T18:13:42.383Z"
+    "pulledAt": "2026-09-18T21:00:01.434Z"
   },
   "pulls": [
+    {
+      "id": 879,
+      "name": "copperajah",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T21:00:01.434Z"
+    },
     {
       "id": 169,
       "name": "crobat",
@@ -118,18 +128,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-17T12:04:28.113Z"
-    },
-    {
-      "id": 946,
-      "name": "bramblin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/946.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-17T06:31:59.792Z"
     }
   ],
   "pokemon": {
@@ -362,6 +360,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:55:51.887Z",
       "lastPulledAt": "2026-09-18T05:55:51.887Z"
+    },
+    "879": {
+      "id": 879,
+      "name": "copperajah",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
+      "types": [
+        "steel"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-18T21:00:01.434Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T21:00:01.434Z",
+      "lastPulledAt": "2026-09-18T21:00:01.434Z"
     },
     "946": {
       "id": 946,

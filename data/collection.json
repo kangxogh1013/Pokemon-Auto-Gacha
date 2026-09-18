@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 16,
-  "updatedAt": "2026-09-18T05:55:51.887Z",
+  "totalPulls": 17,
+  "updatedAt": "2026-09-18T10:59:32.420Z",
   "lastPull": {
-    "id": 837,
-    "name": "rolycoly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
+    "id": 60,
+    "name": "poliwag",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
     "types": [
-      "rock"
+      "water"
     ],
-    "totalStats": 240,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-09-18T05:55:51.887Z"
+    "pulledAt": "2026-09-18T10:59:32.420Z"
   },
   "pulls": [
+    {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-18T10:59:32.420Z"
+    },
     {
       "id": 837,
       "name": "rolycoly",
@@ -117,18 +128,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-09-16T23:01:57.107Z"
-    },
-    {
-      "id": 597,
-      "name": "ferroseed",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/597.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-16T20:15:09.298Z"
     }
   ],
   "pokemon": {
@@ -146,6 +145,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:01:57.107Z",
       "lastPulledAt": "2026-09-16T23:01:57.107Z"
+    },
+    "60": {
+      "id": 60,
+      "name": "poliwag",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-09-18T10:59:32.420Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-18T10:59:32.420Z",
+      "lastPulledAt": "2026-09-18T10:59:32.420Z"
     },
     "63": {
       "id": 63,

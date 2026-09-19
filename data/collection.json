@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 21,
-  "updatedAt": "2026-09-18T23:13:41.447Z",
+  "totalPulls": 22,
+  "updatedAt": "2026-09-19T01:17:07.143Z",
   "lastPull": {
-    "id": 152,
-    "name": "chikorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "id": 582,
+    "name": "vanillite",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
     "types": [
-      "grass"
+      "ice"
     ],
-    "totalStats": 318,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-09-18T23:13:41.447Z"
+    "pulledAt": "2026-09-19T01:17:07.143Z"
   },
   "pulls": [
+    {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T01:17:07.143Z"
+    },
     {
       "id": 152,
       "name": "chikorita",
@@ -115,18 +126,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-17T20:09:46.281Z"
-    },
-    {
-      "id": 769,
-      "name": "sandygast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/769.png",
-      "types": [
-        "ghost",
-        "ground"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-17T16:56:30.399Z"
     }
   ],
   "pokemon": {
@@ -311,6 +310,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
       "lastPulledAt": "2026-09-16T01:43:30.119Z"
+    },
+    "582": {
+      "id": 582,
+      "name": "vanillite",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-09-19T01:17:07.143Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T01:17:07.143Z",
+      "lastPulledAt": "2026-09-19T01:17:07.143Z"
     },
     "586": {
       "id": 586,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 22,
-  "updatedAt": "2026-09-19T01:17:07.143Z",
+  "totalPulls": 23,
+  "updatedAt": "2026-09-19T06:02:09.477Z",
   "lastPull": {
-    "id": 582,
-    "name": "vanillite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/582.png",
+    "id": 598,
+    "name": "ferrothorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
     "types": [
-      "ice"
+      "grass",
+      "steel"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-19T01:17:07.143Z"
+    "totalStats": 489,
+    "grade": "R",
+    "pulledAt": "2026-09-19T06:02:09.477Z"
   },
   "pulls": [
+    {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:02:09.477Z"
+    },
     {
       "id": 582,
       "name": "vanillite",
@@ -115,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-09-17T22:51:26.706Z"
-    },
-    {
-      "id": 490,
-      "name": "manaphy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/490.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-17T20:09:46.281Z"
     }
   ],
   "pokemon": {
@@ -357,6 +359,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T20:15:09.298Z",
       "lastPulledAt": "2026-09-16T20:15:09.298Z"
+    },
+    "598": {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-09-19T06:02:09.477Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T06:02:09.477Z",
+      "lastPulledAt": "2026-09-19T06:02:09.477Z"
     },
     "769": {
       "id": 769,

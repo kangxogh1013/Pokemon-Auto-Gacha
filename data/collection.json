@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 25,
-  "updatedAt": "2026-09-19T14:14:37.388Z",
+  "totalPulls": 26,
+  "updatedAt": "2026-09-19T17:19:22.507Z",
   "lastPull": {
-    "id": 48,
-    "name": "venonat",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
+    "id": 424,
+    "name": "ambipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
     "types": [
-      "bug",
-      "poison"
+      "normal"
     ],
-    "totalStats": 305,
-    "grade": "N",
-    "pulledAt": "2026-09-19T14:14:37.388Z"
+    "totalStats": 482,
+    "grade": "R",
+    "pulledAt": "2026-09-19T17:19:22.507Z"
   },
   "pulls": [
+    {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-09-19T17:19:22.507Z"
+    },
     {
       "id": 48,
       "name": "venonat",
@@ -116,17 +126,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-18T10:59:32.420Z"
-    },
-    {
-      "id": 837,
-      "name": "rolycoly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/837.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-09-18T05:55:51.887Z"
     }
   ],
   "pokemon": {
@@ -266,6 +265,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:01.470Z",
       "lastPulledAt": "2026-09-16T01:43:01.470Z"
+    },
+    "424": {
+      "id": 424,
+      "name": "ambipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 482,
+      "grade": "R",
+      "pulledAt": "2026-09-19T17:19:22.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T17:19:22.507Z",
+      "lastPulledAt": "2026-09-19T17:19:22.507Z"
     },
     "485": {
       "id": 485,

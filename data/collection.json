@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 28,
-  "updatedAt": "2026-09-19T21:38:43.725Z",
+  "totalPulls": 29,
+  "updatedAt": "2026-09-19T23:34:51.067Z",
   "lastPull": {
-    "id": 944,
-    "name": "shroodle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
+    "id": 410,
+    "name": "shieldon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
     "types": [
-      "poison",
-      "normal"
+      "rock",
+      "steel"
     ],
-    "totalStats": 290,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-09-19T21:38:43.725Z"
+    "pulledAt": "2026-09-19T23:34:51.067Z"
   },
   "pulls": [
+    {
+      "id": 410,
+      "name": "shieldon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:34:51.067Z"
+    },
     {
       "id": 944,
       "name": "shroodle",
@@ -116,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-18T21:00:01.434Z"
-    },
-    {
-      "id": 169,
-      "name": "crobat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T18:13:42.383Z"
     }
   ],
   "pokemon": {
@@ -267,6 +267,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:01.470Z",
       "lastPulledAt": "2026-09-16T01:43:01.470Z"
+    },
+    "410": {
+      "id": 410,
+      "name": "shieldon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+      "types": [
+        "rock",
+        "steel"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-09-19T23:34:51.067Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T23:34:51.067Z",
+      "lastPulledAt": "2026-09-19T23:34:51.067Z"
     },
     "424": {
       "id": 424,

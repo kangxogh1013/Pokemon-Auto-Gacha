@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 26,
-  "updatedAt": "2026-09-19T17:19:22.507Z",
+  "totalPulls": 27,
+  "updatedAt": "2026-09-19T19:25:21.738Z",
   "lastPull": {
-    "id": 424,
-    "name": "ambipom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/424.png",
+    "id": 819,
+    "name": "skwovet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
     "types": [
       "normal"
     ],
-    "totalStats": 482,
-    "grade": "R",
-    "pulledAt": "2026-09-19T17:19:22.507Z"
+    "totalStats": 275,
+    "grade": "N",
+    "pulledAt": "2026-09-19T19:25:21.738Z"
   },
   "pulls": [
+    {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:25:21.738Z"
+    },
     {
       "id": 424,
       "name": "ambipom",
@@ -115,17 +126,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-09-18T14:55:24.461Z"
-    },
-    {
-      "id": 60,
-      "name": "poliwag",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/60.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-09-18T10:59:32.420Z"
     }
   ],
   "pokemon": {
@@ -420,6 +420,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:56:30.399Z",
       "lastPulledAt": "2026-09-18T01:08:22.669Z"
+    },
+    "819": {
+      "id": 819,
+      "name": "skwovet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-19T19:25:21.738Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-19T19:25:21.738Z",
+      "lastPulledAt": "2026-09-19T19:25:21.738Z"
     },
     "837": {
       "id": 837,

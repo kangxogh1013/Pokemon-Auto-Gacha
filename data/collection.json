@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 29,
-  "updatedAt": "2026-09-19T23:34:51.067Z",
+  "totalPulls": 30,
+  "updatedAt": "2026-09-20T01:37:40.281Z",
   "lastPull": {
-    "id": 410,
-    "name": "shieldon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
+    "id": 658,
+    "name": "greninja",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
     "types": [
-      "rock",
-      "steel"
+      "water",
+      "dark"
     ],
-    "totalStats": 350,
-    "grade": "N",
-    "pulledAt": "2026-09-19T23:34:51.067Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-20T01:37:40.281Z"
   },
   "pulls": [
+    {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:37:40.281Z"
+    },
     {
       "id": 410,
       "name": "shieldon",
@@ -117,17 +129,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-09-18T23:13:41.447Z"
-    },
-    {
-      "id": 879,
-      "name": "copperajah",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/879.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-18T21:00:01.434Z"
     }
   ],
   "pokemon": {
@@ -422,6 +423,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:02:09.477Z",
       "lastPulledAt": "2026-09-19T06:02:09.477Z"
+    },
+    "658": {
+      "id": 658,
+      "name": "greninja",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+      "types": [
+        "water",
+        "dark"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T01:37:40.281Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T01:37:40.281Z",
+      "lastPulledAt": "2026-09-20T01:37:40.281Z"
     },
     "769": {
       "id": 769,

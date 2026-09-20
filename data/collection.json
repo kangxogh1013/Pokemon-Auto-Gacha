@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 34,
-  "updatedAt": "2026-09-20T18:55:00.402Z",
+  "totalPulls": 35,
+  "updatedAt": "2026-09-20T21:20:08.427Z",
   "lastPull": {
-    "id": 721,
-    "name": "volcanion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+    "id": 690,
+    "name": "skrelp",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
     "types": [
-      "fire",
+      "poison",
       "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T18:55:00.402Z"
+    "totalStats": 320,
+    "grade": "N",
+    "pulledAt": "2026-09-20T21:20:08.427Z"
   },
   "pulls": [
+    {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-20T21:20:08.427Z"
+    },
     {
       "id": 721,
       "name": "volcanion",
@@ -119,18 +131,6 @@
       "totalStats": 482,
       "grade": "R",
       "pulledAt": "2026-09-19T17:19:22.507Z"
-    },
-    {
-      "id": 48,
-      "name": "venonat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/48.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-09-19T14:14:37.388Z"
     }
   ],
   "pokemon": {
@@ -473,6 +473,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:37:40.281Z",
       "lastPulledAt": "2026-09-20T01:37:40.281Z"
+    },
+    "690": {
+      "id": 690,
+      "name": "skrelp",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 320,
+      "grade": "N",
+      "pulledAt": "2026-09-20T21:20:08.427Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T21:20:08.427Z",
+      "lastPulledAt": "2026-09-20T21:20:08.427Z"
     },
     "721": {
       "id": 721,

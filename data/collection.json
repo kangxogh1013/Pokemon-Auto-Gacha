@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 30,
-  "updatedAt": "2026-09-20T01:37:40.281Z",
+  "totalPulls": 31,
+  "updatedAt": "2026-09-20T07:02:12.850Z",
   "lastPull": {
-    "id": 658,
-    "name": "greninja",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/658.png",
+    "id": 462,
+    "name": "magnezone",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
     "types": [
-      "water",
-      "dark"
+      "electric",
+      "steel"
     ],
-    "totalStats": 530,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-09-20T01:37:40.281Z"
+    "pulledAt": "2026-09-20T07:02:12.850Z"
   },
   "pulls": [
+    {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T07:02:12.850Z"
+    },
     {
       "id": 658,
       "name": "greninja",
@@ -118,17 +130,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T01:17:07.143Z"
-    },
-    {
-      "id": 152,
-      "name": "chikorita",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-09-18T23:13:41.447Z"
     }
   ],
   "pokemon": {
@@ -299,6 +300,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T17:19:22.507Z",
       "lastPulledAt": "2026-09-19T17:19:22.507Z"
+    },
+    "462": {
+      "id": 462,
+      "name": "magnezone",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/462.png",
+      "types": [
+        "electric",
+        "steel"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-09-20T07:02:12.850Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T07:02:12.850Z",
+      "lastPulledAt": "2026-09-20T07:02:12.850Z"
     },
     "485": {
       "id": 485,

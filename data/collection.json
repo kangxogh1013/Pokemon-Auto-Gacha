@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 33,
-  "updatedAt": "2026-09-20T16:18:32.329Z",
+  "totalPulls": 34,
+  "updatedAt": "2026-09-20T18:55:00.402Z",
   "lastPull": {
-    "id": 152,
-    "name": "chikorita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+    "id": 721,
+    "name": "volcanion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
     "types": [
-      "grass"
+      "fire",
+      "water"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-09-20T16:18:32.329Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-09-20T18:55:00.402Z"
   },
   "pulls": [
+    {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T18:55:00.402Z"
+    },
     {
       "id": 152,
       "name": "chikorita",
@@ -118,17 +131,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-09-19T14:14:37.388Z"
-    },
-    {
-      "id": 20,
-      "name": "raticate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 413,
-      "grade": "R",
-      "pulledAt": "2026-09-19T10:53:23.927Z"
     }
   ],
   "pokemon": {
@@ -471,6 +473,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:37:40.281Z",
       "lastPulledAt": "2026-09-20T01:37:40.281Z"
+    },
+    "721": {
+      "id": 721,
+      "name": "volcanion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
+      "types": [
+        "fire",
+        "water"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-09-20T18:55:00.402Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-20T18:55:00.402Z",
+      "lastPulledAt": "2026-09-20T18:55:00.402Z"
     },
     "769": {
       "id": 769,

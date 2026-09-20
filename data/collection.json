@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 32,
-  "updatedAt": "2026-09-20T12:18:24.217Z",
+  "totalPulls": 33,
+  "updatedAt": "2026-09-20T16:18:32.329Z",
   "lastPull": {
-    "id": 304,
-    "name": "aron",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
+    "id": 152,
+    "name": "chikorita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
     "types": [
-      "steel",
-      "rock"
+      "grass"
     ],
-    "totalStats": 330,
+    "totalStats": 318,
     "grade": "N",
-    "pulledAt": "2026-09-20T12:18:24.217Z"
+    "pulledAt": "2026-09-20T16:18:32.329Z"
   },
   "pulls": [
+    {
+      "id": 152,
+      "name": "chikorita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/152.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-09-20T16:18:32.329Z"
+    },
     {
       "id": 304,
       "name": "aron",
@@ -119,18 +129,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-09-19T10:53:23.927Z"
-    },
-    {
-      "id": 598,
-      "name": "ferrothorn",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
-      "types": [
-        "grass",
-        "steel"
-      ],
-      "totalStats": 489,
-      "grade": "R",
-      "pulledAt": "2026-09-19T06:02:09.477Z"
     }
   ],
   "pokemon": {
@@ -205,10 +203,10 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-09-18T23:13:41.447Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T23:13:41.447Z",
-      "lastPulledAt": "2026-09-18T23:13:41.447Z"
+      "lastPulledAt": "2026-09-20T16:18:32.329Z"
     },
     "169": {
       "id": 169,

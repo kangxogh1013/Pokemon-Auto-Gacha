@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 37,
-  "updatedAt": "2026-09-21T01:27:03.727Z",
+  "totalPulls": 38,
+  "updatedAt": "2026-09-21T06:59:30.667Z",
   "lastPull": {
-    "id": 624,
-    "name": "pawniard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "id": 602,
+    "name": "tynamo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
     "types": [
-      "dark",
-      "steel"
+      "electric"
     ],
-    "totalStats": 340,
+    "totalStats": 275,
     "grade": "N",
-    "pulledAt": "2026-09-21T01:27:03.727Z"
+    "pulledAt": "2026-09-21T06:59:30.667Z"
   },
   "pulls": [
+    {
+      "id": 602,
+      "name": "tynamo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-21T06:59:30.667Z"
+    },
     {
       "id": 624,
       "name": "pawniard",
@@ -121,18 +131,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-09-19T23:34:51.067Z"
-    },
-    {
-      "id": 944,
-      "name": "shroodle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/944.png",
-      "types": [
-        "poison",
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-19T21:38:43.725Z"
     }
   ],
   "pokemon": {
@@ -475,6 +473,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:02:09.477Z",
       "lastPulledAt": "2026-09-19T06:02:09.477Z"
+    },
+    "602": {
+      "id": 602,
+      "name": "tynamo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 275,
+      "grade": "N",
+      "pulledAt": "2026-09-21T06:59:30.667Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T06:59:30.667Z",
+      "lastPulledAt": "2026-09-21T06:59:30.667Z"
     },
     "624": {
       "id": 624,

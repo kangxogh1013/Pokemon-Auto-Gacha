@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 36,
-  "updatedAt": "2026-09-20T23:20:14.699Z",
+  "totalPulls": 37,
+  "updatedAt": "2026-09-21T01:27:03.727Z",
   "lastPull": {
-    "id": 445,
-    "name": "garchomp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
+    "id": 624,
+    "name": "pawniard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
     "types": [
-      "dragon",
-      "ground"
+      "dark",
+      "steel"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-09-20T23:20:14.699Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-09-21T01:27:03.727Z"
   },
   "pulls": [
+    {
+      "id": 624,
+      "name": "pawniard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-21T01:27:03.727Z"
+    },
     {
       "id": 445,
       "name": "garchomp",
@@ -121,17 +133,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-19T21:38:43.725Z"
-    },
-    {
-      "id": 819,
-      "name": "skwovet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/819.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 275,
-      "grade": "N",
-      "pulledAt": "2026-09-19T19:25:21.738Z"
     }
   ],
   "pokemon": {
@@ -474,6 +475,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:02:09.477Z",
       "lastPulledAt": "2026-09-19T06:02:09.477Z"
+    },
+    "624": {
+      "id": 624,
+      "name": "pawniard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+      "types": [
+        "dark",
+        "steel"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-09-21T01:27:03.727Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T01:27:03.727Z",
+      "lastPulledAt": "2026-09-21T01:27:03.727Z"
     },
     "658": {
       "id": 658,

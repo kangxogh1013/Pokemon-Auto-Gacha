@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 38,
-  "updatedAt": "2026-09-21T06:59:30.667Z",
+  "totalPulls": 39,
+  "updatedAt": "2026-09-21T13:57:39.432Z",
   "lastPull": {
-    "id": 602,
-    "name": "tynamo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/602.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
-      "electric"
+      "water"
     ],
-    "totalStats": 275,
-    "grade": "N",
-    "pulledAt": "2026-09-21T06:59:30.667Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-09-21T13:57:39.432Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-21T13:57:39.432Z"
+    },
     {
       "id": 602,
       "name": "tynamo",
@@ -119,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-20T01:37:40.281Z"
-    },
-    {
-      "id": 410,
-      "name": "shieldon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/410.png",
-      "types": [
-        "rock",
-        "steel"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-09-19T23:34:51.067Z"
     }
   ],
   "pokemon": {
@@ -271,6 +270,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T12:18:24.217Z",
       "lastPulledAt": "2026-09-20T12:18:24.217Z"
+    },
+    "367": {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-09-21T13:57:39.432Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-21T13:57:39.432Z",
+      "lastPulledAt": "2026-09-21T13:57:39.432Z"
     },
     "401": {
       "id": 401,

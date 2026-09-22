@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 41,
-  "updatedAt": "2026-09-21T22:38:34.108Z",
+  "totalPulls": 42,
+  "updatedAt": "2026-09-22T01:11:28.516Z",
   "lastPull": {
-    "id": 1011,
-    "name": "dipplin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
+    "id": 988,
+    "name": "slither-wing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
     "types": [
-      "grass",
-      "dragon"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-09-21T22:38:34.108Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T01:11:28.516Z"
   },
   "pulls": [
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:11:28.516Z"
+    },
     {
       "id": 1011,
       "name": "dipplin",
@@ -118,18 +130,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-09-20T16:18:32.329Z"
-    },
-    {
-      "id": 304,
-      "name": "aron",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/304.png",
-      "types": [
-        "steel",
-        "rock"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-09-20T12:18:24.217Z"
     }
   ],
   "pokemon": {
@@ -674,6 +674,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:30:38.315Z",
       "lastPulledAt": "2026-09-18T14:55:24.461Z"
+    },
+    "988": {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T01:11:28.516Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T01:11:28.516Z",
+      "lastPulledAt": "2026-09-22T01:11:28.516Z"
     },
     "1011": {
       "id": 1011,

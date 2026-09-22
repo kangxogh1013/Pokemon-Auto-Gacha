@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 45,
-  "updatedAt": "2026-09-22T16:49:12.790Z",
+  "totalPulls": 46,
+  "updatedAt": "2026-09-22T19:56:49.667Z",
   "lastPull": {
-    "id": 898,
-    "name": "calyrex",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+    "id": 921,
+    "name": "pawmi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
     "types": [
-      "psychic",
-      "grass"
+      "electric"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-22T16:49:12.790Z"
+    "totalStats": 240,
+    "grade": "N",
+    "pulledAt": "2026-09-22T19:56:49.667Z"
   },
   "pulls": [
+    {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-22T19:56:49.667Z"
+    },
     {
       "id": 898,
       "name": "calyrex",
@@ -117,18 +127,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-09-21T01:27:03.727Z"
-    },
-    {
-      "id": 445,
-      "name": "garchomp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/445.png",
-      "types": [
-        "dragon",
-        "ground"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T23:20:14.699Z"
     }
   ],
   "pokemon": {
@@ -672,6 +670,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:49:12.790Z",
       "lastPulledAt": "2026-09-22T16:49:12.790Z"
+    },
+    "921": {
+      "id": 921,
+      "name": "pawmi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 240,
+      "grade": "N",
+      "pulledAt": "2026-09-22T19:56:49.667Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T19:56:49.667Z",
+      "lastPulledAt": "2026-09-22T19:56:49.667Z"
     },
     "944": {
       "id": 944,

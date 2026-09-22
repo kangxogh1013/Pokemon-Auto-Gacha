@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 43,
-  "updatedAt": "2026-09-22T06:21:17.919Z",
+  "totalPulls": 44,
+  "updatedAt": "2026-09-22T11:58:43.438Z",
   "lastPull": {
-    "id": 428,
-    "name": "lopunny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
+    "id": 773,
+    "name": "silvally",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
     "types": [
       "normal"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-09-22T06:21:17.919Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-09-22T11:58:43.438Z"
   },
   "pulls": [
+    {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T11:58:43.438Z"
+    },
     {
       "id": 428,
       "name": "lopunny",
@@ -117,18 +128,6 @@
       "totalStats": 320,
       "grade": "N",
       "pulledAt": "2026-09-20T21:20:08.427Z"
-    },
-    {
-      "id": 721,
-      "name": "volcanion",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/721.png",
-      "types": [
-        "fire",
-        "water"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-09-20T18:55:00.402Z"
     }
   ],
   "pokemon": {
@@ -596,6 +595,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:56:30.399Z",
       "lastPulledAt": "2026-09-18T01:08:22.669Z"
+    },
+    "773": {
+      "id": 773,
+      "name": "silvally",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T11:58:43.438Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T11:58:43.438Z",
+      "lastPulledAt": "2026-09-22T11:58:43.438Z"
     },
     "819": {
       "id": 819,

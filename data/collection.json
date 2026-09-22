@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 44,
-  "updatedAt": "2026-09-22T11:58:43.438Z",
+  "totalPulls": 45,
+  "updatedAt": "2026-09-22T16:49:12.790Z",
   "lastPull": {
-    "id": 773,
-    "name": "silvally",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
+    "id": 898,
+    "name": "calyrex",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
     "types": [
-      "normal"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 570,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-09-22T11:58:43.438Z"
+    "pulledAt": "2026-09-22T16:49:12.790Z"
   },
   "pulls": [
+    {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T16:49:12.790Z"
+    },
     {
       "id": 773,
       "name": "silvally",
@@ -116,18 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-09-20T23:20:14.699Z"
-    },
-    {
-      "id": 690,
-      "name": "skrelp",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/690.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-09-20T21:20:08.427Z"
     }
   ],
   "pokemon": {
@@ -655,6 +656,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T21:00:01.434Z",
       "lastPulledAt": "2026-09-18T21:00:01.434Z"
+    },
+    "898": {
+      "id": 898,
+      "name": "calyrex",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/898.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-22T16:49:12.790Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-22T16:49:12.790Z",
+      "lastPulledAt": "2026-09-22T16:49:12.790Z"
     },
     "944": {
       "id": 944,

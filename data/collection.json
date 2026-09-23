@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 50,
-  "updatedAt": "2026-09-23T12:03:28.194Z",
+  "totalPulls": 51,
+  "updatedAt": "2026-09-23T16:53:15.252Z",
   "lastPull": {
-    "id": 991,
-    "name": "iron-bundle",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/991.png",
+    "id": 740,
+    "name": "crabominable",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
     "types": [
-      "ice",
-      "water"
+      "fighting",
+      "ice"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-23T12:03:28.194Z"
+    "totalStats": 478,
+    "grade": "R",
+    "pulledAt": "2026-09-23T16:53:15.252Z"
   },
   "pulls": [
+    {
+      "id": 740,
+      "name": "crabominable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-09-23T16:53:15.252Z"
+    },
     {
       "id": 991,
       "name": "iron-bundle",
@@ -118,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:11:28.516Z"
-    },
-    {
-      "id": 1011,
-      "name": "dipplin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1011.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-09-21T22:38:34.108Z"
     }
   ],
   "pokemon": {
@@ -612,6 +612,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:55:00.402Z",
       "lastPulledAt": "2026-09-20T18:55:00.402Z"
+    },
+    "740": {
+      "id": 740,
+      "name": "crabominable",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
+      "types": [
+        "fighting",
+        "ice"
+      ],
+      "totalStats": 478,
+      "grade": "R",
+      "pulledAt": "2026-09-23T16:53:15.252Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-23T16:53:15.252Z",
+      "lastPulledAt": "2026-09-23T16:53:15.252Z"
     },
     "769": {
       "id": 769,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 52,
-  "updatedAt": "2026-09-23T20:03:37.964Z",
+  "totalPulls": 53,
+  "updatedAt": "2026-09-23T22:55:42.831Z",
   "lastPull": {
-    "id": 153,
-    "name": "bayleef",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/153.png",
+    "id": 598,
+    "name": "ferrothorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
     "types": [
-      "grass"
+      "grass",
+      "steel"
     ],
-    "totalStats": 405,
+    "totalStats": 489,
     "grade": "R",
-    "pulledAt": "2026-09-23T20:03:37.964Z"
+    "pulledAt": "2026-09-23T22:55:42.831Z"
   },
   "pulls": [
+    {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-09-23T22:55:42.831Z"
+    },
     {
       "id": 153,
       "name": "bayleef",
@@ -117,17 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T11:58:43.438Z"
-    },
-    {
-      "id": 428,
-      "name": "lopunny",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/428.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-09-22T06:21:17.919Z"
     }
   ],
   "pokemon": {
@@ -542,10 +544,10 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-09-19T06:02:09.477Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:02:09.477Z",
-      "lastPulledAt": "2026-09-19T06:02:09.477Z"
+      "lastPulledAt": "2026-09-23T22:55:42.831Z"
     },
     "602": {
       "id": 602,

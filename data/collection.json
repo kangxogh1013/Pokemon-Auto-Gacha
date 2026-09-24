@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 53,
-  "updatedAt": "2026-09-23T22:55:42.831Z",
+  "totalPulls": 54,
+  "updatedAt": "2026-09-24T01:16:18.125Z",
   "lastPull": {
-    "id": 598,
-    "name": "ferrothorn",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+    "id": 915,
+    "name": "lechonk",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
     "types": [
-      "grass",
-      "steel"
+      "normal"
     ],
-    "totalStats": 489,
-    "grade": "R",
-    "pulledAt": "2026-09-23T22:55:42.831Z"
+    "totalStats": 254,
+    "grade": "N",
+    "pulledAt": "2026-09-24T01:16:18.125Z"
   },
   "pulls": [
+    {
+      "id": 915,
+      "name": "lechonk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 254,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:16:18.125Z"
+    },
     {
       "id": 598,
       "name": "ferrothorn",
@@ -119,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-22T16:49:12.790Z"
-    },
-    {
-      "id": 773,
-      "name": "silvally",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/773.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T11:58:43.438Z"
     }
   ],
   "pokemon": {
@@ -751,6 +750,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T22:52:25.218Z",
       "lastPulledAt": "2026-09-22T22:52:25.218Z"
+    },
+    "915": {
+      "id": 915,
+      "name": "lechonk",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 254,
+      "grade": "N",
+      "pulledAt": "2026-09-24T01:16:18.125Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T01:16:18.125Z",
+      "lastPulledAt": "2026-09-24T01:16:18.125Z"
     },
     "921": {
       "id": 921,

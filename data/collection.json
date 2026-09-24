@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 58,
-  "updatedAt": "2026-09-24T20:28:15.113Z",
+  "totalPulls": 59,
+  "updatedAt": "2026-09-24T23:23:16.144Z",
   "lastPull": {
-    "id": 58,
-    "name": "growlithe",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/58.png",
+    "id": 41,
+    "name": "zubat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
     "types": [
-      "fire"
+      "poison",
+      "flying"
     ],
-    "totalStats": 350,
+    "totalStats": 245,
     "grade": "N",
-    "pulledAt": "2026-09-24T20:28:15.113Z"
+    "pulledAt": "2026-09-24T23:23:16.144Z"
   },
   "pulls": [
+    {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:23:16.144Z"
+    },
     {
       "id": 58,
       "name": "growlithe",
@@ -117,18 +130,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-23T12:03:28.194Z"
-    },
-    {
-      "id": 71,
-      "name": "victreebel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/71.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-23T06:29:53.101Z"
     }
   ],
   "pokemon": {
@@ -146,6 +147,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:01:57.107Z",
       "lastPulledAt": "2026-09-19T10:53:23.927Z"
+    },
+    "41": {
+      "id": 41,
+      "name": "zubat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 245,
+      "grade": "N",
+      "pulledAt": "2026-09-24T23:23:16.144Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-24T23:23:16.144Z",
+      "lastPulledAt": "2026-09-24T23:23:16.144Z"
     },
     "48": {
       "id": 48,

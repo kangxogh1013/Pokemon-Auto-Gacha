@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 56,
-  "updatedAt": "2026-09-24T11:58:11.867Z",
+  "totalPulls": 57,
+  "updatedAt": "2026-09-24T17:02:16.306Z",
   "lastPull": {
-    "id": 956,
-    "name": "espathra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/956.png",
+    "id": 598,
+    "name": "ferrothorn",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
     "types": [
-      "psychic"
+      "grass",
+      "steel"
     ],
-    "totalStats": 481,
+    "totalStats": 489,
     "grade": "R",
-    "pulledAt": "2026-09-24T11:58:11.867Z"
+    "pulledAt": "2026-09-24T17:02:16.306Z"
   },
   "pulls": [
+    {
+      "id": 598,
+      "name": "ferrothorn",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/598.png",
+      "types": [
+        "grass",
+        "steel"
+      ],
+      "totalStats": 489,
+      "grade": "R",
+      "pulledAt": "2026-09-24T17:02:16.306Z"
+    },
     {
       "id": 956,
       "name": "espathra",
@@ -117,18 +130,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-23T01:20:40.256Z"
-    },
-    {
-      "id": 914,
-      "name": "quaquaval",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/914.png",
-      "types": [
-        "water",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-22T22:52:25.218Z"
     }
   ],
   "pokemon": {
@@ -559,10 +560,10 @@
       "totalStats": 489,
       "grade": "R",
       "pulledAt": "2026-09-19T06:02:09.477Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T06:02:09.477Z",
-      "lastPulledAt": "2026-09-23T22:55:42.831Z"
+      "lastPulledAt": "2026-09-24T17:02:16.306Z"
     },
     "602": {
       "id": 602,

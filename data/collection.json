@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 60,
-  "updatedAt": "2026-09-25T01:46:36.062Z",
+  "totalPulls": 61,
+  "updatedAt": "2026-09-25T06:43:25.948Z",
   "lastPull": {
-    "id": 391,
-    "name": "monferno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "id": 652,
+    "name": "chesnaught",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
     "types": [
-      "fire",
+      "grass",
       "fighting"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-25T01:46:36.062Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-09-25T06:43:25.948Z"
   },
   "pulls": [
+    {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T06:43:25.948Z"
+    },
     {
       "id": 391,
       "name": "monferno",
@@ -118,18 +130,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-23T20:03:37.964Z"
-    },
-    {
-      "id": 740,
-      "name": "crabominable",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/740.png",
-      "types": [
-        "fighting",
-        "ice"
-      ],
-      "totalStats": 478,
-      "grade": "R",
-      "pulledAt": "2026-09-23T16:53:15.252Z"
     }
   ],
   "pokemon": {
@@ -642,6 +642,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:27:03.727Z",
       "lastPulledAt": "2026-09-21T01:27:03.727Z"
+    },
+    "652": {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-09-25T06:43:25.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-25T06:43:25.948Z",
+      "lastPulledAt": "2026-09-25T06:43:25.948Z"
     },
     "658": {
       "id": 658,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 69,
-  "updatedAt": "2026-09-26T16:41:01.112Z",
+  "totalPulls": 70,
+  "updatedAt": "2026-09-26T19:27:43.936Z",
   "lastPull": {
-    "id": 847,
-    "name": "barraskewda",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+    "id": 723,
+    "name": "dartrix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
     "types": [
-      "water"
+      "grass",
+      "flying"
     ],
-    "totalStats": 490,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-09-26T16:41:01.112Z"
+    "pulledAt": "2026-09-26T19:27:43.936Z"
   },
   "pulls": [
+    {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T19:27:43.936Z"
+    },
     {
       "id": 847,
       "name": "barraskewda",
@@ -117,18 +130,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-25T06:43:25.948Z"
-    },
-    {
-      "id": 391,
-      "name": "monferno",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
-      "types": [
-        "fire",
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-25T01:46:36.062Z"
     }
   ],
   "pokemon": {
@@ -768,6 +769,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T18:55:00.402Z",
       "lastPulledAt": "2026-09-20T18:55:00.402Z"
+    },
+    "723": {
+      "id": 723,
+      "name": "dartrix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+      "types": [
+        "grass",
+        "flying"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-09-26T19:27:43.936Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T19:27:43.936Z",
+      "lastPulledAt": "2026-09-26T19:27:43.936Z"
     },
     "740": {
       "id": 740,

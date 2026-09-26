@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 68,
-  "updatedAt": "2026-09-26T12:26:54.100Z",
+  "totalPulls": 69,
+  "updatedAt": "2026-09-26T16:41:01.112Z",
   "lastPull": {
-    "id": 278,
-    "name": "wingull",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/278.png",
+    "id": 847,
+    "name": "barraskewda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
     "types": [
-      "water",
-      "flying"
+      "water"
     ],
-    "totalStats": 270,
-    "grade": "N",
-    "pulledAt": "2026-09-26T12:26:54.100Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-09-26T16:41:01.112Z"
   },
   "pulls": [
+    {
+      "id": 847,
+      "name": "barraskewda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-09-26T16:41:01.112Z"
+    },
     {
       "id": 278,
       "name": "wingull",
@@ -119,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-25T01:46:36.062Z"
-    },
-    {
-      "id": 41,
-      "name": "zubat",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/41.png",
-      "types": [
-        "poison",
-        "flying"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-24T23:23:16.144Z"
     }
   ],
   "pokemon": {
@@ -873,10 +871,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-25T23:37:57.481Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:37:57.481Z",
-      "lastPulledAt": "2026-09-25T23:37:57.481Z"
+      "lastPulledAt": "2026-09-26T16:41:01.112Z"
     },
     "879": {
       "id": 879,

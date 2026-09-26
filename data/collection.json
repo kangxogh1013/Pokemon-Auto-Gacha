@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 70,
-  "updatedAt": "2026-09-26T19:27:43.936Z",
+  "totalPulls": 71,
+  "updatedAt": "2026-09-26T22:09:34.150Z",
   "lastPull": {
-    "id": 723,
-    "name": "dartrix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
+    "id": 229,
+    "name": "houndoom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
     "types": [
-      "grass",
-      "flying"
+      "dark",
+      "fire"
     ],
-    "totalStats": 420,
-    "grade": "R",
-    "pulledAt": "2026-09-26T19:27:43.936Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-26T22:09:34.150Z"
   },
   "pulls": [
+    {
+      "id": 229,
+      "name": "houndoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T22:09:34.150Z"
+    },
     {
       "id": 723,
       "name": "dartrix",
@@ -118,18 +130,6 @@
       "totalStats": 515,
       "grade": "SR",
       "pulledAt": "2026-09-25T12:20:54.856Z"
-    },
-    {
-      "id": 652,
-      "name": "chesnaught",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-09-25T06:43:25.948Z"
     }
   ],
   "pokemon": {
@@ -332,6 +332,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T06:51:51.964Z",
       "lastPulledAt": "2026-09-16T06:51:51.964Z"
+    },
+    "229": {
+      "id": 229,
+      "name": "houndoom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/229.png",
+      "types": [
+        "dark",
+        "fire"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-26T22:09:34.150Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-26T22:09:34.150Z",
+      "lastPulledAt": "2026-09-26T22:09:34.150Z"
     },
     "278": {
       "id": 278,

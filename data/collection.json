@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 75,
-  "updatedAt": "2026-09-27T15:33:52.566Z",
+  "totalPulls": 76,
+  "updatedAt": "2026-09-27T19:15:38.451Z",
   "lastPull": {
-    "id": 900,
-    "name": "kleavor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
+    "id": 11,
+    "name": "metapod",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
     "types": [
-      "bug",
-      "rock"
+      "bug"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-27T15:33:52.566Z"
+    "totalStats": 205,
+    "grade": "N",
+    "pulledAt": "2026-09-27T19:15:38.451Z"
   },
   "pulls": [
+    {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-27T19:15:38.451Z"
+    },
     {
       "id": 900,
       "name": "kleavor",
@@ -117,21 +127,24 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-26T07:33:33.816Z"
-    },
-    {
-      "id": 16,
-      "name": "pidgey",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/16.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 251,
-      "grade": "N",
-      "pulledAt": "2026-09-26T02:00:00.272Z"
     }
   ],
   "pokemon": {
+    "11": {
+      "id": 11,
+      "name": "metapod",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-09-27T19:15:38.451Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T19:15:38.451Z",
+      "lastPulledAt": "2026-09-27T19:15:38.451Z"
+    },
     "16": {
       "id": 16,
       "name": "pidgey",

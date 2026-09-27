@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 76,
-  "updatedAt": "2026-09-27T19:15:38.451Z",
+  "totalPulls": 77,
+  "updatedAt": "2026-09-27T22:21:14.722Z",
   "lastPull": {
-    "id": 11,
-    "name": "metapod",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/11.png",
+    "id": 140,
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "types": [
-      "bug"
+      "rock",
+      "water"
     ],
-    "totalStats": 205,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-09-27T19:15:38.451Z"
+    "pulledAt": "2026-09-27T22:21:14.722Z"
   },
   "pulls": [
+    {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-27T22:21:14.722Z"
+    },
     {
       "id": 11,
       "name": "metapod",
@@ -116,17 +129,6 @@
       "totalStats": 270,
       "grade": "N",
       "pulledAt": "2026-09-26T12:26:54.100Z"
-    },
-    {
-      "id": 832,
-      "name": "dubwool",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-26T07:33:33.816Z"
     }
   ],
   "pokemon": {
@@ -268,6 +270,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:29:53.101Z",
       "lastPulledAt": "2026-09-23T06:29:53.101Z"
+    },
+    "140": {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-09-27T22:21:14.722Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-27T22:21:14.722Z",
+      "lastPulledAt": "2026-09-27T22:21:14.722Z"
     },
     "152": {
       "id": 152,

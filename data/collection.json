@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 78,
-  "updatedAt": "2026-09-28T01:03:58.307Z",
+  "totalPulls": 79,
+  "updatedAt": "2026-09-28T06:48:57.802Z",
   "lastPull": {
-    "id": 126,
-    "name": "magmar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
+    "id": 301,
+    "name": "delcatty",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
     "types": [
-      "fire"
+      "normal"
     ],
-    "totalStats": 495,
+    "totalStats": 400,
     "grade": "R",
-    "pulledAt": "2026-09-28T01:03:58.307Z"
+    "pulledAt": "2026-09-28T06:48:57.802Z"
   },
   "pulls": [
+    {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-28T06:48:57.802Z"
+    },
     {
       "id": 126,
       "name": "magmar",
@@ -116,17 +127,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-09-26T19:27:43.936Z"
-    },
-    {
-      "id": 847,
-      "name": "barraskewda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/847.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-09-26T16:41:01.112Z"
     }
   ],
   "pokemon": {
@@ -438,6 +438,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T10:51:52.848Z",
       "lastPulledAt": "2026-09-27T10:51:52.848Z"
+    },
+    "301": {
+      "id": 301,
+      "name": "delcatty",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-28T06:48:57.802Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T06:48:57.802Z",
+      "lastPulledAt": "2026-09-28T06:48:57.802Z"
     },
     "304": {
       "id": 304,

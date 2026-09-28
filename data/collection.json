@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 79,
-  "updatedAt": "2026-09-28T06:48:57.802Z",
+  "totalPulls": 80,
+  "updatedAt": "2026-09-28T14:39:21.247Z",
   "lastPull": {
-    "id": 301,
-    "name": "delcatty",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
+    "id": 283,
+    "name": "surskit",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
     "types": [
-      "normal"
+      "bug",
+      "water"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-09-28T06:48:57.802Z"
+    "totalStats": 269,
+    "grade": "N",
+    "pulledAt": "2026-09-28T14:39:21.247Z"
   },
   "pulls": [
+    {
+      "id": 283,
+      "name": "surskit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-28T14:39:21.247Z"
+    },
     {
       "id": 301,
       "name": "delcatty",
@@ -115,18 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-26T22:09:34.150Z"
-    },
-    {
-      "id": 723,
-      "name": "dartrix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/723.png",
-      "types": [
-        "grass",
-        "flying"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-09-26T19:27:43.936Z"
     }
   ],
   "pokemon": {
@@ -407,6 +408,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T12:26:54.100Z",
       "lastPulledAt": "2026-09-26T12:26:54.100Z"
+    },
+    "283": {
+      "id": 283,
+      "name": "surskit",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/283.png",
+      "types": [
+        "bug",
+        "water"
+      ],
+      "totalStats": 269,
+      "grade": "N",
+      "pulledAt": "2026-09-28T14:39:21.247Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-28T14:39:21.247Z",
+      "lastPulledAt": "2026-09-28T14:39:21.247Z"
     },
     "286": {
       "id": 286,

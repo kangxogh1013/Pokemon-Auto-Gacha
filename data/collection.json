@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 83,
-  "updatedAt": "2026-09-29T06:17:01.756Z",
+  "totalPulls": 84,
+  "updatedAt": "2026-09-29T13:07:52.873Z",
   "lastPull": {
-    "id": 960,
-    "name": "wiglett",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
+    "id": 349,
+    "name": "feebas",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
     "types": [
       "water"
     ],
-    "totalStats": 245,
+    "totalStats": 200,
     "grade": "N",
-    "pulledAt": "2026-09-29T06:17:01.756Z"
+    "pulledAt": "2026-09-29T13:07:52.873Z"
   },
   "pulls": [
+    {
+      "id": 349,
+      "name": "feebas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-09-29T13:07:52.873Z"
+    },
     {
       "id": 960,
       "name": "wiglett",
@@ -115,17 +126,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-27T15:33:52.566Z"
-    },
-    {
-      "id": 299,
-      "name": "nosepass",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/299.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 375,
-      "grade": "N",
-      "pulledAt": "2026-09-27T10:51:52.848Z"
     }
   ],
   "pokemon": {
@@ -514,6 +514,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:20:40.256Z",
       "lastPulledAt": "2026-09-23T01:20:40.256Z"
+    },
+    "349": {
+      "id": 349,
+      "name": "feebas",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 200,
+      "grade": "N",
+      "pulledAt": "2026-09-29T13:07:52.873Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-29T13:07:52.873Z",
+      "lastPulledAt": "2026-09-29T13:07:52.873Z"
     },
     "367": {
       "id": 367,

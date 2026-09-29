@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 84,
-  "updatedAt": "2026-09-29T13:07:52.873Z",
+  "totalPulls": 85,
+  "updatedAt": "2026-09-29T18:38:26.064Z",
   "lastPull": {
-    "id": 349,
-    "name": "feebas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
+    "id": 524,
+    "name": "roggenrola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
     "types": [
-      "water"
+      "rock"
     ],
-    "totalStats": 200,
+    "totalStats": 280,
     "grade": "N",
-    "pulledAt": "2026-09-29T13:07:52.873Z"
+    "pulledAt": "2026-09-29T18:38:26.064Z"
   },
   "pulls": [
+    {
+      "id": 524,
+      "name": "roggenrola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-09-29T18:38:26.064Z"
+    },
     {
       "id": 349,
       "name": "feebas",
@@ -114,18 +125,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-09-27T19:15:38.451Z"
-    },
-    {
-      "id": 900,
-      "name": "kleavor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/900.png",
-      "types": [
-        "bug",
-        "rock"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-27T15:33:52.566Z"
     }
   ],
   "pokemon": {
@@ -740,10 +739,10 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-16T01:43:30.119Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
-      "lastPulledAt": "2026-09-16T01:43:30.119Z"
+      "lastPulledAt": "2026-09-29T18:38:26.064Z"
     },
     "569": {
       "id": 569,

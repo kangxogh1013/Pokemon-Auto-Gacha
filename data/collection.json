@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 88,
-  "updatedAt": "2026-09-30T05:51:26.948Z",
+  "totalPulls": 89,
+  "updatedAt": "2026-09-30T11:53:00.079Z",
   "lastPull": {
-    "id": 659,
-    "name": "bunnelby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+    "id": 320,
+    "name": "wailmer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 237,
-    "grade": "N",
-    "pulledAt": "2026-09-30T05:51:26.948Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-09-30T11:53:00.079Z"
   },
   "pulls": [
+    {
+      "id": 320,
+      "name": "wailmer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-09-30T11:53:00.079Z"
+    },
     {
       "id": 659,
       "name": "bunnelby",
@@ -115,17 +126,6 @@
       "totalStats": 269,
       "grade": "N",
       "pulledAt": "2026-09-28T14:39:21.247Z"
-    },
-    {
-      "id": 301,
-      "name": "delcatty",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/301.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-28T06:48:57.802Z"
     }
   ],
   "pokemon": {
@@ -510,10 +510,10 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-23T01:20:40.256Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:20:40.256Z",
-      "lastPulledAt": "2026-09-23T01:20:40.256Z"
+      "lastPulledAt": "2026-09-30T11:53:00.079Z"
     },
     "349": {
       "id": 349,

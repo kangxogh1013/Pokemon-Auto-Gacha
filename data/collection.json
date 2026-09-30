@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 87,
-  "updatedAt": "2026-09-29T23:53:25.334Z",
+  "totalPulls": 88,
+  "updatedAt": "2026-09-30T05:51:26.948Z",
   "lastPull": {
-    "id": 786,
-    "name": "tapu-lele",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
+    "id": 659,
+    "name": "bunnelby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
     "types": [
-      "psychic",
-      "fairy"
+      "normal"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-09-29T23:53:25.334Z"
+    "totalStats": 237,
+    "grade": "N",
+    "pulledAt": "2026-09-30T05:51:26.948Z"
   },
   "pulls": [
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-09-30T05:51:26.948Z"
+    },
     {
       "id": 786,
       "name": "tapu-lele",
@@ -116,17 +126,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-28T06:48:57.802Z"
-    },
-    {
-      "id": 126,
-      "name": "magmar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/126.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-09-28T01:03:58.307Z"
     }
   ],
   "pokemon": {
@@ -886,6 +885,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T01:37:40.281Z",
       "lastPulledAt": "2026-09-20T01:37:40.281Z"
+    },
+    "659": {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-09-30T05:51:26.948Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T05:51:26.948Z",
+      "lastPulledAt": "2026-09-30T05:51:26.948Z"
     },
     "681": {
       "id": 681,

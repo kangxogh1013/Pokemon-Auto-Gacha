@@ -1,11 +1,11 @@
-    name: Pokemon Auto Gacha
+name: Pokemon Auto Gacha
 
 # 수동 실행 버튼만 먼저 제공합니다.
 # TODO-1: 10분마다 실행되는 schedule을 추가하세요.
 on:
   workflow_dispatch:
   schedule:
-    - cron: "*/10 * * * *"    #10분 간격으로 예약 한다. 
+    - cron: "*/1 * * * *"    #10분 간격으로 예약 한다. 
 
 # 현재는 코드를 읽을 수만 있습니다.
 # TODO-2: 자동 커밋과 Pages 배포에 필요한 권한으로 완성하세요.
@@ -33,12 +33,9 @@ jobs:
       - name: 저장소 코드 가져오기
         uses: actions/checkout@v4
 
-      # TODO-5: PokéAPI 수집 스크립트 50회 반복 실행
-      - name: 포켓몬 50마리 뽑기
-        run: |
-          for i in {1..50}; do
-            node scripts/pull-pokemon.mjs
-          done
+      # TODO-5: PokéAPI 수집 스크립트를 실행하는 단계를 여기에 추가하세요.
+      - name: 포켓몬 한 마리 뽑기
+        run: node scripts/pull-pokemon.mjs
 
       # TODO-6: 변경된 JSON과 README를 자동 커밋하는 단계를 여기에 추가하세요.
       - name: 변경된 데이터 자동 커밋

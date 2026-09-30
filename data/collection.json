@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 90,
-  "updatedAt": "2026-09-30T17:42:53.132Z",
+  "totalPulls": 91,
+  "updatedAt": "2026-09-30T21:32:58.886Z",
   "lastPull": {
-    "id": 394,
-    "name": "prinplup",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+    "id": 123,
+    "name": "scyther",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
     "types": [
-      "water"
+      "bug",
+      "flying"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-09-30T17:42:53.132Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-09-30T21:32:58.886Z"
   },
   "pulls": [
+    {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T21:32:58.886Z"
+    },
     {
       "id": 394,
       "name": "prinplup",
@@ -114,17 +127,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-09-29T00:44:48.077Z"
-    },
-    {
-      "id": 790,
-      "name": "cosmoem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-09-28T20:50:05.986Z"
     }
   ],
   "pokemon": {
@@ -281,6 +283,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:29:53.101Z",
       "lastPulledAt": "2026-09-23T06:29:53.101Z"
+    },
+    "123": {
+      "id": 123,
+      "name": "scyther",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-09-30T21:32:58.886Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-09-30T21:32:58.886Z",
+      "lastPulledAt": "2026-09-30T21:32:58.886Z"
     },
     "126": {
       "id": 126,

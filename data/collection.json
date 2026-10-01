@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 91,
-  "updatedAt": "2026-09-30T21:32:58.886Z",
+  "totalPulls": 92,
+  "updatedAt": "2026-10-01T00:49:21.066Z",
   "lastPull": {
-    "id": 123,
-    "name": "scyther",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/123.png",
+    "id": 290,
+    "name": "nincada",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
     "types": [
       "bug",
-      "flying"
+      "ground"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-09-30T21:32:58.886Z"
+    "totalStats": 266,
+    "grade": "N",
+    "pulledAt": "2026-10-01T00:49:21.066Z"
   },
   "pulls": [
+    {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-10-01T00:49:21.066Z"
+    },
     {
       "id": 123,
       "name": "scyther",
@@ -116,17 +128,6 @@
       "totalStats": 245,
       "grade": "N",
       "pulledAt": "2026-09-29T06:17:01.756Z"
-    },
-    {
-      "id": 52,
-      "name": "meowth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/52.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 290,
-      "grade": "N",
-      "pulledAt": "2026-09-29T00:44:48.077Z"
     }
   ],
   "pokemon": {
@@ -470,6 +471,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T06:15:26.045Z",
       "lastPulledAt": "2026-09-24T06:15:26.045Z"
+    },
+    "290": {
+      "id": 290,
+      "name": "nincada",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+      "types": [
+        "bug",
+        "ground"
+      ],
+      "totalStats": 266,
+      "grade": "N",
+      "pulledAt": "2026-10-01T00:49:21.066Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T00:49:21.066Z",
+      "lastPulledAt": "2026-10-01T00:49:21.066Z"
     },
     "299": {
       "id": 299,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 93,
-  "updatedAt": "2026-10-01T06:42:01.689Z",
+  "totalPulls": 94,
+  "updatedAt": "2026-10-01T13:57:18.767Z",
   "lastPull": {
-    "id": 551,
-    "name": "sandile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+    "id": 933,
+    "name": "naclstack",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
     "types": [
-      "ground",
-      "dark"
+      "rock"
     ],
-    "totalStats": 292,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-10-01T06:42:01.689Z"
+    "pulledAt": "2026-10-01T13:57:18.767Z"
   },
   "pulls": [
+    {
+      "id": 933,
+      "name": "naclstack",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-01T13:57:18.767Z"
+    },
     {
       "id": 551,
       "name": "sandile",
@@ -118,17 +128,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-09-29T18:38:26.064Z"
-    },
-    {
-      "id": 349,
-      "name": "feebas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/349.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 200,
-      "grade": "N",
-      "pulledAt": "2026-09-29T13:07:52.873Z"
     }
   ],
   "pokemon": {
@@ -1277,6 +1276,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:56:49.667Z",
       "lastPulledAt": "2026-09-22T19:56:49.667Z"
+    },
+    "933": {
+      "id": 933,
+      "name": "naclstack",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-01T13:57:18.767Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T13:57:18.767Z",
+      "lastPulledAt": "2026-10-01T13:57:18.767Z"
     },
     "944": {
       "id": 944,

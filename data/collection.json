@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 95,
-  "updatedAt": "2026-10-01T19:26:39.579Z",
+  "totalPulls": 96,
+  "updatedAt": "2026-10-01T23:23:15.835Z",
   "lastPull": {
-    "id": 268,
-    "name": "cascoon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+    "id": 413,
+    "name": "wormadam-plant",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
     "types": [
-      "bug"
+      "bug",
+      "grass"
     ],
-    "totalStats": 205,
-    "grade": "N",
-    "pulledAt": "2026-10-01T19:26:39.579Z"
+    "totalStats": 424,
+    "grade": "R",
+    "pulledAt": "2026-10-01T23:23:15.835Z"
   },
   "pulls": [
+    {
+      "id": 413,
+      "name": "wormadam-plant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 424,
+      "grade": "R",
+      "pulledAt": "2026-10-01T23:23:15.835Z"
+    },
     {
       "id": 268,
       "name": "cascoon",
@@ -116,18 +129,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-29T23:53:25.334Z"
-    },
-    {
-      "id": 681,
-      "name": "aegislash-shield",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/681.png",
-      "types": [
-        "steel",
-        "ghost"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T22:38:26.873Z"
     }
   ],
   "pokemon": {
@@ -655,6 +656,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T23:34:51.067Z",
       "lastPulledAt": "2026-09-19T23:34:51.067Z"
+    },
+    "413": {
+      "id": 413,
+      "name": "wormadam-plant",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 424,
+      "grade": "R",
+      "pulledAt": "2026-10-01T23:23:15.835Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T23:23:15.835Z",
+      "lastPulledAt": "2026-10-01T23:23:15.835Z"
     },
     "424": {
       "id": 424,

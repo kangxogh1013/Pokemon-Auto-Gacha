@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 92,
-  "updatedAt": "2026-10-01T00:49:21.066Z",
+  "totalPulls": 93,
+  "updatedAt": "2026-10-01T06:42:01.689Z",
   "lastPull": {
-    "id": 290,
-    "name": "nincada",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "id": 551,
+    "name": "sandile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
     "types": [
-      "bug",
-      "ground"
+      "ground",
+      "dark"
     ],
-    "totalStats": 266,
+    "totalStats": 292,
     "grade": "N",
-    "pulledAt": "2026-10-01T00:49:21.066Z"
+    "pulledAt": "2026-10-01T06:42:01.689Z"
   },
   "pulls": [
+    {
+      "id": 551,
+      "name": "sandile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-01T06:42:01.689Z"
+    },
     {
       "id": 290,
       "name": "nincada",
@@ -117,17 +129,6 @@
       "totalStats": 200,
       "grade": "N",
       "pulledAt": "2026-09-29T13:07:52.873Z"
-    },
-    {
-      "id": 960,
-      "name": "wiglett",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/960.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 245,
-      "grade": "N",
-      "pulledAt": "2026-09-29T06:17:01.756Z"
     }
   ],
   "pokemon": {
@@ -793,6 +794,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:43:30.119Z",
       "lastPulledAt": "2026-09-29T18:38:26.064Z"
+    },
+    "551": {
+      "id": 551,
+      "name": "sandile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
+      "types": [
+        "ground",
+        "dark"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-01T06:42:01.689Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T06:42:01.689Z",
+      "lastPulledAt": "2026-10-01T06:42:01.689Z"
     },
     "569": {
       "id": 569,

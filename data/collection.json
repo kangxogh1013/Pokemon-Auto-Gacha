@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 94,
-  "updatedAt": "2026-10-01T13:57:18.767Z",
+  "totalPulls": 95,
+  "updatedAt": "2026-10-01T19:26:39.579Z",
   "lastPull": {
-    "id": 933,
-    "name": "naclstack",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    "id": 268,
+    "name": "cascoon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
     "types": [
-      "rock"
+      "bug"
     ],
-    "totalStats": 355,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-10-01T13:57:18.767Z"
+    "pulledAt": "2026-10-01T19:26:39.579Z"
   },
   "pulls": [
+    {
+      "id": 268,
+      "name": "cascoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-01T19:26:39.579Z"
+    },
     {
       "id": 933,
       "name": "naclstack",
@@ -117,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-29T22:38:26.873Z"
-    },
-    {
-      "id": 524,
-      "name": "roggenrola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-09-29T18:38:26.064Z"
     }
   ],
   "pokemon": {
@@ -423,6 +423,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T22:09:34.150Z",
       "lastPulledAt": "2026-09-26T22:09:34.150Z"
+    },
+    "268": {
+      "id": 268,
+      "name": "cascoon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/268.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-01T19:26:39.579Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-01T19:26:39.579Z",
+      "lastPulledAt": "2026-10-01T19:26:39.579Z"
     },
     "278": {
       "id": 278,

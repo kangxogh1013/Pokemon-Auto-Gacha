@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 97,
-  "updatedAt": "2026-10-02T02:28:21.081Z",
+  "totalPulls": 98,
+  "updatedAt": "2026-10-02T08:56:01.107Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 194,
+    "name": "wooper",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
     "types": [
-      "dark",
-      "flying"
+      "water",
+      "ground"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-10-02T02:28:21.081Z"
+    "totalStats": 210,
+    "grade": "N",
+    "pulledAt": "2026-10-02T08:56:01.107Z"
   },
   "pulls": [
+    {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-02T08:56:01.107Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -118,17 +130,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-30T11:53:00.079Z"
-    },
-    {
-      "id": 659,
-      "name": "bunnelby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-09-30T05:51:26.948Z"
     }
   ],
   "pokemon": {
@@ -378,6 +379,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:13:42.383Z",
       "lastPulledAt": "2026-09-18T18:13:42.383Z"
+    },
+    "194": {
+      "id": 194,
+      "name": "wooper",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/194.png",
+      "types": [
+        "water",
+        "ground"
+      ],
+      "totalStats": 210,
+      "grade": "N",
+      "pulledAt": "2026-10-02T08:56:01.107Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T08:56:01.107Z",
+      "lastPulledAt": "2026-10-02T08:56:01.107Z"
     },
     "209": {
       "id": 209,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 99,
-  "updatedAt": "2026-10-02T15:41:45.008Z",
+  "totalPulls": 100,
+  "updatedAt": "2026-10-02T20:10:14.762Z",
   "lastPull": {
-    "id": 246,
-    "name": "larvitar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/246.png",
+    "id": 190,
+    "name": "aipom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
     "types": [
-      "rock",
-      "ground"
+      "normal"
     ],
-    "totalStats": 300,
+    "totalStats": 360,
     "grade": "N",
-    "pulledAt": "2026-10-02T15:41:45.008Z"
+    "pulledAt": "2026-10-02T20:10:14.762Z"
   },
   "pulls": [
+    {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-02T20:10:14.762Z"
+    },
     {
       "id": 246,
       "name": "larvitar",
@@ -120,17 +130,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-09-30T21:32:58.886Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-09-30T17:42:53.132Z"
     }
   ],
   "pokemon": {
@@ -380,6 +379,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:13:42.383Z",
       "lastPulledAt": "2026-09-18T18:13:42.383Z"
+    },
+    "190": {
+      "id": 190,
+      "name": "aipom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/190.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 360,
+      "grade": "N",
+      "pulledAt": "2026-10-02T20:10:14.762Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T20:10:14.762Z",
+      "lastPulledAt": "2026-10-02T20:10:14.762Z"
     },
     "194": {
       "id": 194,

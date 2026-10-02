@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 96,
-  "updatedAt": "2026-10-01T23:23:15.835Z",
+  "totalPulls": 97,
+  "updatedAt": "2026-10-02T02:28:21.081Z",
   "lastPull": {
-    "id": 413,
-    "name": "wormadam-plant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/413.png",
+    "id": 630,
+    "name": "mandibuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
     "types": [
-      "bug",
-      "grass"
+      "dark",
+      "flying"
     ],
-    "totalStats": 424,
-    "grade": "R",
-    "pulledAt": "2026-10-01T23:23:15.835Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-10-02T02:28:21.081Z"
   },
   "pulls": [
+    {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T02:28:21.081Z"
+    },
     {
       "id": 413,
       "name": "wormadam-plant",
@@ -117,18 +129,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-09-30T05:51:26.948Z"
-    },
-    {
-      "id": 786,
-      "name": "tapu-lele",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/786.png",
-      "types": [
-        "psychic",
-        "fairy"
-      ],
-      "totalStats": 570,
-      "grade": "SR",
-      "pulledAt": "2026-09-29T23:53:25.334Z"
     }
   ],
   "pokemon": {
@@ -950,6 +950,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T01:27:03.727Z",
       "lastPulledAt": "2026-09-21T01:27:03.727Z"
+    },
+    "630": {
+      "id": 630,
+      "name": "mandibuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+      "types": [
+        "dark",
+        "flying"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-02T02:28:21.081Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-02T02:28:21.081Z",
+      "lastPulledAt": "2026-10-02T02:28:21.081Z"
     },
     "652": {
       "id": 652,

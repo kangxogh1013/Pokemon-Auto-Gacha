@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 102,
-  "updatedAt": "2026-10-03T03:01:59.663Z",
+  "totalPulls": 103,
+  "updatedAt": "2026-10-03T09:04:08.198Z",
   "lastPull": {
-    "id": 644,
-    "name": "zekrom",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+    "id": 443,
+    "name": "gible",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
     "types": [
       "dragon",
-      "electric"
+      "ground"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-03T03:01:59.663Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-03T09:04:08.198Z"
   },
   "pulls": [
+    {
+      "id": 443,
+      "name": "gible",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T09:04:08.198Z"
+    },
     {
       "id": 644,
       "name": "zekrom",
@@ -119,18 +131,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-01T13:57:18.767Z"
-    },
-    {
-      "id": 551,
-      "name": "sandile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/551.png",
-      "types": [
-        "ground",
-        "dark"
-      ],
-      "totalStats": 292,
-      "grade": "N",
-      "pulledAt": "2026-10-01T06:42:01.689Z"
     }
   ],
   "pokemon": {
@@ -782,6 +782,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:47:59.459Z",
       "lastPulledAt": "2026-09-27T05:47:59.459Z"
+    },
+    "443": {
+      "id": 443,
+      "name": "gible",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+      "types": [
+        "dragon",
+        "ground"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T09:04:08.198Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T09:04:08.198Z",
+      "lastPulledAt": "2026-10-03T09:04:08.198Z"
     },
     "445": {
       "id": 445,

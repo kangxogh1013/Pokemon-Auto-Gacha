@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 106,
-  "updatedAt": "2026-10-03T21:10:09.018Z",
+  "totalPulls": 107,
+  "updatedAt": "2026-10-03T23:47:28.094Z",
   "lastPull": {
-    "id": 447,
-    "name": "riolu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
+    "id": 209,
+    "name": "snubbull",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
     "types": [
-      "fighting"
+      "fairy"
     ],
-    "totalStats": 285,
+    "totalStats": 300,
     "grade": "N",
-    "pulledAt": "2026-10-03T21:10:09.018Z"
+    "pulledAt": "2026-10-03T23:47:28.094Z"
   },
   "pulls": [
+    {
+      "id": 209,
+      "name": "snubbull",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/209.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-03T23:47:28.094Z"
+    },
     {
       "id": 447,
       "name": "riolu",
@@ -118,18 +129,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-10-02T08:56:01.107Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-02T02:28:21.081Z"
     }
   ],
   "pokemon": {
@@ -421,10 +420,10 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-09-17T01:22:24.815Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T01:22:24.815Z",
-      "lastPulledAt": "2026-09-17T01:22:24.815Z"
+      "lastPulledAt": "2026-10-03T23:47:28.094Z"
     },
     "217": {
       "id": 217,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 103,
-  "updatedAt": "2026-10-03T09:04:08.198Z",
+  "totalPulls": 104,
+  "updatedAt": "2026-10-03T14:18:05.387Z",
   "lastPull": {
-    "id": 443,
-    "name": "gible",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/443.png",
+    "id": 140,
+    "name": "kabuto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
     "types": [
-      "dragon",
-      "ground"
+      "rock",
+      "water"
     ],
-    "totalStats": 300,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-10-03T09:04:08.198Z"
+    "pulledAt": "2026-10-03T14:18:05.387Z"
   },
   "pulls": [
+    {
+      "id": 140,
+      "name": "kabuto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/140.png",
+      "types": [
+        "rock",
+        "water"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-10-03T14:18:05.387Z"
+    },
     {
       "id": 443,
       "name": "gible",
@@ -120,17 +132,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-01T19:26:39.579Z"
-    },
-    {
-      "id": 933,
-      "name": "naclstack",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-10-01T13:57:18.767Z"
     }
   ],
   "pokemon": {
@@ -330,10 +331,10 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-09-27T22:21:14.722Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:21:14.722Z",
-      "lastPulledAt": "2026-09-27T22:21:14.722Z"
+      "lastPulledAt": "2026-10-03T14:18:05.387Z"
     },
     "152": {
       "id": 152,

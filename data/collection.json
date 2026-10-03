@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 101,
-  "updatedAt": "2026-10-02T23:49:26.703Z",
+  "totalPulls": 102,
+  "updatedAt": "2026-10-03T03:01:59.663Z",
   "lastPull": {
-    "id": 308,
-    "name": "medicham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "id": 644,
+    "name": "zekrom",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
     "types": [
-      "fighting",
-      "psychic"
+      "dragon",
+      "electric"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-02T23:49:26.703Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-10-03T03:01:59.663Z"
   },
   "pulls": [
+    {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T03:01:59.663Z"
+    },
     {
       "id": 308,
       "name": "medicham",
@@ -119,18 +131,6 @@
       "totalStats": 292,
       "grade": "N",
       "pulledAt": "2026-10-01T06:42:01.689Z"
-    },
-    {
-      "id": 290,
-      "name": "nincada",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
-      "types": [
-        "bug",
-        "ground"
-      ],
-      "totalStats": 266,
-      "grade": "N",
-      "pulledAt": "2026-10-01T00:49:21.066Z"
     }
   ],
   "pokemon": {
@@ -1031,6 +1031,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T02:28:21.081Z",
       "lastPulledAt": "2026-10-02T02:28:21.081Z"
+    },
+    "644": {
+      "id": 644,
+      "name": "zekrom",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/644.png",
+      "types": [
+        "dragon",
+        "electric"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-10-03T03:01:59.663Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-03T03:01:59.663Z",
+      "lastPulledAt": "2026-10-03T03:01:59.663Z"
     },
     "652": {
       "id": 652,

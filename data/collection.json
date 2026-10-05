@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 115,
-  "updatedAt": "2026-10-05T15:04:10.756Z",
+  "totalPulls": 116,
+  "updatedAt": "2026-10-05T21:59:38.658Z",
   "lastPull": {
-    "id": 308,
-    "name": "medicham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+    "id": 713,
+    "name": "avalugg",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
     "types": [
-      "fighting",
-      "psychic"
+      "ice"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-05T15:04:10.756Z"
+    "totalStats": 514,
+    "grade": "SR",
+    "pulledAt": "2026-10-05T21:59:38.658Z"
   },
   "pulls": [
+    {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T21:59:38.658Z"
+    },
     {
       "id": 308,
       "name": "medicham",
@@ -119,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-03T23:47:28.094Z"
-    },
-    {
-      "id": 447,
-      "name": "riolu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/447.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-10-03T21:10:09.018Z"
     }
   ],
   "pokemon": {
@@ -1250,6 +1249,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T20:42:23.256Z",
       "lastPulledAt": "2026-09-25T20:42:23.256Z"
+    },
+    "713": {
+      "id": 713,
+      "name": "avalugg",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/713.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 514,
+      "grade": "SR",
+      "pulledAt": "2026-10-05T21:59:38.658Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-05T21:59:38.658Z",
+      "lastPulledAt": "2026-10-05T21:59:38.658Z"
     },
     "721": {
       "id": 721,

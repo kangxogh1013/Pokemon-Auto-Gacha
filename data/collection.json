@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 114,
-  "updatedAt": "2026-10-05T06:19:25.202Z",
+  "totalPulls": 115,
+  "updatedAt": "2026-10-05T15:04:10.756Z",
   "lastPull": {
-    "id": 446,
-    "name": "munchlax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/446.png",
+    "id": 308,
+    "name": "medicham",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
     "types": [
-      "normal"
+      "fighting",
+      "psychic"
     ],
-    "totalStats": 390,
-    "grade": "N",
-    "pulledAt": "2026-10-05T06:19:25.202Z"
+    "totalStats": 410,
+    "grade": "R",
+    "pulledAt": "2026-10-05T15:04:10.756Z"
   },
   "pulls": [
+    {
+      "id": 308,
+      "name": "medicham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/308.png",
+      "types": [
+        "fighting",
+        "psychic"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-05T15:04:10.756Z"
+    },
     {
       "id": 446,
       "name": "munchlax",
@@ -117,17 +130,6 @@
       "totalStats": 285,
       "grade": "N",
       "pulledAt": "2026-10-03T21:10:09.018Z"
-    },
-    {
-      "id": 939,
-      "name": "bellibolt",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/939.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-03T18:02:27.538Z"
     }
   ],
   "pokemon": {
@@ -639,10 +641,10 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-02T23:49:26.703Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:49:26.703Z",
-      "lastPulledAt": "2026-10-02T23:49:26.703Z"
+      "lastPulledAt": "2026-10-05T15:04:10.756Z"
     },
     "320": {
       "id": 320,

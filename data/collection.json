@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 119,
-  "updatedAt": "2026-10-06T15:55:56.848Z",
+  "totalPulls": 120,
+  "updatedAt": "2026-10-06T20:54:10.592Z",
   "lastPull": {
-    "id": 444,
-    "name": "gabite",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/444.png",
+    "id": 169,
+    "name": "crobat",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
     "types": [
-      "dragon",
-      "ground"
+      "poison",
+      "flying"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-06T15:55:56.848Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-06T20:54:10.592Z"
   },
   "pulls": [
+    {
+      "id": 169,
+      "name": "crobat",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/169.png",
+      "types": [
+        "poison",
+        "flying"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-06T20:54:10.592Z"
+    },
     {
       "id": 444,
       "name": "gabite",
@@ -120,18 +132,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-04T18:36:02.478Z"
-    },
-    {
-      "id": 930,
-      "name": "arboliva",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/930.png",
-      "types": [
-        "grass",
-        "normal"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T14:56:56.484Z"
     }
   ],
   "pokemon": {
@@ -393,10 +393,10 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-09-18T18:13:42.383Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T18:13:42.383Z",
-      "lastPulledAt": "2026-09-18T18:13:42.383Z"
+      "lastPulledAt": "2026-10-06T20:54:10.592Z"
     },
     "176": {
       "id": 176,

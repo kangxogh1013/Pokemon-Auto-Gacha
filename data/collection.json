@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 122,
-  "updatedAt": "2026-10-07T06:23:47.602Z",
+  "totalPulls": 123,
+  "updatedAt": "2026-10-07T13:45:12.507Z",
   "lastPull": {
-    "id": 143,
-    "name": "snorlax",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+    "id": 747,
+    "name": "mareanie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
     "types": [
-      "normal"
+      "poison",
+      "water"
     ],
-    "totalStats": 540,
-    "grade": "SR",
-    "pulledAt": "2026-10-07T06:23:47.602Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-07T13:45:12.507Z"
   },
   "pulls": [
+    {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:45:12.507Z"
+    },
     {
       "id": 143,
       "name": "snorlax",
@@ -117,18 +130,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-10-05T06:19:25.202Z"
-    },
-    {
-      "id": 176,
-      "name": "togetic",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/176.png",
-      "types": [
-        "fairy",
-        "flying"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-05T00:44:45.030Z"
     }
   ],
   "pokemon": {
@@ -1358,6 +1359,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T16:53:15.252Z",
       "lastPulledAt": "2026-09-23T16:53:15.252Z"
+    },
+    "747": {
+      "id": 747,
+      "name": "mareanie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
+      "types": [
+        "poison",
+        "water"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-07T13:45:12.507Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T13:45:12.507Z",
+      "lastPulledAt": "2026-10-07T13:45:12.507Z"
     },
     "769": {
       "id": 769,

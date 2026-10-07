@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 121,
-  "updatedAt": "2026-10-07T00:29:50.140Z",
+  "totalPulls": 122,
+  "updatedAt": "2026-10-07T06:23:47.602Z",
   "lastPull": {
-    "id": 531,
-    "name": "audino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/531.png",
+    "id": 143,
+    "name": "snorlax",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
     "types": [
       "normal"
     ],
-    "totalStats": 445,
-    "grade": "R",
-    "pulledAt": "2026-10-07T00:29:50.140Z"
+    "totalStats": 540,
+    "grade": "SR",
+    "pulledAt": "2026-10-07T06:23:47.602Z"
   },
   "pulls": [
+    {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:23:47.602Z"
+    },
     {
       "id": 531,
       "name": "audino",
@@ -118,18 +129,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-05T00:44:45.030Z"
-    },
-    {
-      "id": 668,
-      "name": "pyroar-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/668.png",
-      "types": [
-        "fire",
-        "normal"
-      ],
-      "totalStats": 507,
-      "grade": "SR",
-      "pulledAt": "2026-10-04T21:56:46.987Z"
     }
   ],
   "pokemon": {
@@ -333,6 +332,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T22:21:14.722Z",
       "lastPulledAt": "2026-10-03T14:18:05.387Z"
+    },
+    "143": {
+      "id": 143,
+      "name": "snorlax",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 540,
+      "grade": "SR",
+      "pulledAt": "2026-10-07T06:23:47.602Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-07T06:23:47.602Z",
+      "lastPulledAt": "2026-10-07T06:23:47.602Z"
     },
     "152": {
       "id": 152,

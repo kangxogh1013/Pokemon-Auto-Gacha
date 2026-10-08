@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 126,
-  "updatedAt": "2026-10-08T03:46:57.368Z",
+  "totalPulls": 127,
+  "updatedAt": "2026-10-08T10:57:38.961Z",
   "lastPull": {
-    "id": 746,
-    "name": "wishiwashi-solo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/746.png",
+    "id": 341,
+    "name": "corphish",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
     "types": [
       "water"
     ],
-    "totalStats": 175,
+    "totalStats": 308,
     "grade": "N",
-    "pulledAt": "2026-10-08T03:46:57.368Z"
+    "pulledAt": "2026-10-08T10:57:38.961Z"
   },
   "pulls": [
+    {
+      "id": 341,
+      "name": "corphish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-08T10:57:38.961Z"
+    },
     {
       "id": 746,
       "name": "wishiwashi-solo",
@@ -117,18 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-06T09:05:53.317Z"
-    },
-    {
-      "id": 957,
-      "name": "tinkatink",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/957.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 297,
-      "grade": "N",
-      "pulledAt": "2026-10-06T02:13:01.161Z"
     }
   ],
   "pokemon": {
@@ -674,6 +673,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:20:40.256Z",
       "lastPulledAt": "2026-09-30T11:53:00.079Z"
+    },
+    "341": {
+      "id": 341,
+      "name": "corphish",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 308,
+      "grade": "N",
+      "pulledAt": "2026-10-08T10:57:38.961Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-08T10:57:38.961Z",
+      "lastPulledAt": "2026-10-08T10:57:38.961Z"
     },
     "349": {
       "id": 349,

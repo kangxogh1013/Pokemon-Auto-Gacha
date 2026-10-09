@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 132,
-  "updatedAt": "2026-10-09T16:37:24.498Z",
+  "totalPulls": 133,
+  "updatedAt": "2026-10-09T21:18:08.639Z",
   "lastPull": {
-    "id": 452,
-    "name": "drapion",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+    "id": 816,
+    "name": "sobble",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
     "types": [
-      "poison",
-      "dark"
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-09T16:37:24.498Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-10-09T21:18:08.639Z"
   },
   "pulls": [
+    {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:18:08.639Z"
+    },
     {
       "id": 452,
       "name": "drapion",
@@ -116,18 +126,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-07T19:35:50.285Z"
-    },
-    {
-      "id": 747,
-      "name": "mareanie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/747.png",
-      "types": [
-        "poison",
-        "water"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-07T13:45:12.507Z"
     }
   ],
   "pokemon": {
@@ -1558,6 +1556,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-06T09:05:53.317Z",
       "lastPulledAt": "2026-10-06T09:05:53.317Z"
+    },
+    "816": {
+      "id": 816,
+      "name": "sobble",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-10-09T21:18:08.639Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T21:18:08.639Z",
+      "lastPulledAt": "2026-10-09T21:18:08.639Z"
     },
     "819": {
       "id": 819,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 131,
-  "updatedAt": "2026-10-09T09:38:20.668Z",
+  "totalPulls": 132,
+  "updatedAt": "2026-10-09T16:37:24.498Z",
   "lastPull": {
-    "id": 159,
-    "name": "croconaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/159.png",
+    "id": 452,
+    "name": "drapion",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
     "types": [
-      "water"
+      "poison",
+      "dark"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-09T09:38:20.668Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-09T16:37:24.498Z"
   },
   "pulls": [
+    {
+      "id": 452,
+      "name": "drapion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T16:37:24.498Z"
+    },
     {
       "id": 159,
       "name": "croconaw",
@@ -115,17 +128,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-07T13:45:12.507Z"
-    },
-    {
-      "id": 143,
-      "name": "snorlax",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/143.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 540,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T06:23:47.602Z"
     }
   ],
   "pokemon": {
@@ -978,6 +980,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T21:10:09.018Z",
       "lastPulledAt": "2026-10-03T21:10:09.018Z"
+    },
+    "452": {
+      "id": 452,
+      "name": "drapion",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/452.png",
+      "types": [
+        "poison",
+        "dark"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-09T16:37:24.498Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-09T16:37:24.498Z",
+      "lastPulledAt": "2026-10-09T16:37:24.498Z"
     },
     "462": {
       "id": 462,

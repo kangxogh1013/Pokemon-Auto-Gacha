@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 137,
-  "updatedAt": "2026-10-10T18:00:28.248Z",
+  "totalPulls": 138,
+  "updatedAt": "2026-10-10T21:35:00.838Z",
   "lastPull": {
-    "id": 555,
-    "name": "darmanitan-standard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+    "id": 533,
+    "name": "gurdurr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
     "types": [
-      "fire"
+      "fighting"
     ],
-    "totalStats": 480,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-10T18:00:28.248Z"
+    "pulledAt": "2026-10-10T21:35:00.838Z"
   },
   "pulls": [
+    {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-10T21:35:00.838Z"
+    },
     {
       "id": 555,
       "name": "darmanitan-standard",
@@ -116,17 +127,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-08T22:43:03.319Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-10-08T17:50:01.011Z"
     }
   ],
   "pokemon": {
@@ -1102,6 +1102,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T00:29:50.140Z",
       "lastPulledAt": "2026-10-07T00:29:50.140Z"
+    },
+    "533": {
+      "id": 533,
+      "name": "gurdurr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-10T21:35:00.838Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T21:35:00.838Z",
+      "lastPulledAt": "2026-10-10T21:35:00.838Z"
     },
     "551": {
       "id": 551,

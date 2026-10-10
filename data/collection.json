@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 136,
-  "updatedAt": "2026-10-10T13:34:37.209Z",
+  "totalPulls": 137,
+  "updatedAt": "2026-10-10T18:00:28.248Z",
   "lastPull": {
-    "id": 827,
-    "name": "nickit",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/827.png",
+    "id": 555,
+    "name": "darmanitan-standard",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
     "types": [
-      "dark"
+      "fire"
     ],
-    "totalStats": 245,
-    "grade": "N",
-    "pulledAt": "2026-10-10T13:34:37.209Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-10T18:00:28.248Z"
   },
   "pulls": [
+    {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-10T18:00:28.248Z"
+    },
     {
       "id": 827,
       "name": "nickit",
@@ -116,17 +127,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-10-08T17:50:01.011Z"
-    },
-    {
-      "id": 341,
-      "name": "corphish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-10-08T10:57:38.961Z"
     }
   ],
   "pokemon": {
@@ -1118,6 +1118,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T06:42:01.689Z",
       "lastPulledAt": "2026-10-01T06:42:01.689Z"
+    },
+    "555": {
+      "id": 555,
+      "name": "darmanitan-standard",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/555.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-10T18:00:28.248Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T18:00:28.248Z",
+      "lastPulledAt": "2026-10-10T18:00:28.248Z"
     },
     "569": {
       "id": 569,

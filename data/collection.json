@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 134,
-  "updatedAt": "2026-10-10T01:02:18.672Z",
+  "totalPulls": 135,
+  "updatedAt": "2026-10-10T07:00:24.583Z",
   "lastPull": {
-    "id": 778,
-    "name": "mimikyu-disguised",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "ghost",
-      "fairy"
+      "normal",
+      "flying"
     ],
-    "totalStats": 476,
-    "grade": "R",
-    "pulledAt": "2026-10-10T01:02:18.672Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-10-10T07:00:24.583Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:00:24.583Z"
+    },
     {
       "id": 778,
       "name": "mimikyu-disguised",
@@ -116,17 +128,6 @@
       "totalStats": 175,
       "grade": "N",
       "pulledAt": "2026-10-08T03:46:57.368Z"
-    },
-    {
-      "id": 857,
-      "name": "hattrem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/857.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 370,
-      "grade": "N",
-      "pulledAt": "2026-10-07T23:49:43.564Z"
     }
   ],
   "pokemon": {
@@ -1432,6 +1433,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T19:27:43.936Z",
       "lastPulledAt": "2026-09-26T19:27:43.936Z"
+    },
+    "731": {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-10T07:00:24.583Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T07:00:24.583Z",
+      "lastPulledAt": "2026-10-10T07:00:24.583Z"
     },
     "740": {
       "id": 740,

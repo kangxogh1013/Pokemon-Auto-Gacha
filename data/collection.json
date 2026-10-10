@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 133,
-  "updatedAt": "2026-10-09T21:18:08.639Z",
+  "totalPulls": 134,
+  "updatedAt": "2026-10-10T01:02:18.672Z",
   "lastPull": {
-    "id": 816,
-    "name": "sobble",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
+    "id": 778,
+    "name": "mimikyu-disguised",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
     "types": [
-      "water"
+      "ghost",
+      "fairy"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-10-09T21:18:08.639Z"
+    "totalStats": 476,
+    "grade": "R",
+    "pulledAt": "2026-10-10T01:02:18.672Z"
   },
   "pulls": [
+    {
+      "id": 778,
+      "name": "mimikyu-disguised",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-10-10T01:02:18.672Z"
+    },
     {
       "id": 816,
       "name": "sobble",
@@ -114,18 +127,6 @@
       "totalStats": 370,
       "grade": "N",
       "pulledAt": "2026-10-07T23:49:43.564Z"
-    },
-    {
-      "id": 851,
-      "name": "centiskorch",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/851.png",
-      "types": [
-        "fire",
-        "bug"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-07T19:35:50.285Z"
     }
   ],
   "pokemon": {
@@ -1509,6 +1510,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T11:58:43.438Z",
       "lastPulledAt": "2026-09-22T11:58:43.438Z"
+    },
+    "778": {
+      "id": 778,
+      "name": "mimikyu-disguised",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/778.png",
+      "types": [
+        "ghost",
+        "fairy"
+      ],
+      "totalStats": 476,
+      "grade": "R",
+      "pulledAt": "2026-10-10T01:02:18.672Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-10T01:02:18.672Z",
+      "lastPulledAt": "2026-10-10T01:02:18.672Z"
     },
     "786": {
       "id": 786,

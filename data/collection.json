@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 142,
-  "updatedAt": "2026-10-11T18:10:43.068Z",
+  "totalPulls": 143,
+  "updatedAt": "2026-10-11T22:02:24.771Z",
   "lastPull": {
-    "id": 391,
-    "name": "monferno",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/391.png",
+    "id": 489,
+    "name": "phione",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
     "types": [
-      "fire",
-      "fighting"
+      "water"
     ],
-    "totalStats": 405,
+    "totalStats": 480,
     "grade": "R",
-    "pulledAt": "2026-10-11T18:10:43.068Z"
+    "pulledAt": "2026-10-11T22:02:24.771Z"
   },
   "pulls": [
+    {
+      "id": 489,
+      "name": "phione",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:02:24.771Z"
+    },
     {
       "id": 391,
       "name": "monferno",
@@ -117,17 +127,6 @@
       "totalStats": 476,
       "grade": "R",
       "pulledAt": "2026-10-10T01:02:18.672Z"
-    },
-    {
-      "id": 816,
-      "name": "sobble",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/816.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-10-09T21:18:08.639Z"
     }
   ],
   "pokemon": {
@@ -1089,6 +1088,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T12:04:28.113Z",
       "lastPulledAt": "2026-09-17T12:04:28.113Z"
+    },
+    "489": {
+      "id": 489,
+      "name": "phione",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/489.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-11T22:02:24.771Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-11T22:02:24.771Z",
+      "lastPulledAt": "2026-10-11T22:02:24.771Z"
     },
     "490": {
       "id": 490,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 150,
-  "updatedAt": "2026-10-13T18:28:03.947Z",
+  "totalPulls": 151,
+  "updatedAt": "2026-10-13T23:04:48.137Z",
   "lastPull": {
-    "id": 853,
-    "name": "grapploct",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "id": 843,
+    "name": "silicobra",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
     "types": [
-      "fighting"
+      "ground"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-13T18:28:03.947Z"
+    "totalStats": 315,
+    "grade": "N",
+    "pulledAt": "2026-10-13T23:04:48.137Z"
   },
   "pulls": [
+    {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-13T23:04:48.137Z"
+    },
     {
       "id": 853,
       "name": "grapploct",
@@ -117,18 +128,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-11T18:10:43.068Z"
-    },
-    {
-      "id": 334,
-      "name": "altaria",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/334.png",
-      "types": [
-        "dragon",
-        "flying"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-11T13:16:23.073Z"
     }
   ],
   "pokemon": {
@@ -1804,6 +1803,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:55:51.887Z",
       "lastPulledAt": "2026-09-18T05:55:51.887Z"
+    },
+    "843": {
+      "id": 843,
+      "name": "silicobra",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 315,
+      "grade": "N",
+      "pulledAt": "2026-10-13T23:04:48.137Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T23:04:48.137Z",
+      "lastPulledAt": "2026-10-13T23:04:48.137Z"
     },
     "847": {
       "id": 847,

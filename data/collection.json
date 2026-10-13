@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 147,
-  "updatedAt": "2026-10-12T23:34:59.697Z",
+  "totalPulls": 148,
+  "updatedAt": "2026-10-13T03:52:24.556Z",
   "lastPull": {
-    "id": 959,
-    "name": "tinkaton",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
+    "id": 131,
+    "name": "lapras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
     "types": [
-      "fairy",
-      "steel"
+      "water",
+      "ice"
     ],
-    "totalStats": 506,
+    "totalStats": 535,
     "grade": "SR",
-    "pulledAt": "2026-10-12T23:34:59.697Z"
+    "pulledAt": "2026-10-13T03:52:24.556Z"
   },
   "pulls": [
+    {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T03:52:24.556Z"
+    },
     {
       "id": 959,
       "name": "tinkaton",
@@ -117,17 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-10-11T00:28:59.764Z"
-    },
-    {
-      "id": 533,
-      "name": "gurdurr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/533.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-10T21:35:00.838Z"
     }
   ],
   "pokemon": {
@@ -330,6 +331,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T01:03:58.307Z",
       "lastPulledAt": "2026-09-28T01:03:58.307Z"
+    },
+    "131": {
+      "id": 131,
+      "name": "lapras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+      "types": [
+        "water",
+        "ice"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-13T03:52:24.556Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T03:52:24.556Z",
+      "lastPulledAt": "2026-10-13T03:52:24.556Z"
     },
     "140": {
       "id": 140,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 149,
-  "updatedAt": "2026-10-13T11:26:34.258Z",
+  "totalPulls": 150,
+  "updatedAt": "2026-10-13T18:28:03.947Z",
   "lastPull": {
-    "id": 646,
-    "name": "kyurem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+    "id": 853,
+    "name": "grapploct",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
     "types": [
-      "dragon",
-      "ice"
+      "fighting"
     ],
-    "totalStats": 660,
-    "grade": "SSR",
-    "pulledAt": "2026-10-13T11:26:34.258Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-13T18:28:03.947Z"
   },
   "pulls": [
+    {
+      "id": 853,
+      "name": "grapploct",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-13T18:28:03.947Z"
+    },
     {
       "id": 646,
       "name": "kyurem",
@@ -119,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-11T13:16:23.073Z"
-    },
-    {
-      "id": 393,
-      "name": "piplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/393.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-10-11T06:21:44.236Z"
     }
   ],
   "pokemon": {
@@ -1836,6 +1835,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T19:35:50.285Z",
       "lastPulledAt": "2026-10-07T19:35:50.285Z"
+    },
+    "853": {
+      "id": 853,
+      "name": "grapploct",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-13T18:28:03.947Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T18:28:03.947Z",
+      "lastPulledAt": "2026-10-13T18:28:03.947Z"
     },
     "857": {
       "id": 857,

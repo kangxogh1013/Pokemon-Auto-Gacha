@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 148,
-  "updatedAt": "2026-10-13T03:52:24.556Z",
+  "totalPulls": 149,
+  "updatedAt": "2026-10-13T11:26:34.258Z",
   "lastPull": {
-    "id": 131,
-    "name": "lapras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/131.png",
+    "id": 646,
+    "name": "kyurem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
     "types": [
-      "water",
+      "dragon",
       "ice"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-13T03:52:24.556Z"
+    "totalStats": 660,
+    "grade": "SSR",
+    "pulledAt": "2026-10-13T11:26:34.258Z"
   },
   "pulls": [
+    {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-13T11:26:34.258Z"
+    },
     {
       "id": 131,
       "name": "lapras",
@@ -118,17 +130,6 @@
       "totalStats": 314,
       "grade": "N",
       "pulledAt": "2026-10-11T06:21:44.236Z"
-    },
-    {
-      "id": 180,
-      "name": "flaaffy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/180.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 365,
-      "grade": "N",
-      "pulledAt": "2026-10-11T00:28:59.764Z"
     }
   ],
   "pokemon": {
@@ -1368,6 +1369,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-03T03:01:59.663Z",
       "lastPulledAt": "2026-10-03T03:01:59.663Z"
+    },
+    "646": {
+      "id": 646,
+      "name": "kyurem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/646.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 660,
+      "grade": "SSR",
+      "pulledAt": "2026-10-13T11:26:34.258Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-13T11:26:34.258Z",
+      "lastPulledAt": "2026-10-13T11:26:34.258Z"
     },
     "652": {
       "id": 652,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 156,
-  "updatedAt": "2026-10-14T21:33:07.227Z",
+  "totalPulls": 157,
+  "updatedAt": "2026-10-15T00:04:55.326Z",
   "lastPull": {
-    "id": 486,
-    "name": "regigigas",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
+    "id": 927,
+    "name": "dachsbun",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
     "types": [
-      "normal"
+      "fairy"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-10-14T21:33:07.227Z"
+    "totalStats": 477,
+    "grade": "R",
+    "pulledAt": "2026-10-15T00:04:55.326Z"
   },
   "pulls": [
+    {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-10-15T00:04:55.326Z"
+    },
     {
       "id": 486,
       "name": "regigigas",
@@ -118,18 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-13T03:52:24.556Z"
-    },
-    {
-      "id": 959,
-      "name": "tinkaton",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/959.png",
-      "types": [
-        "fairy",
-        "steel"
-      ],
-      "totalStats": 506,
-      "grade": "SR",
-      "pulledAt": "2026-10-12T23:34:59.697Z"
     }
   ],
   "pokemon": {
@@ -2037,6 +2036,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:56:49.667Z",
       "lastPulledAt": "2026-09-22T19:56:49.667Z"
+    },
+    "927": {
+      "id": 927,
+      "name": "dachsbun",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 477,
+      "grade": "R",
+      "pulledAt": "2026-10-15T00:04:55.326Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T00:04:55.326Z",
+      "lastPulledAt": "2026-10-15T00:04:55.326Z"
     },
     "930": {
       "id": 930,

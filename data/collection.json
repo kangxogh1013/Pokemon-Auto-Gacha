@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 162,
-  "updatedAt": "2026-10-15T21:41:20.683Z",
+  "totalPulls": 163,
+  "updatedAt": "2026-10-15T23:54:19.095Z",
   "lastPull": {
-    "id": 2,
-    "name": "ivysaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+    "id": 731,
+    "name": "pikipek",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
     "types": [
-      "grass",
-      "poison"
+      "normal",
+      "flying"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-10-15T21:41:20.683Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-10-15T23:54:19.095Z"
   },
   "pulls": [
+    {
+      "id": 731,
+      "name": "pikipek",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-15T23:54:19.095Z"
+    },
     {
       "id": 2,
       "name": "ivysaur",
@@ -118,18 +130,6 @@
       "totalStats": 508,
       "grade": "SR",
       "pulledAt": "2026-10-14T12:55:28.337Z"
-    },
-    {
-      "id": 1018,
-      "name": "archaludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1018.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-14T07:12:24.248Z"
     }
   ],
   "pokemon": {
@@ -1695,10 +1695,10 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-10T07:00:24.583Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T07:00:24.583Z",
-      "lastPulledAt": "2026-10-10T07:00:24.583Z"
+      "lastPulledAt": "2026-10-15T23:54:19.095Z"
     },
     "740": {
       "id": 740,

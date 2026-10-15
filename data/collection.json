@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 159,
-  "updatedAt": "2026-10-15T09:24:03.775Z",
+  "totalPulls": 160,
+  "updatedAt": "2026-10-15T14:19:28.153Z",
   "lastPull": {
-    "id": 17,
-    "name": "pidgeotto",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
+    "id": 853,
+    "name": "grapploct",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
     "types": [
-      "normal",
-      "flying"
+      "fighting"
     ],
-    "totalStats": 349,
-    "grade": "N",
-    "pulledAt": "2026-10-15T09:24:03.775Z"
+    "totalStats": 480,
+    "grade": "R",
+    "pulledAt": "2026-10-15T14:19:28.153Z"
   },
   "pulls": [
+    {
+      "id": 853,
+      "name": "grapploct",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 480,
+      "grade": "R",
+      "pulledAt": "2026-10-15T14:19:28.153Z"
+    },
     {
       "id": 17,
       "name": "pidgeotto",
@@ -119,17 +129,6 @@
       "totalStats": 315,
       "grade": "N",
       "pulledAt": "2026-10-13T23:04:48.137Z"
-    },
-    {
-      "id": 853,
-      "name": "grapploct",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-13T18:28:03.947Z"
     }
   ],
   "pokemon": {
@@ -1941,10 +1940,10 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-13T18:28:03.947Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T18:28:03.947Z",
-      "lastPulledAt": "2026-10-13T18:28:03.947Z"
+      "lastPulledAt": "2026-10-15T14:19:28.153Z"
     },
     "857": {
       "id": 857,

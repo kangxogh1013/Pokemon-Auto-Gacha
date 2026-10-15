@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 160,
-  "updatedAt": "2026-10-15T14:19:28.153Z",
+  "totalPulls": 161,
+  "updatedAt": "2026-10-15T18:26:53.004Z",
   "lastPull": {
-    "id": 853,
-    "name": "grapploct",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/853.png",
+    "id": 594,
+    "name": "alomomola",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 480,
+    "totalStats": 470,
     "grade": "R",
-    "pulledAt": "2026-10-15T14:19:28.153Z"
+    "pulledAt": "2026-10-15T18:26:53.004Z"
   },
   "pulls": [
+    {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-15T18:26:53.004Z"
+    },
     {
       "id": 853,
       "name": "grapploct",
@@ -118,17 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-14T01:53:01.864Z"
-    },
-    {
-      "id": 843,
-      "name": "silicobra",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/843.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 315,
-      "grade": "N",
-      "pulledAt": "2026-10-13T23:04:48.137Z"
     }
   ],
   "pokemon": {
@@ -1352,6 +1352,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T22:51:26.706Z",
       "lastPulledAt": "2026-09-17T22:51:26.706Z"
+    },
+    "594": {
+      "id": 594,
+      "name": "alomomola",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 470,
+      "grade": "R",
+      "pulledAt": "2026-10-15T18:26:53.004Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T18:26:53.004Z",
+      "lastPulledAt": "2026-10-15T18:26:53.004Z"
     },
     "597": {
       "id": 597,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 161,
-  "updatedAt": "2026-10-15T18:26:53.004Z",
+  "totalPulls": 162,
+  "updatedAt": "2026-10-15T21:41:20.683Z",
   "lastPull": {
-    "id": 594,
-    "name": "alomomola",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/594.png",
+    "id": 2,
+    "name": "ivysaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
     "types": [
-      "water"
+      "grass",
+      "poison"
     ],
-    "totalStats": 470,
+    "totalStats": 405,
     "grade": "R",
-    "pulledAt": "2026-10-15T18:26:53.004Z"
+    "pulledAt": "2026-10-15T21:41:20.683Z"
   },
   "pulls": [
+    {
+      "id": 2,
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T21:41:20.683Z"
+    },
     {
       "id": 594,
       "name": "alomomola",
@@ -117,21 +130,25 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-14T07:12:24.248Z"
-    },
-    {
-      "id": 343,
-      "name": "baltoy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/343.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-14T01:53:01.864Z"
     }
   ],
   "pokemon": {
+    "2": {
+      "id": 2,
+      "name": "ivysaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-10-15T21:41:20.683Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-15T21:41:20.683Z",
+      "lastPulledAt": "2026-10-15T21:41:20.683Z"
+    },
     "11": {
       "id": 11,
       "name": "metapod",

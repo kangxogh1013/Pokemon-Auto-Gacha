@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 163,
-  "updatedAt": "2026-10-15T23:54:19.095Z",
+  "totalPulls": 164,
+  "updatedAt": "2026-10-16T03:56:06.132Z",
   "lastPull": {
-    "id": 731,
-    "name": "pikipek",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
+    "id": 952,
+    "name": "scovillain",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
     "types": [
-      "normal",
-      "flying"
+      "grass",
+      "fire"
     ],
-    "totalStats": 265,
-    "grade": "N",
-    "pulledAt": "2026-10-15T23:54:19.095Z"
+    "totalStats": 486,
+    "grade": "R",
+    "pulledAt": "2026-10-16T03:56:06.132Z"
   },
   "pulls": [
+    {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-10-16T03:56:06.132Z"
+    },
     {
       "id": 731,
       "name": "pikipek",
@@ -118,18 +130,6 @@
       "totalStats": 440,
       "grade": "R",
       "pulledAt": "2026-10-14T17:55:44.420Z"
-    },
-    {
-      "id": 530,
-      "name": "excadrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/530.png",
-      "types": [
-        "ground",
-        "steel"
-      ],
-      "totalStats": 508,
-      "grade": "SR",
-      "pulledAt": "2026-10-14T12:55:28.337Z"
     }
   ],
   "pokemon": {
@@ -2177,6 +2177,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T06:31:59.792Z",
       "lastPulledAt": "2026-09-17T06:31:59.792Z"
+    },
+    "952": {
+      "id": 952,
+      "name": "scovillain",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+      "types": [
+        "grass",
+        "fire"
+      ],
+      "totalStats": 486,
+      "grade": "R",
+      "pulledAt": "2026-10-16T03:56:06.132Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T03:56:06.132Z",
+      "lastPulledAt": "2026-10-16T03:56:06.132Z"
     },
     "956": {
       "id": 956,

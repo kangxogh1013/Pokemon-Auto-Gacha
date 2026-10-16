@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 165,
-  "updatedAt": "2026-10-16T08:56:49.807Z",
+  "totalPulls": 166,
+  "updatedAt": "2026-10-16T13:53:52.187Z",
   "lastPull": {
-    "id": 783,
-    "name": "hakamo-o",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+    "id": 907,
+    "name": "floragato",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
     "types": [
-      "dragon",
-      "fighting"
+      "grass"
     ],
-    "totalStats": 420,
+    "totalStats": 410,
     "grade": "R",
-    "pulledAt": "2026-10-16T08:56:49.807Z"
+    "pulledAt": "2026-10-16T13:53:52.187Z"
   },
   "pulls": [
+    {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-16T13:53:52.187Z"
+    },
     {
       "id": 783,
       "name": "hakamo-o",
@@ -119,17 +129,6 @@
       "totalStats": 477,
       "grade": "R",
       "pulledAt": "2026-10-15T00:04:55.326Z"
-    },
-    {
-      "id": 486,
-      "name": "regigigas",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/486.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-10-14T21:33:07.227Z"
     }
   ],
   "pokemon": {
@@ -2054,6 +2053,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T15:33:52.566Z",
       "lastPulledAt": "2026-09-27T15:33:52.566Z"
+    },
+    "907": {
+      "id": 907,
+      "name": "floragato",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 410,
+      "grade": "R",
+      "pulledAt": "2026-10-16T13:53:52.187Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T13:53:52.187Z",
+      "lastPulledAt": "2026-10-16T13:53:52.187Z"
     },
     "914": {
       "id": 914,

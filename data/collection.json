@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 164,
-  "updatedAt": "2026-10-16T03:56:06.132Z",
+  "totalPulls": 165,
+  "updatedAt": "2026-10-16T08:56:49.807Z",
   "lastPull": {
-    "id": 952,
-    "name": "scovillain",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
+    "id": 783,
+    "name": "hakamo-o",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
     "types": [
-      "grass",
-      "fire"
+      "dragon",
+      "fighting"
     ],
-    "totalStats": 486,
+    "totalStats": 420,
     "grade": "R",
-    "pulledAt": "2026-10-16T03:56:06.132Z"
+    "pulledAt": "2026-10-16T08:56:49.807Z"
   },
   "pulls": [
+    {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-16T08:56:49.807Z"
+    },
     {
       "id": 952,
       "name": "scovillain",
@@ -118,18 +130,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-10-14T21:33:07.227Z"
-    },
-    {
-      "id": 279,
-      "name": "pelipper",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/279.png",
-      "types": [
-        "water",
-        "flying"
-      ],
-      "totalStats": 440,
-      "grade": "R",
-      "pulledAt": "2026-10-14T17:55:44.420Z"
     }
   ],
   "pokemon": {
@@ -1793,6 +1793,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T01:02:18.672Z",
       "lastPulledAt": "2026-10-10T01:02:18.672Z"
+    },
+    "783": {
+      "id": 783,
+      "name": "hakamo-o",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
+      "types": [
+        "dragon",
+        "fighting"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-16T08:56:49.807Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T08:56:49.807Z",
+      "lastPulledAt": "2026-10-16T08:56:49.807Z"
     },
     "786": {
       "id": 786,

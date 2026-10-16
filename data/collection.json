@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 168,
-  "updatedAt": "2026-10-16T20:31:01.470Z",
+  "totalPulls": 169,
+  "updatedAt": "2026-10-16T22:59:47.808Z",
   "lastPull": {
-    "id": 202,
-    "name": "wobbuffet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+    "id": 617,
+    "name": "accelgor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
     "types": [
-      "psychic"
+      "bug"
     ],
-    "totalStats": 405,
+    "totalStats": 495,
     "grade": "R",
-    "pulledAt": "2026-10-16T20:31:01.470Z"
+    "pulledAt": "2026-10-16T22:59:47.808Z"
   },
   "pulls": [
+    {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T22:59:47.808Z"
+    },
     {
       "id": 202,
       "name": "wobbuffet",
@@ -117,18 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-15T14:19:28.153Z"
-    },
-    {
-      "id": 17,
-      "name": "pidgeotto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/17.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 349,
-      "grade": "N",
-      "pulledAt": "2026-10-15T09:24:03.775Z"
     }
   ],
   "pokemon": {
@@ -1445,6 +1444,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T06:59:30.667Z",
       "lastPulledAt": "2026-09-21T06:59:30.667Z"
+    },
+    "617": {
+      "id": 617,
+      "name": "accelgor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-16T22:59:47.808Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T22:59:47.808Z",
+      "lastPulledAt": "2026-10-16T22:59:47.808Z"
     },
     "624": {
       "id": 624,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 166,
-  "updatedAt": "2026-10-16T13:53:52.187Z",
+  "totalPulls": 167,
+  "updatedAt": "2026-10-16T17:51:56.977Z",
   "lastPull": {
-    "id": 907,
-    "name": "floragato",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
+    "id": 998,
+    "name": "baxcalibur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
     "types": [
-      "grass"
+      "dragon",
+      "ice"
     ],
-    "totalStats": 410,
-    "grade": "R",
-    "pulledAt": "2026-10-16T13:53:52.187Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-16T17:51:56.977Z"
   },
   "pulls": [
+    {
+      "id": 998,
+      "name": "baxcalibur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-16T17:51:56.977Z"
+    },
     {
       "id": 907,
       "name": "floragato",
@@ -118,17 +131,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-10-15T04:33:24.693Z"
-    },
-    {
-      "id": 927,
-      "name": "dachsbun",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/927.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 477,
-      "grade": "R",
-      "pulledAt": "2026-10-15T00:04:55.326Z"
     }
   ],
   "pokemon": {
@@ -2364,6 +2366,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T18:36:02.478Z",
       "lastPulledAt": "2026-10-04T18:36:02.478Z"
+    },
+    "998": {
+      "id": 998,
+      "name": "baxcalibur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/998.png",
+      "types": [
+        "dragon",
+        "ice"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-16T17:51:56.977Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-16T17:51:56.977Z",
+      "lastPulledAt": "2026-10-16T17:51:56.977Z"
     },
     "1008": {
       "id": 1008,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 174,
-  "updatedAt": "2026-10-17T16:31:22.348Z",
+  "totalPulls": 175,
+  "updatedAt": "2026-10-17T18:47:57.969Z",
   "lastPull": {
-    "id": 694,
-    "name": "helioptile",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+    "id": 574,
+    "name": "gothita",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
     "types": [
-      "electric",
-      "normal"
+      "psychic"
     ],
-    "totalStats": 289,
+    "totalStats": 290,
     "grade": "N",
-    "pulledAt": "2026-10-17T16:31:22.348Z"
+    "pulledAt": "2026-10-17T18:47:57.969Z"
   },
   "pulls": [
+    {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T18:47:57.969Z"
+    },
     {
       "id": 694,
       "name": "helioptile",
@@ -117,18 +127,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-10-16T13:53:52.187Z"
-    },
-    {
-      "id": 783,
-      "name": "hakamo-o",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/783.png",
-      "types": [
-        "dragon",
-        "fighting"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-16T08:56:49.807Z"
     }
   ],
   "pokemon": {
@@ -1383,6 +1381,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:38:20.388Z",
       "lastPulledAt": "2026-09-27T00:38:20.388Z"
+    },
+    "574": {
+      "id": 574,
+      "name": "gothita",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 290,
+      "grade": "N",
+      "pulledAt": "2026-10-17T18:47:57.969Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T18:47:57.969Z",
+      "lastPulledAt": "2026-10-17T18:47:57.969Z"
     },
     "582": {
       "id": 582,

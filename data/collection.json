@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 171,
-  "updatedAt": "2026-10-17T05:41:47.073Z",
+  "totalPulls": 172,
+  "updatedAt": "2026-10-17T09:43:29.063Z",
   "lastPull": {
-    "id": 972,
-    "name": "houndstone",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
+    "id": 356,
+    "name": "dusclops",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
     "types": [
       "ghost"
     ],
-    "totalStats": 488,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-10-17T05:41:47.073Z"
+    "pulledAt": "2026-10-17T09:43:29.063Z"
   },
   "pulls": [
+    {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-17T09:43:29.063Z"
+    },
     {
       "id": 972,
       "name": "houndstone",
@@ -117,18 +128,6 @@
       "totalStats": 265,
       "grade": "N",
       "pulledAt": "2026-10-15T23:54:19.095Z"
-    },
-    {
-      "id": 2,
-      "name": "ivysaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/2.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-10-15T21:41:20.683Z"
     }
   ],
   "pokemon": {
@@ -876,6 +875,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-29T13:07:52.873Z",
       "lastPulledAt": "2026-09-29T13:07:52.873Z"
+    },
+    "356": {
+      "id": 356,
+      "name": "dusclops",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-17T09:43:29.063Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T09:43:29.063Z",
+      "lastPulledAt": "2026-10-17T09:43:29.063Z"
     },
     "367": {
       "id": 367,

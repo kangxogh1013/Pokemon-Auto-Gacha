@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 175,
-  "updatedAt": "2026-10-17T18:47:57.969Z",
+  "totalPulls": 176,
+  "updatedAt": "2026-10-17T21:05:43.401Z",
   "lastPull": {
-    "id": 574,
-    "name": "gothita",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/574.png",
+    "id": 66,
+    "name": "machop",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
     "types": [
-      "psychic"
+      "fighting"
     ],
-    "totalStats": 290,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-10-17T18:47:57.969Z"
+    "pulledAt": "2026-10-17T21:05:43.401Z"
   },
   "pulls": [
+    {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:05:43.401Z"
+    },
     {
       "id": 574,
       "name": "gothita",
@@ -116,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-16T17:51:56.977Z"
-    },
-    {
-      "id": 907,
-      "name": "floragato",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/907.png",
-      "types": [
-        "grass"
-      ],
-      "totalStats": 410,
-      "grade": "R",
-      "pulledAt": "2026-10-16T13:53:52.187Z"
     }
   ],
   "pokemon": {
@@ -315,6 +315,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:34.753Z",
       "lastPulledAt": "2026-09-16T01:42:34.753Z"
+    },
+    "66": {
+      "id": 66,
+      "name": "machop",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-17T21:05:43.401Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T21:05:43.401Z",
+      "lastPulledAt": "2026-10-17T21:05:43.401Z"
     },
     "71": {
       "id": 71,

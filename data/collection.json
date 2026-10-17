@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 173,
-  "updatedAt": "2026-10-17T13:16:30.309Z",
+  "totalPulls": 174,
+  "updatedAt": "2026-10-17T16:31:22.348Z",
   "lastPull": {
-    "id": 738,
-    "name": "vikavolt",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+    "id": 694,
+    "name": "helioptile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
     "types": [
-      "bug",
-      "electric"
+      "electric",
+      "normal"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-10-17T13:16:30.309Z"
+    "totalStats": 289,
+    "grade": "N",
+    "pulledAt": "2026-10-17T16:31:22.348Z"
   },
   "pulls": [
+    {
+      "id": 694,
+      "name": "helioptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 289,
+      "grade": "N",
+      "pulledAt": "2026-10-17T16:31:22.348Z"
+    },
     {
       "id": 738,
       "name": "vikavolt",
@@ -117,18 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-16T08:56:49.807Z"
-    },
-    {
-      "id": 952,
-      "name": "scovillain",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/952.png",
-      "types": [
-        "grass",
-        "fire"
-      ],
-      "totalStats": 486,
-      "grade": "R",
-      "pulledAt": "2026-10-16T03:56:06.132Z"
     }
   ],
   "pokemon": {
@@ -1680,6 +1680,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-20T21:20:08.427Z",
       "lastPulledAt": "2026-09-20T21:20:08.427Z"
+    },
+    "694": {
+      "id": 694,
+      "name": "helioptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
+      "types": [
+        "electric",
+        "normal"
+      ],
+      "totalStats": 289,
+      "grade": "N",
+      "pulledAt": "2026-10-17T16:31:22.348Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T16:31:22.348Z",
+      "lastPulledAt": "2026-10-17T16:31:22.348Z"
     },
     "710": {
       "id": 710,

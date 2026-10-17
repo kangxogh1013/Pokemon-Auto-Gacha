@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 172,
-  "updatedAt": "2026-10-17T09:43:29.063Z",
+  "totalPulls": 173,
+  "updatedAt": "2026-10-17T13:16:30.309Z",
   "lastPull": {
-    "id": 356,
-    "name": "dusclops",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/356.png",
+    "id": 738,
+    "name": "vikavolt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
     "types": [
-      "ghost"
+      "bug",
+      "electric"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-10-17T09:43:29.063Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-10-17T13:16:30.309Z"
   },
   "pulls": [
+    {
+      "id": 738,
+      "name": "vikavolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T13:16:30.309Z"
+    },
     {
       "id": 356,
       "name": "dusclops",
@@ -116,18 +129,6 @@
       "totalStats": 486,
       "grade": "R",
       "pulledAt": "2026-10-16T03:56:06.132Z"
-    },
-    {
-      "id": 731,
-      "name": "pikipek",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/731.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 265,
-      "grade": "N",
-      "pulledAt": "2026-10-15T23:54:19.095Z"
     }
   ],
   "pokemon": {
@@ -1758,6 +1759,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T07:00:24.583Z",
       "lastPulledAt": "2026-10-15T23:54:19.095Z"
+    },
+    "738": {
+      "id": 738,
+      "name": "vikavolt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/738.png",
+      "types": [
+        "bug",
+        "electric"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-10-17T13:16:30.309Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-17T13:16:30.309Z",
+      "lastPulledAt": "2026-10-17T13:16:30.309Z"
     },
     "740": {
       "id": 740,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 179,
-  "updatedAt": "2026-10-18T05:49:23.885Z",
+  "totalPulls": 180,
+  "updatedAt": "2026-10-18T10:07:49.844Z",
   "lastPull": {
-    "id": 59,
-    "name": "arcanine",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+    "id": 390,
+    "name": "chimchar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
     "types": [
       "fire"
     ],
-    "totalStats": 555,
-    "grade": "SR",
-    "pulledAt": "2026-10-18T05:49:23.885Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-10-18T10:07:49.844Z"
   },
   "pulls": [
+    {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-18T10:07:49.844Z"
+    },
     {
       "id": 59,
       "name": "arcanine",
@@ -116,18 +127,6 @@
       "totalStats": 488,
       "grade": "R",
       "pulledAt": "2026-10-17T05:41:47.073Z"
-    },
-    {
-      "id": 15,
-      "name": "beedrill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 395,
-      "grade": "N",
-      "pulledAt": "2026-10-17T01:15:29.988Z"
     }
   ],
   "pokemon": {
@@ -935,6 +934,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:57:39.432Z",
       "lastPulledAt": "2026-09-21T13:57:39.432Z"
+    },
+    "390": {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-18T10:07:49.844Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T10:07:49.844Z",
+      "lastPulledAt": "2026-10-18T10:07:49.844Z"
     },
     "391": {
       "id": 391,

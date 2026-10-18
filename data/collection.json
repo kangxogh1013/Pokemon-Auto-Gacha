@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 178,
-  "updatedAt": "2026-10-18T01:01:41.270Z",
+  "totalPulls": 179,
+  "updatedAt": "2026-10-18T05:49:23.885Z",
   "lastPull": {
-    "id": 1009,
-    "name": "walking-wake",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
+    "id": 59,
+    "name": "arcanine",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
     "types": [
-      "water",
-      "dragon"
+      "fire"
     ],
-    "totalStats": 590,
+    "totalStats": 555,
     "grade": "SR",
-    "pulledAt": "2026-10-18T01:01:41.270Z"
+    "pulledAt": "2026-10-18T05:49:23.885Z"
   },
   "pulls": [
+    {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T05:49:23.885Z"
+    },
     {
       "id": 1009,
       "name": "walking-wake",
@@ -118,17 +128,6 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-17T01:15:29.988Z"
-    },
-    {
-      "id": 617,
-      "name": "accelgor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/617.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-16T22:59:47.808Z"
     }
   ],
   "pokemon": {
@@ -287,6 +286,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T20:28:15.113Z",
       "lastPulledAt": "2026-09-24T20:28:15.113Z"
+    },
+    "59": {
+      "id": 59,
+      "name": "arcanine",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/59.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 555,
+      "grade": "SR",
+      "pulledAt": "2026-10-18T05:49:23.885Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T05:49:23.885Z",
+      "lastPulledAt": "2026-10-18T05:49:23.885Z"
     },
     "60": {
       "id": 60,

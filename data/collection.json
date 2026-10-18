@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 180,
-  "updatedAt": "2026-10-18T10:07:49.844Z",
+  "totalPulls": 181,
+  "updatedAt": "2026-10-18T14:01:37.325Z",
   "lastPull": {
-    "id": 390,
-    "name": "chimchar",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+    "id": 184,
+    "name": "azumarill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
     "types": [
-      "fire"
+      "water",
+      "fairy"
     ],
-    "totalStats": 309,
-    "grade": "N",
-    "pulledAt": "2026-10-18T10:07:49.844Z"
+    "totalStats": 420,
+    "grade": "R",
+    "pulledAt": "2026-10-18T14:01:37.325Z"
   },
   "pulls": [
+    {
+      "id": 184,
+      "name": "azumarill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-18T14:01:37.325Z"
+    },
     {
       "id": 390,
       "name": "chimchar",
@@ -116,17 +129,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-17T09:43:29.063Z"
-    },
-    {
-      "id": 972,
-      "name": "houndstone",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/972.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 488,
-      "grade": "R",
-      "pulledAt": "2026-10-17T05:41:47.073Z"
     }
   ],
   "pokemon": {
@@ -562,6 +564,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-11T00:28:59.764Z",
       "lastPulledAt": "2026-10-11T00:28:59.764Z"
+    },
+    "184": {
+      "id": 184,
+      "name": "azumarill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/184.png",
+      "types": [
+        "water",
+        "fairy"
+      ],
+      "totalStats": 420,
+      "grade": "R",
+      "pulledAt": "2026-10-18T14:01:37.325Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T14:01:37.325Z",
+      "lastPulledAt": "2026-10-18T14:01:37.325Z"
     },
     "190": {
       "id": 190,

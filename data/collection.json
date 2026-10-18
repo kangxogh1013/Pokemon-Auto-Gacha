@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 183,
-  "updatedAt": "2026-10-18T19:29:49.182Z",
+  "totalPulls": 184,
+  "updatedAt": "2026-10-18T21:48:26.515Z",
   "lastPull": {
-    "id": 353,
-    "name": "shuppet",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
+    "id": 95,
+    "name": "onix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
     "types": [
-      "ghost"
+      "rock",
+      "ground"
     ],
-    "totalStats": 295,
+    "totalStats": 385,
     "grade": "N",
-    "pulledAt": "2026-10-18T19:29:49.182Z"
+    "pulledAt": "2026-10-18T21:48:26.515Z"
   },
   "pulls": [
+    {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-18T21:48:26.515Z"
+    },
     {
       "id": 353,
       "name": "shuppet",
@@ -115,18 +128,6 @@
       "totalStats": 290,
       "grade": "N",
       "pulledAt": "2026-10-17T18:47:57.969Z"
-    },
-    {
-      "id": 694,
-      "name": "helioptile",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/694.png",
-      "types": [
-        "electric",
-        "normal"
-      ],
-      "totalStats": 289,
-      "grade": "N",
-      "pulledAt": "2026-10-17T16:31:22.348Z"
     }
   ],
   "pokemon": {
@@ -376,6 +377,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-08T22:43:03.319Z",
       "lastPulledAt": "2026-10-08T22:43:03.319Z"
+    },
+    "95": {
+      "id": 95,
+      "name": "onix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
+      "types": [
+        "rock",
+        "ground"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-10-18T21:48:26.515Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-18T21:48:26.515Z",
+      "lastPulledAt": "2026-10-18T21:48:26.515Z"
     },
     "123": {
       "id": 123,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 186,
-  "updatedAt": "2026-10-19T01:52:40.235Z",
+  "totalPulls": 187,
+  "updatedAt": "2026-10-19T07:22:51.977Z",
   "lastPull": {
-    "id": 20,
-    "name": "raticate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+    "id": 585,
+    "name": "deerling",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
     "types": [
-      "normal"
+      "normal",
+      "grass"
     ],
-    "totalStats": 413,
-    "grade": "R",
-    "pulledAt": "2026-10-19T01:52:40.235Z"
+    "totalStats": 335,
+    "grade": "N",
+    "pulledAt": "2026-10-19T07:22:51.977Z"
   },
   "pulls": [
+    {
+      "id": 585,
+      "name": "deerling",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+      "types": [
+        "normal",
+        "grass"
+      ],
+      "totalStats": 335,
+      "grade": "N",
+      "pulledAt": "2026-10-19T07:22:51.977Z"
+    },
     {
       "id": 20,
       "name": "raticate",
@@ -116,18 +129,6 @@
       "totalStats": 590,
       "grade": "SR",
       "pulledAt": "2026-10-18T01:01:41.270Z"
-    },
-    {
-      "id": 585,
-      "name": "deerling",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
-      "types": [
-        "normal",
-        "grass"
-      ],
-      "totalStats": 335,
-      "grade": "N",
-      "pulledAt": "2026-10-17T23:06:51.137Z"
     }
   ],
   "pokemon": {
@@ -1531,10 +1532,10 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-17T23:06:51.137Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T23:06:51.137Z",
-      "lastPulledAt": "2026-10-17T23:06:51.137Z"
+      "lastPulledAt": "2026-10-19T07:22:51.977Z"
     },
     "586": {
       "id": 586,

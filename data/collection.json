@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 185,
-  "updatedAt": "2026-10-18T23:46:32.657Z",
+  "totalPulls": 186,
+  "updatedAt": "2026-10-19T01:52:40.235Z",
   "lastPull": {
-    "id": 840,
-    "name": "applin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
+    "id": 20,
+    "name": "raticate",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
     "types": [
-      "grass",
-      "dragon"
+      "normal"
     ],
-    "totalStats": 260,
-    "grade": "N",
-    "pulledAt": "2026-10-18T23:46:32.657Z"
+    "totalStats": 413,
+    "grade": "R",
+    "pulledAt": "2026-10-19T01:52:40.235Z"
   },
   "pulls": [
+    {
+      "id": 20,
+      "name": "raticate",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/20.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 413,
+      "grade": "R",
+      "pulledAt": "2026-10-19T01:52:40.235Z"
+    },
     {
       "id": 840,
       "name": "applin",
@@ -118,17 +128,6 @@
       "totalStats": 335,
       "grade": "N",
       "pulledAt": "2026-10-17T23:06:51.137Z"
-    },
-    {
-      "id": 66,
-      "name": "machop",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/66.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-17T21:05:43.401Z"
     }
   ],
   "pokemon": {
@@ -221,10 +220,10 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-09-16T23:01:57.107Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T23:01:57.107Z",
-      "lastPulledAt": "2026-09-19T10:53:23.927Z"
+      "lastPulledAt": "2026-10-19T01:52:40.235Z"
     },
     "41": {
       "id": 41,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 187,
-  "updatedAt": "2026-10-19T07:22:51.977Z",
+  "totalPulls": 188,
+  "updatedAt": "2026-10-19T14:52:41.724Z",
   "lastPull": {
-    "id": 585,
-    "name": "deerling",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/585.png",
+    "id": 121,
+    "name": "starmie",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
     "types": [
-      "normal",
-      "grass"
+      "water",
+      "psychic"
     ],
-    "totalStats": 335,
-    "grade": "N",
-    "pulledAt": "2026-10-19T07:22:51.977Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-10-19T14:52:41.724Z"
   },
   "pulls": [
+    {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T14:52:41.724Z"
+    },
     {
       "id": 585,
       "name": "deerling",
@@ -117,18 +129,6 @@
       "totalStats": 555,
       "grade": "SR",
       "pulledAt": "2026-10-18T05:49:23.885Z"
-    },
-    {
-      "id": 1009,
-      "name": "walking-wake",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1009.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-10-18T01:01:41.270Z"
     }
   ],
   "pokemon": {
@@ -394,6 +394,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:48:26.515Z",
       "lastPulledAt": "2026-10-18T21:48:26.515Z"
+    },
+    "121": {
+      "id": 121,
+      "name": "starmie",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/121.png",
+      "types": [
+        "water",
+        "psychic"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-10-19T14:52:41.724Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-19T14:52:41.724Z",
+      "lastPulledAt": "2026-10-19T14:52:41.724Z"
     },
     "123": {
       "id": 123,

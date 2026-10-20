@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 194,
-  "updatedAt": "2026-10-20T18:31:33.025Z",
+  "totalPulls": 195,
+  "updatedAt": "2026-10-20T21:50:28.080Z",
   "lastPull": {
-    "id": 134,
-    "name": "vaporeon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+    "id": 73,
+    "name": "tentacruel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
     "types": [
-      "water"
+      "water",
+      "poison"
     ],
-    "totalStats": 525,
+    "totalStats": 515,
     "grade": "SR",
-    "pulledAt": "2026-10-20T18:31:33.025Z"
+    "pulledAt": "2026-10-20T21:50:28.080Z"
   },
   "pulls": [
+    {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T21:50:28.080Z"
+    },
     {
       "id": 134,
       "name": "vaporeon",
@@ -119,18 +132,6 @@
       "totalStats": 413,
       "grade": "R",
       "pulledAt": "2026-10-19T01:52:40.235Z"
-    },
-    {
-      "id": 840,
-      "name": "applin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/840.png",
-      "types": [
-        "grass",
-        "dragon"
-      ],
-      "totalStats": 260,
-      "grade": "N",
-      "pulledAt": "2026-10-18T23:46:32.657Z"
     }
   ],
   "pokemon": {
@@ -365,6 +366,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T06:29:53.101Z",
       "lastPulledAt": "2026-09-23T06:29:53.101Z"
+    },
+    "73": {
+      "id": 73,
+      "name": "tentacruel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
+      "types": [
+        "water",
+        "poison"
+      ],
+      "totalStats": 515,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T21:50:28.080Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T21:50:28.080Z",
+      "lastPulledAt": "2026-10-20T21:50:28.080Z"
     },
     "78": {
       "id": 78,

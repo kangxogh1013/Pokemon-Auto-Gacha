@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 192,
-  "updatedAt": "2026-10-20T08:54:20.309Z",
+  "totalPulls": 193,
+  "updatedAt": "2026-10-20T14:12:24.818Z",
   "lastPull": {
-    "id": 290,
-    "name": "nincada",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/290.png",
+    "id": 733,
+    "name": "toucannon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
     "types": [
-      "bug",
-      "ground"
+      "normal",
+      "flying"
     ],
-    "totalStats": 266,
-    "grade": "N",
-    "pulledAt": "2026-10-20T08:54:20.309Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-20T14:12:24.818Z"
   },
   "pulls": [
+    {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-20T14:12:24.818Z"
+    },
     {
       "id": 290,
       "name": "nincada",
@@ -121,17 +133,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-10-18T21:48:26.515Z"
-    },
-    {
-      "id": 353,
-      "name": "shuppet",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/353.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 295,
-      "grade": "N",
-      "pulledAt": "2026-10-18T19:29:49.182Z"
     }
   ],
   "pokemon": {
@@ -1932,6 +1933,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T07:00:24.583Z",
       "lastPulledAt": "2026-10-15T23:54:19.095Z"
+    },
+    "733": {
+      "id": 733,
+      "name": "toucannon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-20T14:12:24.818Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T14:12:24.818Z",
+      "lastPulledAt": "2026-10-20T14:12:24.818Z"
     },
     "738": {
       "id": 738,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 193,
-  "updatedAt": "2026-10-20T14:12:24.818Z",
+  "totalPulls": 194,
+  "updatedAt": "2026-10-20T18:31:33.025Z",
   "lastPull": {
-    "id": 733,
-    "name": "toucannon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/733.png",
+    "id": 134,
+    "name": "vaporeon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
     "types": [
-      "normal",
-      "flying"
+      "water"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-20T14:12:24.818Z"
+    "totalStats": 525,
+    "grade": "SR",
+    "pulledAt": "2026-10-20T18:31:33.025Z"
   },
   "pulls": [
+    {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T18:31:33.025Z"
+    },
     {
       "id": 733,
       "name": "toucannon",
@@ -121,18 +131,6 @@
       "totalStats": 260,
       "grade": "N",
       "pulledAt": "2026-10-18T23:46:32.657Z"
-    },
-    {
-      "id": 95,
-      "name": "onix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/95.png",
-      "types": [
-        "rock",
-        "ground"
-      ],
-      "totalStats": 385,
-      "grade": "N",
-      "pulledAt": "2026-10-18T21:48:26.515Z"
     }
   ],
   "pokemon": {
@@ -461,6 +459,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T03:52:24.556Z",
       "lastPulledAt": "2026-10-13T03:52:24.556Z"
+    },
+    "134": {
+      "id": 134,
+      "name": "vaporeon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/134.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-10-20T18:31:33.025Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-20T18:31:33.025Z",
+      "lastPulledAt": "2026-10-20T18:31:33.025Z"
     },
     "140": {
       "id": 140,

@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 199,
-  "updatedAt": "2026-10-21T15:13:44.177Z",
+  "totalPulls": 200,
+  "updatedAt": "2026-10-21T19:22:18.799Z",
   "lastPull": {
-    "id": 631,
-    "name": "heatmor",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
+    "id": 251,
+    "name": "celebi",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
     "types": [
-      "fire"
+      "psychic",
+      "grass"
     ],
-    "totalStats": 484,
-    "grade": "R",
-    "pulledAt": "2026-10-21T15:13:44.177Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-21T19:22:18.799Z"
   },
   "pulls": [
+    {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T19:22:18.799Z"
+    },
     {
       "id": 631,
       "name": "heatmor",
@@ -118,18 +131,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-20T03:45:26.810Z"
-    },
-    {
-      "id": 1022,
-      "name": "iron-boulder",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1022.png",
-      "types": [
-        "rock",
-        "psychic"
-      ],
-      "totalStats": 590,
-      "grade": "SR",
-      "pulledAt": "2026-10-19T23:52:49.566Z"
     }
   ],
   "pokemon": {
@@ -767,6 +768,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T15:41:45.008Z",
       "lastPulledAt": "2026-10-02T15:41:45.008Z"
+    },
+    "251": {
+      "id": 251,
+      "name": "celebi",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/251.png",
+      "types": [
+        "psychic",
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-21T19:22:18.799Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-21T19:22:18.799Z",
+      "lastPulledAt": "2026-10-21T19:22:18.799Z"
     },
     "268": {
       "id": 268,

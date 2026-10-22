@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 206,
-  "updatedAt": "2026-10-22T19:47:19.706Z",
+  "totalPulls": 207,
+  "updatedAt": "2026-10-22T22:48:15.516Z",
   "lastPull": {
-    "id": 214,
-    "name": "heracross",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
+    "id": 844,
+    "name": "sandaconda",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
     "types": [
-      "bug",
-      "fighting"
+      "ground"
     ],
-    "totalStats": 500,
+    "totalStats": 510,
     "grade": "SR",
-    "pulledAt": "2026-10-22T19:47:19.706Z"
+    "pulledAt": "2026-10-22T22:48:15.516Z"
   },
   "pulls": [
+    {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T22:48:15.516Z"
+    },
     {
       "id": 214,
       "name": "heracross",
@@ -119,18 +129,6 @@
       "totalStats": 244,
       "grade": "N",
       "pulledAt": "2026-10-21T10:06:13.109Z"
-    },
-    {
-      "id": 947,
-      "name": "brambleghast",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
-      "types": [
-        "grass",
-        "ghost"
-      ],
-      "totalStats": 480,
-      "grade": "R",
-      "pulledAt": "2026-10-21T05:05:32.060Z"
     }
   ],
   "pokemon": {
@@ -2413,6 +2411,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T23:04:48.137Z",
       "lastPulledAt": "2026-10-13T23:04:48.137Z"
+    },
+    "844": {
+      "id": 844,
+      "name": "sandaconda",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-10-22T22:48:15.516Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T22:48:15.516Z",
+      "lastPulledAt": "2026-10-22T22:48:15.516Z"
     },
     "847": {
       "id": 847,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 204,
-  "updatedAt": "2026-10-22T11:07:45.602Z",
+  "totalPulls": 205,
+  "updatedAt": "2026-10-22T15:53:07.485Z",
   "lastPull": {
-    "id": 205,
-    "name": "forretress",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
+    "id": 107,
+    "name": "hitmonchan",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
     "types": [
-      "bug",
-      "steel"
+      "fighting"
     ],
-    "totalStats": 465,
+    "totalStats": 455,
     "grade": "R",
-    "pulledAt": "2026-10-22T11:07:45.602Z"
+    "pulledAt": "2026-10-22T15:53:07.485Z"
   },
   "pulls": [
+    {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-22T15:53:07.485Z"
+    },
     {
       "id": 205,
       "name": "forretress",
@@ -119,18 +129,6 @@
       "totalStats": 420,
       "grade": "R",
       "pulledAt": "2026-10-21T00:19:57.069Z"
-    },
-    {
-      "id": 73,
-      "name": "tentacruel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/73.png",
-      "types": [
-        "water",
-        "poison"
-      ],
-      "totalStats": 515,
-      "grade": "SR",
-      "pulledAt": "2026-10-20T21:50:28.080Z"
     }
   ],
   "pokemon": {
@@ -412,6 +410,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:48:26.515Z",
       "lastPulledAt": "2026-10-18T21:48:26.515Z"
+    },
+    "107": {
+      "id": 107,
+      "name": "hitmonchan",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-22T15:53:07.485Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-22T15:53:07.485Z",
+      "lastPulledAt": "2026-10-22T15:53:07.485Z"
     },
     "121": {
       "id": 121,

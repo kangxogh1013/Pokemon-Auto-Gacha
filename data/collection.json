@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 210,
-  "updatedAt": "2026-10-23T11:30:43.910Z",
+  "totalPulls": 211,
+  "updatedAt": "2026-10-23T15:53:56.788Z",
   "lastPull": {
-    "id": 970,
-    "name": "glimmora",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
+    "id": 416,
+    "name": "vespiquen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
     "types": [
-      "rock",
-      "poison"
+      "bug",
+      "flying"
     ],
-    "totalStats": 525,
-    "grade": "SR",
-    "pulledAt": "2026-10-23T11:30:43.910Z"
+    "totalStats": 474,
+    "grade": "R",
+    "pulledAt": "2026-10-23T15:53:56.788Z"
   },
   "pulls": [
+    {
+      "id": 416,
+      "name": "vespiquen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-23T15:53:56.788Z"
+    },
     {
       "id": 970,
       "name": "glimmora",
@@ -118,18 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-10-22T00:53:56.018Z"
-    },
-    {
-      "id": 634,
-      "name": "zweilous",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/634.png",
-      "types": [
-        "dark",
-        "dragon"
-      ],
-      "totalStats": 420,
-      "grade": "R",
-      "pulledAt": "2026-10-21T22:35:14.495Z"
     }
   ],
   "pokemon": {
@@ -1264,6 +1264,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T10:06:13.109Z",
       "lastPulledAt": "2026-10-21T10:06:13.109Z"
+    },
+    "416": {
+      "id": 416,
+      "name": "vespiquen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
+      "types": [
+        "bug",
+        "flying"
+      ],
+      "totalStats": 474,
+      "grade": "R",
+      "pulledAt": "2026-10-23T15:53:56.788Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T15:53:56.788Z",
+      "lastPulledAt": "2026-10-23T15:53:56.788Z"
     },
     "419": {
       "id": 419,

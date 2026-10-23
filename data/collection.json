@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 208,
-  "updatedAt": "2026-10-23T01:03:55.769Z",
+  "totalPulls": 209,
+  "updatedAt": "2026-10-23T06:00:56.565Z",
   "lastPull": {
-    "id": 765,
-    "name": "oranguru",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
+    "id": 99,
+    "name": "kingler",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
     "types": [
-      "normal",
-      "psychic"
+      "water"
     ],
-    "totalStats": 490,
+    "totalStats": 475,
     "grade": "R",
-    "pulledAt": "2026-10-23T01:03:55.769Z"
+    "pulledAt": "2026-10-23T06:00:56.565Z"
   },
   "pulls": [
+    {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-23T06:00:56.565Z"
+    },
     {
       "id": 765,
       "name": "oranguru",
@@ -119,17 +129,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-21T19:22:18.799Z"
-    },
-    {
-      "id": 631,
-      "name": "heatmor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/631.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 484,
-      "grade": "R",
-      "pulledAt": "2026-10-21T15:13:44.177Z"
     }
   ],
   "pokemon": {
@@ -411,6 +410,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T21:48:26.515Z",
       "lastPulledAt": "2026-10-18T21:48:26.515Z"
+    },
+    "99": {
+      "id": 99,
+      "name": "kingler",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-23T06:00:56.565Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-23T06:00:56.565Z",
+      "lastPulledAt": "2026-10-23T06:00:56.565Z"
     },
     "107": {
       "id": 107,

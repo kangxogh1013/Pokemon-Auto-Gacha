@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 218,
-  "updatedAt": "2026-10-24T17:37:54.746Z",
+  "totalPulls": 219,
+  "updatedAt": "2026-10-24T19:49:22.468Z",
   "lastPull": {
-    "id": 14,
-    "name": "kakuna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+    "id": 674,
+    "name": "pancham",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
     "types": [
-      "bug",
-      "poison"
+      "fighting"
     ],
-    "totalStats": 205,
+    "totalStats": 348,
     "grade": "N",
-    "pulledAt": "2026-10-24T17:37:54.746Z"
+    "pulledAt": "2026-10-24T19:49:22.468Z"
   },
   "pulls": [
+    {
+      "id": 674,
+      "name": "pancham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-24T19:49:22.468Z"
+    },
     {
       "id": 14,
       "name": "kakuna",
@@ -120,17 +130,6 @@
       "totalStats": 525,
       "grade": "SR",
       "pulledAt": "2026-10-23T11:30:43.910Z"
-    },
-    {
-      "id": 99,
-      "name": "kingler",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/99.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-23T06:00:56.565Z"
     }
   ],
   "pokemon": {
@@ -2054,6 +2053,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-12T07:29:35.255Z",
       "lastPulledAt": "2026-10-12T07:29:35.255Z"
+    },
+    "674": {
+      "id": 674,
+      "name": "pancham",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 348,
+      "grade": "N",
+      "pulledAt": "2026-10-24T19:49:22.468Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T19:49:22.468Z",
+      "lastPulledAt": "2026-10-24T19:49:22.468Z"
     },
     "681": {
       "id": 681,

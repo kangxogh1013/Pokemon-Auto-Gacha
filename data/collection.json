@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 217,
-  "updatedAt": "2026-10-24T14:39:54.571Z",
+  "totalPulls": 218,
+  "updatedAt": "2026-10-24T17:37:54.746Z",
   "lastPull": {
-    "id": 736,
-    "name": "grubbin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+    "id": 14,
+    "name": "kakuna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
     "types": [
-      "bug"
+      "bug",
+      "poison"
     ],
-    "totalStats": 300,
+    "totalStats": 205,
     "grade": "N",
-    "pulledAt": "2026-10-24T14:39:54.571Z"
+    "pulledAt": "2026-10-24T17:37:54.746Z"
   },
   "pulls": [
+    {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-24T17:37:54.746Z"
+    },
     {
       "id": 736,
       "name": "grubbin",
@@ -118,18 +131,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-23T06:00:56.565Z"
-    },
-    {
-      "id": 765,
-      "name": "oranguru",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/765.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-10-23T01:03:55.769Z"
     }
   ],
   "pokemon": {
@@ -163,6 +164,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T19:15:38.451Z",
       "lastPulledAt": "2026-09-27T19:15:38.451Z"
+    },
+    "14": {
+      "id": 14,
+      "name": "kakuna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/14.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 205,
+      "grade": "N",
+      "pulledAt": "2026-10-24T17:37:54.746Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T17:37:54.746Z",
+      "lastPulledAt": "2026-10-24T17:37:54.746Z"
     },
     "15": {
       "id": 15,

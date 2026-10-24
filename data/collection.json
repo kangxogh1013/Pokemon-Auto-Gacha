@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 214,
-  "updatedAt": "2026-10-24T01:22:30.139Z",
+  "totalPulls": 215,
+  "updatedAt": "2026-10-24T06:14:28.069Z",
   "lastPull": {
-    "id": 715,
-    "name": "noivern",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+    "id": 699,
+    "name": "aurorus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
     "types": [
-      "flying",
-      "dragon"
+      "rock",
+      "ice"
     ],
-    "totalStats": 535,
+    "totalStats": 521,
     "grade": "SR",
-    "pulledAt": "2026-10-24T01:22:30.139Z"
+    "pulledAt": "2026-10-24T06:14:28.069Z"
   },
   "pulls": [
+    {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T06:14:28.069Z"
+    },
     {
       "id": 715,
       "name": "noivern",
@@ -119,17 +131,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-10-22T19:47:19.706Z"
-    },
-    {
-      "id": 107,
-      "name": "hitmonchan",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/107.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-22T15:53:07.485Z"
     }
   ],
   "pokemon": {
@@ -2069,6 +2070,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T16:31:22.348Z",
       "lastPulledAt": "2026-10-17T16:31:22.348Z"
+    },
+    "699": {
+      "id": 699,
+      "name": "aurorus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+      "types": [
+        "rock",
+        "ice"
+      ],
+      "totalStats": 521,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T06:14:28.069Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T06:14:28.069Z",
+      "lastPulledAt": "2026-10-24T06:14:28.069Z"
     },
     "710": {
       "id": 710,

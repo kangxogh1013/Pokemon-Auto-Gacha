@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 215,
-  "updatedAt": "2026-10-24T06:14:28.069Z",
+  "totalPulls": 216,
+  "updatedAt": "2026-10-24T11:16:16.708Z",
   "lastPull": {
-    "id": 699,
-    "name": "aurorus",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
+    "id": 277,
+    "name": "swellow",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
     "types": [
-      "rock",
-      "ice"
+      "normal",
+      "flying"
     ],
-    "totalStats": 521,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T06:14:28.069Z"
+    "totalStats": 455,
+    "grade": "R",
+    "pulledAt": "2026-10-24T11:16:16.708Z"
   },
   "pulls": [
+    {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T11:16:16.708Z"
+    },
     {
       "id": 699,
       "name": "aurorus",
@@ -119,18 +131,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-10-22T22:48:15.516Z"
-    },
-    {
-      "id": 214,
-      "name": "heracross",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/214.png",
-      "types": [
-        "bug",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T19:47:19.706Z"
     }
   ],
   "pokemon": {
@@ -876,6 +876,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:26:39.579Z",
       "lastPulledAt": "2026-10-01T19:26:39.579Z"
+    },
+    "277": {
+      "id": 277,
+      "name": "swellow",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 455,
+      "grade": "R",
+      "pulledAt": "2026-10-24T11:16:16.708Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T11:16:16.708Z",
+      "lastPulledAt": "2026-10-24T11:16:16.708Z"
     },
     "278": {
       "id": 278,

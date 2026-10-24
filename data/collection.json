@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 219,
-  "updatedAt": "2026-10-24T19:49:22.468Z",
+  "totalPulls": 220,
+  "updatedAt": "2026-10-24T22:08:18.205Z",
   "lastPull": {
-    "id": 674,
-    "name": "pancham",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
+    "id": 652,
+    "name": "chesnaught",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
     "types": [
+      "grass",
       "fighting"
     ],
-    "totalStats": 348,
-    "grade": "N",
-    "pulledAt": "2026-10-24T19:49:22.468Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T22:08:18.205Z"
   },
   "pulls": [
+    {
+      "id": 652,
+      "name": "chesnaught",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+      "types": [
+        "grass",
+        "fighting"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T22:08:18.205Z"
+    },
     {
       "id": 674,
       "name": "pancham",
@@ -118,18 +131,6 @@
       "totalStats": 474,
       "grade": "R",
       "pulledAt": "2026-10-23T15:53:56.788Z"
-    },
-    {
-      "id": 970,
-      "name": "glimmora",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/970.png",
-      "types": [
-        "rock",
-        "poison"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-23T11:30:43.910Z"
     }
   ],
   "pokemon": {
@@ -1972,10 +1973,10 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-09-25T06:43:25.948Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T06:43:25.948Z",
-      "lastPulledAt": "2026-09-25T06:43:25.948Z"
+      "lastPulledAt": "2026-10-24T22:08:18.205Z"
     },
     "656": {
       "id": 656,

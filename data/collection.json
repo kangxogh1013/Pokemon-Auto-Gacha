@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 216,
-  "updatedAt": "2026-10-24T11:16:16.708Z",
+  "totalPulls": 217,
+  "updatedAt": "2026-10-24T14:39:54.571Z",
   "lastPull": {
-    "id": 277,
-    "name": "swellow",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
+    "id": 736,
+    "name": "grubbin",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
     "types": [
-      "normal",
-      "flying"
+      "bug"
     ],
-    "totalStats": 455,
-    "grade": "R",
-    "pulledAt": "2026-10-24T11:16:16.708Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-10-24T14:39:54.571Z"
   },
   "pulls": [
+    {
+      "id": 736,
+      "name": "grubbin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-24T14:39:54.571Z"
+    },
     {
       "id": 277,
       "name": "swellow",
@@ -120,17 +130,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-23T01:03:55.769Z"
-    },
-    {
-      "id": 844,
-      "name": "sandaconda",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/844.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-10-22T22:48:15.516Z"
     }
   ],
   "pokemon": {
@@ -2213,6 +2212,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-20T14:12:24.818Z",
       "lastPulledAt": "2026-10-20T14:12:24.818Z"
+    },
+    "736": {
+      "id": 736,
+      "name": "grubbin",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-10-24T14:39:54.571Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T14:39:54.571Z",
+      "lastPulledAt": "2026-10-24T14:39:54.571Z"
     },
     "738": {
       "id": 738,

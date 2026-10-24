@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 213,
-  "updatedAt": "2026-10-23T22:52:11.695Z",
+  "totalPulls": 214,
+  "updatedAt": "2026-10-24T01:22:30.139Z",
   "lastPull": {
-    "id": 483,
-    "name": "dialga",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/483.png",
+    "id": 715,
+    "name": "noivern",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
     "types": [
-      "steel",
+      "flying",
       "dragon"
     ],
-    "totalStats": 680,
-    "grade": "SSR",
-    "pulledAt": "2026-10-23T22:52:11.695Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-24T01:22:30.139Z"
   },
   "pulls": [
+    {
+      "id": 715,
+      "name": "noivern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T01:22:30.139Z"
+    },
     {
       "id": 483,
       "name": "dialga",
@@ -118,18 +130,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-22T15:53:07.485Z"
-    },
-    {
-      "id": 205,
-      "name": "forretress",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/205.png",
-      "types": [
-        "bug",
-        "steel"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-10-22T11:07:45.602Z"
     }
   ],
   "pokemon": {
@@ -2100,6 +2100,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-05T21:59:38.658Z",
       "lastPulledAt": "2026-10-05T21:59:38.658Z"
+    },
+    "715": {
+      "id": 715,
+      "name": "noivern",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/715.png",
+      "types": [
+        "flying",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-24T01:22:30.139Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-24T01:22:30.139Z",
+      "lastPulledAt": "2026-10-24T01:22:30.139Z"
     },
     "721": {
       "id": 721,

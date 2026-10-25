@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 224,
-  "updatedAt": "2026-10-25T13:58:24.032Z",
+  "totalPulls": 225,
+  "updatedAt": "2026-10-25T17:36:09.075Z",
   "lastPull": {
-    "id": 882,
-    "name": "dracovish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
+    "id": 517,
+    "name": "munna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
     "types": [
-      "water",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 505,
-    "grade": "SR",
-    "pulledAt": "2026-10-25T13:58:24.032Z"
+    "totalStats": 292,
+    "grade": "N",
+    "pulledAt": "2026-10-25T17:36:09.075Z"
   },
   "pulls": [
+    {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-25T17:36:09.075Z"
+    },
     {
       "id": 882,
       "name": "dracovish",
@@ -118,18 +128,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-24T11:16:16.708Z"
-    },
-    {
-      "id": 699,
-      "name": "aurorus",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/699.png",
-      "types": [
-        "rock",
-        "ice"
-      ],
-      "totalStats": 521,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T06:14:28.069Z"
     }
   ],
   "pokemon": {
@@ -1604,6 +1602,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T20:09:46.281Z",
       "lastPulledAt": "2026-09-17T20:09:46.281Z"
+    },
+    "517": {
+      "id": 517,
+      "name": "munna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 292,
+      "grade": "N",
+      "pulledAt": "2026-10-25T17:36:09.075Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T17:36:09.075Z",
+      "lastPulledAt": "2026-10-25T17:36:09.075Z"
     },
     "518": {
       "id": 518,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 226,
-  "updatedAt": "2026-10-25T19:57:28.079Z",
+  "totalPulls": 227,
+  "updatedAt": "2026-10-25T22:27:21.350Z",
   "lastPull": {
-    "id": 15,
-    "name": "beedrill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+    "id": 429,
+    "name": "mismagius",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
     "types": [
-      "bug",
-      "poison"
+      "ghost"
     ],
-    "totalStats": 395,
-    "grade": "N",
-    "pulledAt": "2026-10-25T19:57:28.079Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-10-25T22:27:21.350Z"
   },
   "pulls": [
+    {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T22:27:21.350Z"
+    },
     {
       "id": 15,
       "name": "beedrill",
@@ -118,17 +128,6 @@
       "totalStats": 205,
       "grade": "N",
       "pulledAt": "2026-10-24T17:37:54.746Z"
-    },
-    {
-      "id": 736,
-      "name": "grubbin",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/736.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-10-24T14:39:54.571Z"
     }
   ],
   "pokemon": {
@@ -1386,6 +1385,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T06:21:17.919Z",
       "lastPulledAt": "2026-09-22T06:21:17.919Z"
+    },
+    "429": {
+      "id": 429,
+      "name": "mismagius",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
+      "types": [
+        "ghost"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-10-25T22:27:21.350Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T22:27:21.350Z",
+      "lastPulledAt": "2026-10-25T22:27:21.350Z"
     },
     "431": {
       "id": 431,

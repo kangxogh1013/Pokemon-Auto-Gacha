@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 225,
-  "updatedAt": "2026-10-25T17:36:09.075Z",
+  "totalPulls": 226,
+  "updatedAt": "2026-10-25T19:57:28.079Z",
   "lastPull": {
-    "id": 517,
-    "name": "munna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/517.png",
+    "id": 15,
+    "name": "beedrill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
     "types": [
-      "psychic"
+      "bug",
+      "poison"
     ],
-    "totalStats": 292,
+    "totalStats": 395,
     "grade": "N",
-    "pulledAt": "2026-10-25T17:36:09.075Z"
+    "pulledAt": "2026-10-25T19:57:28.079Z"
   },
   "pulls": [
+    {
+      "id": 15,
+      "name": "beedrill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/15.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 395,
+      "grade": "N",
+      "pulledAt": "2026-10-25T19:57:28.079Z"
+    },
     {
       "id": 517,
       "name": "munna",
@@ -116,18 +129,6 @@
       "totalStats": 300,
       "grade": "N",
       "pulledAt": "2026-10-24T14:39:54.571Z"
-    },
-    {
-      "id": 277,
-      "name": "swellow",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/277.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 455,
-      "grade": "R",
-      "pulledAt": "2026-10-24T11:16:16.708Z"
     }
   ],
   "pokemon": {
@@ -189,10 +190,10 @@
       "totalStats": 395,
       "grade": "N",
       "pulledAt": "2026-10-17T01:15:29.988Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T01:15:29.988Z",
-      "lastPulledAt": "2026-10-17T01:15:29.988Z"
+      "lastPulledAt": "2026-10-25T19:57:28.079Z"
     },
     "16": {
       "id": 16,

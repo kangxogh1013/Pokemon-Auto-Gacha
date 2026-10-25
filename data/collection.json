@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 220,
-  "updatedAt": "2026-10-24T22:08:18.205Z",
+  "totalPulls": 221,
+  "updatedAt": "2026-10-25T00:20:46.219Z",
   "lastPull": {
-    "id": 652,
-    "name": "chesnaught",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
+    "id": 873,
+    "name": "frosmoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
     "types": [
-      "grass",
-      "fighting"
+      "ice",
+      "bug"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-10-24T22:08:18.205Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-10-25T00:20:46.219Z"
   },
   "pulls": [
+    {
+      "id": 873,
+      "name": "frosmoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-25T00:20:46.219Z"
+    },
     {
       "id": 652,
       "name": "chesnaught",
@@ -119,18 +131,6 @@
       "totalStats": 455,
       "grade": "R",
       "pulledAt": "2026-10-23T19:51:28.363Z"
-    },
-    {
-      "id": 416,
-      "name": "vespiquen",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/416.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 474,
-      "grade": "R",
-      "pulledAt": "2026-10-23T15:53:56.788Z"
     }
   ],
   "pokemon": {
@@ -2661,6 +2661,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T23:49:43.564Z",
       "lastPulledAt": "2026-10-07T23:49:43.564Z"
+    },
+    "873": {
+      "id": 873,
+      "name": "frosmoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/873.png",
+      "types": [
+        "ice",
+        "bug"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-10-25T00:20:46.219Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-25T00:20:46.219Z",
+      "lastPulledAt": "2026-10-25T00:20:46.219Z"
     },
     "879": {
       "id": 879,

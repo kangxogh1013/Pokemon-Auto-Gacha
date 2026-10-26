@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 228,
-  "updatedAt": "2026-10-26T00:38:57.299Z",
+  "totalPulls": 229,
+  "updatedAt": "2026-10-26T05:21:40.438Z",
   "lastPull": {
-    "id": 834,
-    "name": "drednaw",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/834.png",
+    "id": 856,
+    "name": "hatenna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
     "types": [
-      "water",
-      "rock"
+      "psychic"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-26T00:38:57.299Z"
+    "totalStats": 265,
+    "grade": "N",
+    "pulledAt": "2026-10-26T05:21:40.438Z"
   },
   "pulls": [
+    {
+      "id": 856,
+      "name": "hatenna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:21:40.438Z"
+    },
     {
       "id": 834,
       "name": "drednaw",
@@ -118,17 +128,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-10-24T22:08:18.205Z"
-    },
-    {
-      "id": 674,
-      "name": "pancham",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/674.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 348,
-      "grade": "N",
-      "pulledAt": "2026-10-24T19:49:22.468Z"
     }
   ],
   "pokemon": {
@@ -2720,6 +2719,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T18:28:03.947Z",
       "lastPulledAt": "2026-10-15T14:19:28.153Z"
+    },
+    "856": {
+      "id": 856,
+      "name": "hatenna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 265,
+      "grade": "N",
+      "pulledAt": "2026-10-26T05:21:40.438Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T05:21:40.438Z",
+      "lastPulledAt": "2026-10-26T05:21:40.438Z"
     },
     "857": {
       "id": 857,

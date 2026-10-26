@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 231,
-  "updatedAt": "2026-10-26T17:31:41.329Z",
+  "totalPulls": 232,
+  "updatedAt": "2026-10-26T21:50:17.271Z",
   "lastPull": {
-    "id": 650,
-    "name": "chespin",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/650.png",
+    "id": 380,
+    "name": "latias",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
     "types": [
-      "grass"
+      "dragon",
+      "psychic"
     ],
-    "totalStats": 313,
-    "grade": "N",
-    "pulledAt": "2026-10-26T17:31:41.329Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-10-26T21:50:17.271Z"
   },
   "pulls": [
+    {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-26T21:50:17.271Z"
+    },
     {
       "id": 650,
       "name": "chespin",
@@ -116,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-10-25T09:46:12.479Z"
-    },
-    {
-      "id": 54,
-      "name": "psyduck",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/54.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 320,
-      "grade": "N",
-      "pulledAt": "2026-10-25T05:02:54.647Z"
     }
   ],
   "pokemon": {
@@ -1199,6 +1201,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:57:39.432Z",
       "lastPulledAt": "2026-09-21T13:57:39.432Z"
+    },
+    "380": {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-10-26T21:50:17.271Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T21:50:17.271Z",
+      "lastPulledAt": "2026-10-26T21:50:17.271Z"
     },
     "390": {
       "id": 390,

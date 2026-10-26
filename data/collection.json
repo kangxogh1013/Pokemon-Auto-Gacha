@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 229,
-  "updatedAt": "2026-10-26T05:21:40.438Z",
+  "totalPulls": 230,
+  "updatedAt": "2026-10-26T11:22:02.276Z",
   "lastPull": {
-    "id": 856,
-    "name": "hatenna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/856.png",
+    "id": 274,
+    "name": "nuzleaf",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
     "types": [
-      "psychic"
+      "grass",
+      "dark"
     ],
-    "totalStats": 265,
+    "totalStats": 340,
     "grade": "N",
-    "pulledAt": "2026-10-26T05:21:40.438Z"
+    "pulledAt": "2026-10-26T11:22:02.276Z"
   },
   "pulls": [
+    {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-26T11:22:02.276Z"
+    },
     {
       "id": 856,
       "name": "hatenna",
@@ -116,18 +129,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-10-25T00:20:46.219Z"
-    },
-    {
-      "id": 652,
-      "name": "chesnaught",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/652.png",
-      "types": [
-        "grass",
-        "fighting"
-      ],
-      "totalStats": 530,
-      "grade": "SR",
-      "pulledAt": "2026-10-24T22:08:18.205Z"
     }
   ],
   "pokemon": {
@@ -904,6 +905,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:26:39.579Z",
       "lastPulledAt": "2026-10-01T19:26:39.579Z"
+    },
+    "274": {
+      "id": 274,
+      "name": "nuzleaf",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/274.png",
+      "types": [
+        "grass",
+        "dark"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-10-26T11:22:02.276Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-26T11:22:02.276Z",
+      "lastPulledAt": "2026-10-26T11:22:02.276Z"
     },
     "277": {
       "id": 277,

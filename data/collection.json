@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 236,
-  "updatedAt": "2026-10-27T18:11:34.253Z",
+  "totalPulls": 237,
+  "updatedAt": "2026-10-27T22:21:16.644Z",
   "lastPull": {
-    "id": 518,
-    "name": "musharna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "id": 112,
+    "name": "rhydon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
     "types": [
-      "psychic"
+      "ground",
+      "rock"
     ],
-    "totalStats": 487,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-10-27T18:11:34.253Z"
+    "pulledAt": "2026-10-27T22:21:16.644Z"
   },
   "pulls": [
+    {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:21:16.644Z"
+    },
     {
       "id": 518,
       "name": "musharna",
@@ -115,17 +128,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-10-26T00:38:57.299Z"
-    },
-    {
-      "id": 429,
-      "name": "mismagius",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/429.png",
-      "types": [
-        "ghost"
-      ],
-      "totalStats": 495,
-      "grade": "R",
-      "pulledAt": "2026-10-25T22:27:21.350Z"
     }
   ],
   "pokemon": {
@@ -483,6 +485,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-22T15:53:07.485Z",
       "lastPulledAt": "2026-10-22T15:53:07.485Z"
+    },
+    "112": {
+      "id": 112,
+      "name": "rhydon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/112.png",
+      "types": [
+        "ground",
+        "rock"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-27T22:21:16.644Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-27T22:21:16.644Z",
+      "lastPulledAt": "2026-10-27T22:21:16.644Z"
     },
     "121": {
       "id": 121,

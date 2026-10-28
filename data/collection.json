@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 241,
-  "updatedAt": "2026-10-28T19:40:55.592Z",
+  "totalPulls": 242,
+  "updatedAt": "2026-10-28T23:37:16.766Z",
   "lastPull": {
-    "id": 457,
-    "name": "lumineon",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
+    "id": 659,
+    "name": "bunnelby",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 460,
-    "grade": "R",
-    "pulledAt": "2026-10-28T19:40:55.592Z"
+    "totalStats": 237,
+    "grade": "N",
+    "pulledAt": "2026-10-28T23:37:16.766Z"
   },
   "pulls": [
+    {
+      "id": 659,
+      "name": "bunnelby",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 237,
+      "grade": "N",
+      "pulledAt": "2026-10-28T23:37:16.766Z"
+    },
     {
       "id": 457,
       "name": "lumineon",
@@ -114,18 +125,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-27T01:02:20.285Z"
-    },
-    {
-      "id": 380,
-      "name": "latias",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-10-26T21:50:17.271Z"
     }
   ],
   "pokemon": {
@@ -2152,10 +2151,10 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-09-30T05:51:26.948Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T05:51:26.948Z",
-      "lastPulledAt": "2026-09-30T05:51:26.948Z"
+      "lastPulledAt": "2026-10-28T23:37:16.766Z"
     },
     "668": {
       "id": 668,

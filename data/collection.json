@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 247,
-  "updatedAt": "2026-10-30T01:13:04.687Z",
+  "totalPulls": 248,
+  "updatedAt": "2026-10-30T07:15:49.502Z",
   "lastPull": {
-    "id": 951,
-    "name": "capsakid",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/951.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
-      "grass"
+      "water"
     ],
-    "totalStats": 304,
-    "grade": "N",
-    "pulledAt": "2026-10-30T01:13:04.687Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-10-30T07:15:49.502Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-10-30T07:15:49.502Z"
+    },
     {
       "id": 951,
       "name": "capsakid",
@@ -113,18 +124,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-10-28T07:21:38.217Z"
-    },
-    {
-      "id": 936,
-      "name": "armarouge",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/936.png",
-      "types": [
-        "fire",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-10-28T01:31:30.668Z"
     }
   ],
   "pokemon": {
@@ -1209,10 +1208,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-21T13:57:39.432Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:57:39.432Z",
-      "lastPulledAt": "2026-09-21T13:57:39.432Z"
+      "lastPulledAt": "2026-10-30T07:15:49.502Z"
     },
     "380": {
       "id": 380,

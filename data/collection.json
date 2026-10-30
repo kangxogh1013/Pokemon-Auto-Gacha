@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 248,
-  "updatedAt": "2026-10-30T07:15:49.502Z",
+  "totalPulls": 249,
+  "updatedAt": "2026-10-30T14:21:07.833Z",
   "lastPull": {
-    "id": 367,
-    "name": "huntail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "id": 390,
+    "name": "chimchar",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
     "types": [
-      "water"
+      "fire"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-10-30T07:15:49.502Z"
+    "totalStats": 309,
+    "grade": "N",
+    "pulledAt": "2026-10-30T14:21:07.833Z"
   },
   "pulls": [
+    {
+      "id": 390,
+      "name": "chimchar",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
+      "types": [
+        "fire"
+      ],
+      "totalStats": 309,
+      "grade": "N",
+      "pulledAt": "2026-10-30T14:21:07.833Z"
+    },
     {
       "id": 367,
       "name": "huntail",
@@ -113,17 +124,6 @@
       "totalStats": 341,
       "grade": "N",
       "pulledAt": "2026-10-28T14:16:25.518Z"
-    },
-    {
-      "id": 619,
-      "name": "mienfoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/619.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-10-28T07:21:38.217Z"
     }
   ],
   "pokemon": {
@@ -1239,10 +1239,10 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-10-18T10:07:49.844Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T10:07:49.844Z",
-      "lastPulledAt": "2026-10-18T10:07:49.844Z"
+      "lastPulledAt": "2026-10-30T14:21:07.833Z"
     },
     "391": {
       "id": 391,

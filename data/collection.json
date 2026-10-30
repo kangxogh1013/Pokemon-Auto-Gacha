@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 250,
-  "updatedAt": "2026-10-30T19:34:20.579Z",
+  "totalPulls": 251,
+  "updatedAt": "2026-10-30T23:13:17.001Z",
   "lastPull": {
-    "id": 224,
-    "name": "octillery",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/224.png",
+    "id": 518,
+    "name": "musharna",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
     "types": [
-      "water"
+      "psychic"
     ],
-    "totalStats": 480,
+    "totalStats": 487,
     "grade": "R",
-    "pulledAt": "2026-10-30T19:34:20.579Z"
+    "pulledAt": "2026-10-30T23:13:17.001Z"
   },
   "pulls": [
+    {
+      "id": 518,
+      "name": "musharna",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 487,
+      "grade": "R",
+      "pulledAt": "2026-10-30T23:13:17.001Z"
+    },
     {
       "id": 224,
       "name": "octillery",
@@ -113,17 +124,6 @@
       "totalStats": 237,
       "grade": "N",
       "pulledAt": "2026-10-28T23:37:16.766Z"
-    },
-    {
-      "id": 457,
-      "name": "lumineon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/457.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 460,
-      "grade": "R",
-      "pulledAt": "2026-10-28T19:40:55.592Z"
     }
   ],
   "pokemon": {
@@ -1747,10 +1747,10 @@
       "totalStats": 487,
       "grade": "R",
       "pulledAt": "2026-09-16T17:16:37.621Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:16:37.621Z",
-      "lastPulledAt": "2026-10-27T18:11:34.253Z"
+      "lastPulledAt": "2026-10-30T23:13:17.001Z"
     },
     "524": {
       "id": 524,

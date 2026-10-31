@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 253,
-  "updatedAt": "2026-10-31T08:49:46.752Z",
+  "totalPulls": 254,
+  "updatedAt": "2026-10-31T14:55:35.784Z",
   "lastPull": {
-    "id": 532,
-    "name": "timburr",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+    "id": 833,
+    "name": "chewtle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
     "types": [
-      "fighting"
+      "water"
     ],
-    "totalStats": 305,
+    "totalStats": 284,
     "grade": "N",
-    "pulledAt": "2026-10-31T08:49:46.752Z"
+    "pulledAt": "2026-10-31T14:55:35.784Z"
   },
   "pulls": [
+    {
+      "id": 833,
+      "name": "chewtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 284,
+      "grade": "N",
+      "pulledAt": "2026-10-31T14:55:35.784Z"
+    },
     {
       "id": 532,
       "name": "timburr",
@@ -114,17 +125,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-10-29T16:25:02.742Z"
-    },
-    {
-      "id": 921,
-      "name": "pawmi",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/921.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 240,
-      "grade": "N",
-      "pulledAt": "2026-10-29T09:37:28.420Z"
     }
   ],
   "pokemon": {
@@ -2761,6 +2761,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T07:33:33.816Z",
       "lastPulledAt": "2026-09-26T07:33:33.816Z"
+    },
+    "833": {
+      "id": 833,
+      "name": "chewtle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 284,
+      "grade": "N",
+      "pulledAt": "2026-10-31T14:55:35.784Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T14:55:35.784Z",
+      "lastPulledAt": "2026-10-31T14:55:35.784Z"
     },
     "834": {
       "id": 834,

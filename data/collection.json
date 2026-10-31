@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 252,
-  "updatedAt": "2026-10-31T02:30:02.705Z",
+  "totalPulls": 253,
+  "updatedAt": "2026-10-31T08:49:46.752Z",
   "lastPull": {
-    "id": 979,
-    "name": "annihilape",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+    "id": 532,
+    "name": "timburr",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
     "types": [
-      "fighting",
-      "ghost"
+      "fighting"
     ],
-    "totalStats": 535,
-    "grade": "SR",
-    "pulledAt": "2026-10-31T02:30:02.705Z"
+    "totalStats": 305,
+    "grade": "N",
+    "pulledAt": "2026-10-31T08:49:46.752Z"
   },
   "pulls": [
+    {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-31T08:49:46.752Z"
+    },
     {
       "id": 979,
       "name": "annihilape",
@@ -115,17 +125,6 @@
       "totalStats": 240,
       "grade": "N",
       "pulledAt": "2026-10-29T09:37:28.420Z"
-    },
-    {
-      "id": 403,
-      "name": "shinx",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/403.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 263,
-      "grade": "N",
-      "pulledAt": "2026-10-29T02:53:52.445Z"
     }
   ],
   "pokemon": {
@@ -1799,6 +1798,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T00:29:50.140Z",
       "lastPulledAt": "2026-10-12T01:17:06.232Z"
+    },
+    "532": {
+      "id": 532,
+      "name": "timburr",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
+      "types": [
+        "fighting"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-10-31T08:49:46.752Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T08:49:46.752Z",
+      "lastPulledAt": "2026-10-31T08:49:46.752Z"
     },
     "533": {
       "id": 533,

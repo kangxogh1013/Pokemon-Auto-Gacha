@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 251,
-  "updatedAt": "2026-10-30T23:13:17.001Z",
+  "totalPulls": 252,
+  "updatedAt": "2026-10-31T02:30:02.705Z",
   "lastPull": {
-    "id": 518,
-    "name": "musharna",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
+    "id": 979,
+    "name": "annihilape",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
     "types": [
-      "psychic"
+      "fighting",
+      "ghost"
     ],
-    "totalStats": 487,
-    "grade": "R",
-    "pulledAt": "2026-10-30T23:13:17.001Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-10-31T02:30:02.705Z"
   },
   "pulls": [
+    {
+      "id": 979,
+      "name": "annihilape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T02:30:02.705Z"
+    },
     {
       "id": 518,
       "name": "musharna",
@@ -113,17 +126,6 @@
       "totalStats": 263,
       "grade": "N",
       "pulledAt": "2026-10-29T02:53:52.445Z"
-    },
-    {
-      "id": 659,
-      "name": "bunnelby",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/659.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 237,
-      "grade": "N",
-      "pulledAt": "2026-10-28T23:37:16.766Z"
     }
   ],
   "pokemon": {
@@ -3303,6 +3305,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T12:30:38.315Z",
       "lastPulledAt": "2026-10-17T05:41:47.073Z"
+    },
+    "979": {
+      "id": 979,
+      "name": "annihilape",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
+      "types": [
+        "fighting",
+        "ghost"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-10-31T02:30:02.705Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T02:30:02.705Z",
+      "lastPulledAt": "2026-10-31T02:30:02.705Z"
     },
     "988": {
       "id": 988,

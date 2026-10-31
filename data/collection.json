@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 255,
-  "updatedAt": "2026-10-31T19:12:33.509Z",
+  "totalPulls": 256,
+  "updatedAt": "2026-10-31T22:34:24.283Z",
   "lastPull": {
-    "id": 947,
-    "name": "brambleghast",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/947.png",
+    "id": 132,
+    "name": "ditto",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
     "types": [
-      "grass",
-      "ghost"
+      "normal"
     ],
-    "totalStats": 480,
-    "grade": "R",
-    "pulledAt": "2026-10-31T19:12:33.509Z"
+    "totalStats": 288,
+    "grade": "N",
+    "pulledAt": "2026-10-31T22:34:24.283Z"
   },
   "pulls": [
+    {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:34:24.283Z"
+    },
     {
       "id": 947,
       "name": "brambleghast",
@@ -115,18 +125,6 @@
       "totalStats": 304,
       "grade": "N",
       "pulledAt": "2026-10-30T01:13:04.687Z"
-    },
-    {
-      "id": 876,
-      "name": "indeedee-male",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/876.png",
-      "types": [
-        "psychic",
-        "normal"
-      ],
-      "totalStats": 475,
-      "grade": "R",
-      "pulledAt": "2026-10-29T21:21:03.552Z"
     }
   ],
   "pokemon": {
@@ -563,6 +561,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T03:52:24.556Z",
       "lastPulledAt": "2026-10-13T03:52:24.556Z"
+    },
+    "132": {
+      "id": 132,
+      "name": "ditto",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 288,
+      "grade": "N",
+      "pulledAt": "2026-10-31T22:34:24.283Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-10-31T22:34:24.283Z",
+      "lastPulledAt": "2026-10-31T22:34:24.283Z"
     },
     "134": {
       "id": 134,

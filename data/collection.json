@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 257,
-  "updatedAt": "2026-11-01T01:27:30.631Z",
+  "totalPulls": 258,
+  "updatedAt": "2026-11-01T08:03:10.950Z",
   "lastPull": {
-    "id": 475,
-    "name": "gallade",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/475.png",
+    "id": 69,
+    "name": "bellsprout",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
     "types": [
-      "psychic",
-      "fighting"
+      "grass",
+      "poison"
     ],
-    "totalStats": 518,
-    "grade": "SR",
-    "pulledAt": "2026-11-01T01:27:30.631Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-01T08:03:10.950Z"
   },
   "pulls": [
+    {
+      "id": 69,
+      "name": "bellsprout",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-01T08:03:10.950Z"
+    },
     {
       "id": 475,
       "name": "gallade",
@@ -116,17 +128,6 @@
       "totalStats": 309,
       "grade": "N",
       "pulledAt": "2026-10-30T14:21:07.833Z"
-    },
-    {
-      "id": 367,
-      "name": "huntail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-10-30T07:15:49.502Z"
     }
   ],
   "pokemon": {
@@ -376,6 +377,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T21:05:43.401Z",
       "lastPulledAt": "2026-10-17T21:05:43.401Z"
+    },
+    "69": {
+      "id": 69,
+      "name": "bellsprout",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-01T08:03:10.950Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T08:03:10.950Z",
+      "lastPulledAt": "2026-11-01T08:03:10.950Z"
     },
     "71": {
       "id": 71,

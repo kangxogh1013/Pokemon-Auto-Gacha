@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 260,
-  "updatedAt": "2026-11-01T19:36:45.700Z",
+  "totalPulls": 261,
+  "updatedAt": "2026-11-01T23:05:29.956Z",
   "lastPull": {
-    "id": 150,
-    "name": "mewtwo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
+    "id": 380,
+    "name": "latias",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
     "types": [
+      "dragon",
       "psychic"
     ],
-    "totalStats": 680,
+    "totalStats": 600,
     "grade": "SSR",
-    "pulledAt": "2026-11-01T19:36:45.700Z"
+    "pulledAt": "2026-11-01T23:05:29.956Z"
   },
   "pulls": [
+    {
+      "id": 380,
+      "name": "latias",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+      "types": [
+        "dragon",
+        "psychic"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-01T23:05:29.956Z"
+    },
     {
       "id": 150,
       "name": "mewtwo",
@@ -116,17 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-10-31T02:30:02.705Z"
-    },
-    {
-      "id": 518,
-      "name": "musharna",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/518.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 487,
-      "grade": "R",
-      "pulledAt": "2026-10-30T23:13:17.001Z"
     }
   ],
   "pokemon": {
@@ -1288,10 +1290,10 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-10-26T21:50:17.271Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T21:50:17.271Z",
-      "lastPulledAt": "2026-10-26T21:50:17.271Z"
+      "lastPulledAt": "2026-11-01T23:05:29.956Z"
     },
     "390": {
       "id": 390,

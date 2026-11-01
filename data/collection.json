@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 258,
-  "updatedAt": "2026-11-01T08:03:10.950Z",
+  "totalPulls": 259,
+  "updatedAt": "2026-11-01T15:02:36.789Z",
   "lastPull": {
-    "id": 69,
-    "name": "bellsprout",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
+    "id": 924,
+    "name": "tandemaus",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
     "types": [
-      "grass",
-      "poison"
+      "normal"
     ],
-    "totalStats": 300,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-01T08:03:10.950Z"
+    "pulledAt": "2026-11-01T15:02:36.789Z"
   },
   "pulls": [
+    {
+      "id": 924,
+      "name": "tandemaus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-01T15:02:36.789Z"
+    },
     {
       "id": 69,
       "name": "bellsprout",
@@ -117,17 +127,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-30T19:34:20.579Z"
-    },
-    {
-      "id": 390,
-      "name": "chimchar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/390.png",
-      "types": [
-        "fire"
-      ],
-      "totalStats": 309,
-      "grade": "N",
-      "pulledAt": "2026-10-30T14:21:07.833Z"
     }
   ],
   "pokemon": {
@@ -3135,6 +3134,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:56:49.667Z",
       "lastPulledAt": "2026-10-29T09:37:28.420Z"
+    },
+    "924": {
+      "id": 924,
+      "name": "tandemaus",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/924.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-01T15:02:36.789Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-01T15:02:36.789Z",
+      "lastPulledAt": "2026-11-01T15:02:36.789Z"
     },
     "927": {
       "id": 927,

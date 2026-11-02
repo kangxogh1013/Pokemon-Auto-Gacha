@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 261,
-  "updatedAt": "2026-11-01T23:05:29.956Z",
+  "totalPulls": 262,
+  "updatedAt": "2026-11-02T02:28:26.589Z",
   "lastPull": {
-    "id": 380,
-    "name": "latias",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
+    "id": 269,
+    "name": "dustox",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
     "types": [
-      "dragon",
-      "psychic"
+      "bug",
+      "poison"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-01T23:05:29.956Z"
+    "totalStats": 385,
+    "grade": "N",
+    "pulledAt": "2026-11-02T02:28:26.589Z"
   },
   "pulls": [
+    {
+      "id": 269,
+      "name": "dustox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-02T02:28:26.589Z"
+    },
     {
       "id": 380,
       "name": "latias",
@@ -117,18 +129,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-10-31T08:49:46.752Z"
-    },
-    {
-      "id": 979,
-      "name": "annihilape",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/979.png",
-      "types": [
-        "fighting",
-        "ghost"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-10-31T02:30:02.705Z"
     }
   ],
   "pokemon": {
@@ -982,6 +982,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T19:26:39.579Z",
       "lastPulledAt": "2026-10-01T19:26:39.579Z"
+    },
+    "269": {
+      "id": 269,
+      "name": "dustox",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 385,
+      "grade": "N",
+      "pulledAt": "2026-11-02T02:28:26.589Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T02:28:26.589Z",
+      "lastPulledAt": "2026-11-02T02:28:26.589Z"
     },
     "274": {
       "id": 274,

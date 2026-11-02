@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 263,
-  "updatedAt": "2026-11-02T09:54:13.153Z",
+  "totalPulls": 264,
+  "updatedAt": "2026-11-02T20:06:12.812Z",
   "lastPull": {
-    "id": 684,
-    "name": "swirlix",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+    "id": 310,
+    "name": "manectric",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
     "types": [
-      "fairy"
+      "electric"
     ],
-    "totalStats": 341,
-    "grade": "N",
-    "pulledAt": "2026-11-02T09:54:13.153Z"
+    "totalStats": 475,
+    "grade": "R",
+    "pulledAt": "2026-11-02T20:06:12.812Z"
   },
   "pulls": [
+    {
+      "id": 310,
+      "name": "manectric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-02T20:06:12.812Z"
+    },
     {
       "id": 684,
       "name": "swirlix",
@@ -117,17 +128,6 @@
       "totalStats": 480,
       "grade": "R",
       "pulledAt": "2026-10-31T19:12:33.509Z"
-    },
-    {
-      "id": 833,
-      "name": "chewtle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/833.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 284,
-      "grade": "N",
-      "pulledAt": "2026-10-31T14:55:35.784Z"
     }
   ],
   "pokemon": {
@@ -1171,6 +1171,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T23:49:26.703Z",
       "lastPulledAt": "2026-10-05T15:04:10.756Z"
+    },
+    "310": {
+      "id": 310,
+      "name": "manectric",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/310.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 475,
+      "grade": "R",
+      "pulledAt": "2026-11-02T20:06:12.812Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T20:06:12.812Z",
+      "lastPulledAt": "2026-11-02T20:06:12.812Z"
     },
     "320": {
       "id": 320,

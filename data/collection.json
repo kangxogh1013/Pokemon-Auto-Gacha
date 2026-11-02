@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 262,
-  "updatedAt": "2026-11-02T02:28:26.589Z",
+  "totalPulls": 263,
+  "updatedAt": "2026-11-02T09:54:13.153Z",
   "lastPull": {
-    "id": 269,
-    "name": "dustox",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/269.png",
+    "id": 684,
+    "name": "swirlix",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
     "types": [
-      "bug",
-      "poison"
+      "fairy"
     ],
-    "totalStats": 385,
+    "totalStats": 341,
     "grade": "N",
-    "pulledAt": "2026-11-02T02:28:26.589Z"
+    "pulledAt": "2026-11-02T09:54:13.153Z"
   },
   "pulls": [
+    {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-02T09:54:13.153Z"
+    },
     {
       "id": 269,
       "name": "dustox",
@@ -118,17 +128,6 @@
       "totalStats": 284,
       "grade": "N",
       "pulledAt": "2026-10-31T14:55:35.784Z"
-    },
-    {
-      "id": 532,
-      "name": "timburr",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/532.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-10-31T08:49:46.752Z"
     }
   ],
   "pokemon": {
@@ -2374,6 +2373,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-28T14:16:25.518Z",
       "lastPulledAt": "2026-10-28T14:16:25.518Z"
+    },
+    "684": {
+      "id": 684,
+      "name": "swirlix",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 341,
+      "grade": "N",
+      "pulledAt": "2026-11-02T09:54:13.153Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-02T09:54:13.153Z",
+      "lastPulledAt": "2026-11-02T09:54:13.153Z"
     },
     "690": {
       "id": 690,

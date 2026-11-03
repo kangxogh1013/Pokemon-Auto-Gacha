@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 267,
-  "updatedAt": "2026-11-03T17:22:29.351Z",
+  "totalPulls": 268,
+  "updatedAt": "2026-11-03T22:26:58.726Z",
   "lastPull": {
-    "id": 545,
-    "name": "scolipede",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/545.png",
+    "id": 51,
+    "name": "dugtrio",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
     "types": [
-      "bug",
-      "poison"
+      "ground"
     ],
-    "totalStats": 485,
+    "totalStats": 425,
     "grade": "R",
-    "pulledAt": "2026-11-03T17:22:29.351Z"
+    "pulledAt": "2026-11-03T22:26:58.726Z"
   },
   "pulls": [
+    {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-03T22:26:58.726Z"
+    },
     {
       "id": 545,
       "name": "scolipede",
@@ -117,18 +127,6 @@
       "totalStats": 305,
       "grade": "N",
       "pulledAt": "2026-11-01T15:02:36.789Z"
-    },
-    {
-      "id": 69,
-      "name": "bellsprout",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/69.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-01T08:03:10.950Z"
     }
   ],
   "pokemon": {
@@ -273,6 +271,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:14:37.388Z",
       "lastPulledAt": "2026-10-20T03:45:26.810Z"
+    },
+    "51": {
+      "id": 51,
+      "name": "dugtrio",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
+      "types": [
+        "ground"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-03T22:26:58.726Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T22:26:58.726Z",
+      "lastPulledAt": "2026-11-03T22:26:58.726Z"
     },
     "52": {
       "id": 52,

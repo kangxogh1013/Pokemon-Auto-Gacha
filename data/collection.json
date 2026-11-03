@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 265,
-  "updatedAt": "2026-11-03T02:17:34.809Z",
+  "totalPulls": 266,
+  "updatedAt": "2026-11-03T09:44:21.002Z",
   "lastPull": {
-    "id": 656,
-    "name": "froakie",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
+    "id": 884,
+    "name": "duraludon",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
     "types": [
-      "water"
+      "steel",
+      "dragon"
     ],
-    "totalStats": 314,
-    "grade": "N",
-    "pulledAt": "2026-11-03T02:17:34.809Z"
+    "totalStats": 535,
+    "grade": "SR",
+    "pulledAt": "2026-11-03T09:44:21.002Z"
   },
   "pulls": [
+    {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T09:44:21.002Z"
+    },
     {
       "id": 656,
       "name": "froakie",
@@ -116,17 +129,6 @@
       "totalStats": 518,
       "grade": "SR",
       "pulledAt": "2026-11-01T01:27:30.631Z"
-    },
-    {
-      "id": 132,
-      "name": "ditto",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/132.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 288,
-      "grade": "N",
-      "pulledAt": "2026-10-31T22:34:24.283Z"
     }
   ],
   "pokemon": {
@@ -3102,6 +3104,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-25T13:58:24.032Z",
       "lastPulledAt": "2026-10-25T13:58:24.032Z"
+    },
+    "884": {
+      "id": 884,
+      "name": "duraludon",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
+      "types": [
+        "steel",
+        "dragon"
+      ],
+      "totalStats": 535,
+      "grade": "SR",
+      "pulledAt": "2026-11-03T09:44:21.002Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-03T09:44:21.002Z",
+      "lastPulledAt": "2026-11-03T09:44:21.002Z"
     },
     "898": {
       "id": 898,

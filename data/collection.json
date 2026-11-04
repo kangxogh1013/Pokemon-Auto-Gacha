@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 269,
-  "updatedAt": "2026-11-04T02:38:41.984Z",
+  "totalPulls": 270,
+  "updatedAt": "2026-11-04T09:53:17.240Z",
   "lastPull": {
-    "id": 601,
-    "name": "klinklang",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
+    "id": 790,
+    "name": "cosmoem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
     "types": [
-      "steel"
+      "psychic"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T02:38:41.984Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-04T09:53:17.240Z"
   },
   "pulls": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-04T09:53:17.240Z"
+    },
     {
       "id": 601,
       "name": "klinklang",
@@ -116,17 +127,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-01T23:05:29.956Z"
-    },
-    {
-      "id": 150,
-      "name": "mewtwo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/150.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-01T19:36:45.700Z"
     }
   ],
   "pokemon": {
@@ -2822,10 +2822,10 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-28T20:50:05.986Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T20:50:05.986Z",
-      "lastPulledAt": "2026-09-28T20:50:05.986Z"
+      "lastPulledAt": "2026-11-04T09:53:17.240Z"
     },
     "799": {
       "id": 799,

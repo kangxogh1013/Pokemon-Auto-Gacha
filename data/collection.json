@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 270,
-  "updatedAt": "2026-11-04T09:53:17.240Z",
+  "totalPulls": 271,
+  "updatedAt": "2026-11-04T17:50:35.785Z",
   "lastPull": {
-    "id": 790,
-    "name": "cosmoem",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+    "id": 669,
+    "name": "flabebe",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
     "types": [
-      "psychic"
+      "fairy"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-04T09:53:17.240Z"
+    "totalStats": 303,
+    "grade": "N",
+    "pulledAt": "2026-11-04T17:50:35.785Z"
   },
   "pulls": [
+    {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:50:35.785Z"
+    },
     {
       "id": 790,
       "name": "cosmoem",
@@ -115,18 +126,6 @@
       "totalStats": 385,
       "grade": "N",
       "pulledAt": "2026-11-02T02:28:26.589Z"
-    },
-    {
-      "id": 380,
-      "name": "latias",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/380.png",
-      "types": [
-        "dragon",
-        "psychic"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-01T23:05:29.956Z"
     }
   ],
   "pokemon": {
@@ -2372,6 +2371,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-04T21:56:46.987Z",
       "lastPulledAt": "2026-10-04T21:56:46.987Z"
+    },
+    "669": {
+      "id": 669,
+      "name": "flabebe",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
+      "types": [
+        "fairy"
+      ],
+      "totalStats": 303,
+      "grade": "N",
+      "pulledAt": "2026-11-04T17:50:35.785Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-04T17:50:35.785Z",
+      "lastPulledAt": "2026-11-04T17:50:35.785Z"
     },
     "671": {
       "id": 671,

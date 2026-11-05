@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 272,
-  "updatedAt": "2026-11-04T22:58:40.983Z",
+  "totalPulls": 273,
+  "updatedAt": "2026-11-05T03:26:21.868Z",
   "lastPull": {
-    "id": 542,
-    "name": "leavanny",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/542.png",
+    "id": 540,
+    "name": "sewaddle",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
     "types": [
       "bug",
       "grass"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-04T22:58:40.983Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-05T03:26:21.868Z"
   },
   "pulls": [
+    {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-05T03:26:21.868Z"
+    },
     {
       "id": 542,
       "name": "leavanny",
@@ -116,17 +128,6 @@
       "totalStats": 475,
       "grade": "R",
       "pulledAt": "2026-11-02T20:06:12.812Z"
-    },
-    {
-      "id": 684,
-      "name": "swirlix",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/684.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 341,
-      "grade": "N",
-      "pulledAt": "2026-11-02T09:54:13.153Z"
     }
   ],
   "pokemon": {
@@ -1938,6 +1939,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T21:35:00.838Z",
       "lastPulledAt": "2026-10-10T21:35:00.838Z"
+    },
+    "540": {
+      "id": 540,
+      "name": "sewaddle",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-05T03:26:21.868Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T03:26:21.868Z",
+      "lastPulledAt": "2026-11-05T03:26:21.868Z"
     },
     "542": {
       "id": 542,

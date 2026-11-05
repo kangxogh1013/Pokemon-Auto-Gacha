@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 274,
-  "updatedAt": "2026-11-05T11:25:48.616Z",
+  "totalPulls": 275,
+  "updatedAt": "2026-11-05T18:55:14.328Z",
   "lastPull": {
-    "id": 498,
-    "name": "tepig",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/498.png",
+    "id": 848,
+    "name": "toxel",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
     "types": [
-      "fire"
+      "electric",
+      "poison"
     ],
-    "totalStats": 308,
+    "totalStats": 242,
     "grade": "N",
-    "pulledAt": "2026-11-05T11:25:48.616Z"
+    "pulledAt": "2026-11-05T18:55:14.328Z"
   },
   "pulls": [
+    {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-11-05T18:55:14.328Z"
+    },
     {
       "id": 498,
       "name": "tepig",
@@ -116,17 +129,6 @@
       "totalStats": 535,
       "grade": "SR",
       "pulledAt": "2026-11-03T09:44:21.002Z"
-    },
-    {
-      "id": 656,
-      "name": "froakie",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/656.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 314,
-      "grade": "N",
-      "pulledAt": "2026-11-03T02:17:34.809Z"
     }
   ],
   "pokemon": {
@@ -3071,6 +3073,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-25T23:37:57.481Z",
       "lastPulledAt": "2026-10-27T06:13:25.260Z"
+    },
+    "848": {
+      "id": 848,
+      "name": "toxel",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+      "types": [
+        "electric",
+        "poison"
+      ],
+      "totalStats": 242,
+      "grade": "N",
+      "pulledAt": "2026-11-05T18:55:14.328Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-05T18:55:14.328Z",
+      "lastPulledAt": "2026-11-05T18:55:14.328Z"
     },
     "851": {
       "id": 851,

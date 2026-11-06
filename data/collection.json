@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 277,
-  "updatedAt": "2026-11-06T06:29:40.392Z",
+  "totalPulls": 278,
+  "updatedAt": "2026-11-06T14:33:47.440Z",
   "lastPull": {
-    "id": 804,
-    "name": "naganadel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/804.png",
+    "id": 65,
+    "name": "alakazam",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
     "types": [
-      "poison",
-      "dragon"
+      "psychic"
     ],
-    "totalStats": 540,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-06T06:29:40.392Z"
+    "pulledAt": "2026-11-06T14:33:47.440Z"
   },
   "pulls": [
+    {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T14:33:47.440Z"
+    },
     {
       "id": 804,
       "name": "naganadel",
@@ -117,17 +127,6 @@
       "totalStats": 520,
       "grade": "SR",
       "pulledAt": "2026-11-04T02:38:41.984Z"
-    },
-    {
-      "id": 51,
-      "name": "dugtrio",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/51.png",
-      "types": [
-        "ground"
-      ],
-      "totalStats": 425,
-      "grade": "R",
-      "pulledAt": "2026-11-03T22:26:58.726Z"
     }
   ],
   "pokemon": {
@@ -377,6 +376,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T01:42:34.753Z",
       "lastPulledAt": "2026-09-16T01:42:34.753Z"
+    },
+    "65": {
+      "id": 65,
+      "name": "alakazam",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T14:33:47.440Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T14:33:47.440Z",
+      "lastPulledAt": "2026-11-06T14:33:47.440Z"
     },
     "66": {
       "id": 66,

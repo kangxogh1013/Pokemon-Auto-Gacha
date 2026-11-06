@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 275,
-  "updatedAt": "2026-11-05T18:55:14.328Z",
+  "totalPulls": 276,
+  "updatedAt": "2026-11-06T00:00:28.303Z",
   "lastPull": {
-    "id": 848,
-    "name": "toxel",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
+    "id": 772,
+    "name": "type-null",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
     "types": [
-      "electric",
-      "poison"
+      "normal"
     ],
-    "totalStats": 242,
-    "grade": "N",
-    "pulledAt": "2026-11-05T18:55:14.328Z"
+    "totalStats": 534,
+    "grade": "SR",
+    "pulledAt": "2026-11-06T00:00:28.303Z"
   },
   "pulls": [
+    {
+      "id": 772,
+      "name": "type-null",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T00:00:28.303Z"
+    },
     {
       "id": 848,
       "name": "toxel",
@@ -117,18 +127,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-03T17:22:29.351Z"
-    },
-    {
-      "id": 884,
-      "name": "duraludon",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/884.png",
-      "types": [
-        "steel",
-        "dragon"
-      ],
-      "totalStats": 535,
-      "grade": "SR",
-      "pulledAt": "2026-11-03T09:44:21.002Z"
     }
   ],
   "pokemon": {
@@ -2797,6 +2795,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T16:56:30.399Z",
       "lastPulledAt": "2026-09-18T01:08:22.669Z"
+    },
+    "772": {
+      "id": 772,
+      "name": "type-null",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 534,
+      "grade": "SR",
+      "pulledAt": "2026-11-06T00:00:28.303Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-06T00:00:28.303Z",
+      "lastPulledAt": "2026-11-06T00:00:28.303Z"
     },
     "773": {
       "id": 773,

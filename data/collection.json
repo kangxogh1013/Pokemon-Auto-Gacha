@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 278,
-  "updatedAt": "2026-11-06T14:33:47.440Z",
+  "totalPulls": 279,
+  "updatedAt": "2026-11-06T20:33:50.289Z",
   "lastPull": {
-    "id": 65,
-    "name": "alakazam",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-06T14:33:47.440Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-06T20:33:50.289Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-06T20:33:50.289Z"
+    },
     {
       "id": 65,
       "name": "alakazam",
@@ -116,17 +127,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-04T09:53:17.240Z"
-    },
-    {
-      "id": 601,
-      "name": "klinklang",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/601.png",
-      "types": [
-        "steel"
-      ],
-      "totalStats": 520,
-      "grade": "SR",
-      "pulledAt": "2026-11-04T02:38:41.984Z"
     }
   ],
   "pokemon": {
@@ -1333,10 +1333,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-21T13:57:39.432Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T13:57:39.432Z",
-      "lastPulledAt": "2026-10-30T07:15:49.502Z"
+      "lastPulledAt": "2026-11-06T20:33:50.289Z"
     },
     "380": {
       "id": 380,

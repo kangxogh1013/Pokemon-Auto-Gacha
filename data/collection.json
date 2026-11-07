@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 279,
-  "updatedAt": "2026-11-06T20:33:50.289Z",
+  "totalPulls": 280,
+  "updatedAt": "2026-11-07T00:19:18.778Z",
   "lastPull": {
-    "id": 367,
-    "name": "huntail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "id": 832,
+    "name": "dubwool",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
     "types": [
-      "water"
+      "normal"
     ],
-    "totalStats": 485,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-06T20:33:50.289Z"
+    "pulledAt": "2026-11-07T00:19:18.778Z"
   },
   "pulls": [
+    {
+      "id": 832,
+      "name": "dubwool",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-07T00:19:18.778Z"
+    },
     {
       "id": 367,
       "name": "huntail",
@@ -116,17 +127,6 @@
       "totalStats": 303,
       "grade": "N",
       "pulledAt": "2026-11-04T17:50:35.785Z"
-    },
-    {
-      "id": 790,
-      "name": "cosmoem",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 400,
-      "grade": "R",
-      "pulledAt": "2026-11-04T09:53:17.240Z"
     }
   ],
   "pokemon": {
@@ -3006,10 +3006,10 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-09-26T07:33:33.816Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-26T07:33:33.816Z",
-      "lastPulledAt": "2026-09-26T07:33:33.816Z"
+      "lastPulledAt": "2026-11-07T00:19:18.778Z"
     },
     "833": {
       "id": 833,

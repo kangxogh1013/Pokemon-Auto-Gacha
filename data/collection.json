@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 282,
-  "updatedAt": "2026-11-07T13:21:27.843Z",
+  "totalPulls": 283,
+  "updatedAt": "2026-11-07T18:09:18.032Z",
   "lastPull": {
-    "id": 257,
-    "name": "blaziken",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/257.png",
+    "id": 704,
+    "name": "goomy",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
     "types": [
-      "fire",
-      "fighting"
+      "dragon"
     ],
-    "totalStats": 530,
-    "grade": "SR",
-    "pulledAt": "2026-11-07T13:21:27.843Z"
+    "totalStats": 300,
+    "grade": "N",
+    "pulledAt": "2026-11-07T18:09:18.032Z"
   },
   "pulls": [
+    {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-07T18:09:18.032Z"
+    },
     {
       "id": 257,
       "name": "blaziken",
@@ -117,18 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-05T11:25:48.616Z"
-    },
-    {
-      "id": 540,
-      "name": "sewaddle",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/540.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-05T03:26:21.868Z"
     }
   ],
   "pokemon": {
@@ -2592,6 +2590,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-24T06:14:28.069Z",
       "lastPulledAt": "2026-10-24T06:14:28.069Z"
+    },
+    "704": {
+      "id": 704,
+      "name": "goomy",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 300,
+      "grade": "N",
+      "pulledAt": "2026-11-07T18:09:18.032Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T18:09:18.032Z",
+      "lastPulledAt": "2026-11-07T18:09:18.032Z"
     },
     "710": {
       "id": 710,

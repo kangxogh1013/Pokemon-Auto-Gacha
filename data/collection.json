@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 280,
-  "updatedAt": "2026-11-07T00:19:18.778Z",
+  "totalPulls": 281,
+  "updatedAt": "2026-11-07T06:18:13.576Z",
   "lastPull": {
-    "id": 832,
-    "name": "dubwool",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/832.png",
+    "id": 520,
+    "name": "tranquill",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
     "types": [
-      "normal"
+      "normal",
+      "flying"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-07T00:19:18.778Z"
+    "totalStats": 358,
+    "grade": "N",
+    "pulledAt": "2026-11-07T06:18:13.576Z"
   },
   "pulls": [
+    {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-11-07T06:18:13.576Z"
+    },
     {
       "id": 832,
       "name": "dubwool",
@@ -116,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-04T22:58:40.983Z"
-    },
-    {
-      "id": 669,
-      "name": "flabebe",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/669.png",
-      "types": [
-        "fairy"
-      ],
-      "totalStats": 303,
-      "grade": "N",
-      "pulledAt": "2026-11-04T17:50:35.785Z"
     }
   ],
   "pokemon": {
@@ -1877,6 +1879,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-16T17:16:37.621Z",
       "lastPulledAt": "2026-10-30T23:13:17.001Z"
+    },
+    "520": {
+      "id": 520,
+      "name": "tranquill",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 358,
+      "grade": "N",
+      "pulledAt": "2026-11-07T06:18:13.576Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-07T06:18:13.576Z",
+      "lastPulledAt": "2026-11-07T06:18:13.576Z"
     },
     "524": {
       "id": 524,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 285,
-  "updatedAt": "2026-11-08T01:10:17.855Z",
+  "totalPulls": 286,
+  "updatedAt": "2026-11-08T07:25:53.728Z",
   "lastPull": {
-    "id": 839,
-    "name": "coalossal",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+    "id": 432,
+    "name": "purugly",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
     "types": [
-      "rock",
-      "fire"
+      "normal"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T01:10:17.855Z"
+    "totalStats": 452,
+    "grade": "R",
+    "pulledAt": "2026-11-08T07:25:53.728Z"
   },
   "pulls": [
+    {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-08T07:25:53.728Z"
+    },
     {
       "id": 839,
       "name": "coalossal",
@@ -117,17 +127,6 @@
       "totalStats": 540,
       "grade": "SR",
       "pulledAt": "2026-11-06T06:29:40.392Z"
-    },
-    {
-      "id": 772,
-      "name": "type-null",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/772.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 534,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T00:00:28.303Z"
     }
   ],
   "pokemon": {
@@ -1631,6 +1630,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T05:47:59.459Z",
       "lastPulledAt": "2026-09-27T05:47:59.459Z"
+    },
+    "432": {
+      "id": 432,
+      "name": "purugly",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 452,
+      "grade": "R",
+      "pulledAt": "2026-11-08T07:25:53.728Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T07:25:53.728Z",
+      "lastPulledAt": "2026-11-08T07:25:53.728Z"
     },
     "443": {
       "id": 443,

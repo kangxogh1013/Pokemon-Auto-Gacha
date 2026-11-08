@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 287,
-  "updatedAt": "2026-11-08T14:27:51.511Z",
+  "totalPulls": 288,
+  "updatedAt": "2026-11-08T19:02:03.937Z",
   "lastPull": {
-    "id": 55,
-    "name": "golduck",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/55.png",
+    "id": 1,
+    "name": "bulbasaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
     "types": [
-      "water"
+      "grass",
+      "poison"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-08T14:27:51.511Z"
+    "totalStats": 318,
+    "grade": "N",
+    "pulledAt": "2026-11-08T19:02:03.937Z"
   },
   "pulls": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:02:03.937Z"
+    },
     {
       "id": 55,
       "name": "golduck",
@@ -115,20 +128,25 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-06T20:33:50.289Z"
-    },
-    {
-      "id": 65,
-      "name": "alakazam",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/65.png",
-      "types": [
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-06T14:33:47.440Z"
     }
   ],
   "pokemon": {
+    "1": {
+      "id": 1,
+      "name": "bulbasaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-11-08T19:02:03.937Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T19:02:03.937Z",
+      "lastPulledAt": "2026-11-08T19:02:03.937Z"
+    },
     "2": {
       "id": 2,
       "name": "ivysaur",

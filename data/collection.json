@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 284,
-  "updatedAt": "2026-11-07T21:53:23.756Z",
+  "totalPulls": 285,
+  "updatedAt": "2026-11-08T01:10:17.855Z",
   "lastPull": {
-    "id": 289,
-    "name": "slaking",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
+    "id": 839,
+    "name": "coalossal",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
     "types": [
-      "normal"
+      "rock",
+      "fire"
     ],
-    "totalStats": 670,
-    "grade": "SSR",
-    "pulledAt": "2026-11-07T21:53:23.756Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-08T01:10:17.855Z"
   },
   "pulls": [
+    {
+      "id": 839,
+      "name": "coalossal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T01:10:17.855Z"
+    },
     {
       "id": 289,
       "name": "slaking",
@@ -115,18 +128,6 @@
       "totalStats": 534,
       "grade": "SR",
       "pulledAt": "2026-11-06T00:00:28.303Z"
-    },
-    {
-      "id": 848,
-      "name": "toxel",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/848.png",
-      "types": [
-        "electric",
-        "poison"
-      ],
-      "totalStats": 242,
-      "grade": "N",
-      "pulledAt": "2026-11-05T18:55:14.328Z"
     }
   ],
   "pokemon": {
@@ -3118,6 +3119,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-18T05:55:51.887Z",
       "lastPulledAt": "2026-09-18T05:55:51.887Z"
+    },
+    "839": {
+      "id": 839,
+      "name": "coalossal",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
+      "types": [
+        "rock",
+        "fire"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-08T01:10:17.855Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T01:10:17.855Z",
+      "lastPulledAt": "2026-11-08T01:10:17.855Z"
     },
     "840": {
       "id": 840,

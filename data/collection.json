@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 288,
-  "updatedAt": "2026-11-08T19:02:03.937Z",
+  "totalPulls": 289,
+  "updatedAt": "2026-11-08T22:49:50.475Z",
   "lastPull": {
-    "id": 1,
-    "name": "bulbasaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "id": 398,
+    "name": "staraptor",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
     "types": [
-      "grass",
-      "poison"
+      "normal",
+      "flying"
     ],
-    "totalStats": 318,
-    "grade": "N",
-    "pulledAt": "2026-11-08T19:02:03.937Z"
+    "totalStats": 485,
+    "grade": "R",
+    "pulledAt": "2026-11-08T22:49:50.475Z"
   },
   "pulls": [
+    {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-08T22:49:50.475Z"
+    },
     {
       "id": 1,
       "name": "bulbasaur",
@@ -117,17 +129,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-07T00:19:18.778Z"
-    },
-    {
-      "id": 367,
-      "name": "huntail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-06T20:33:50.289Z"
     }
   ],
   "pokemon": {
@@ -1477,6 +1478,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T17:42:53.132Z",
       "lastPulledAt": "2026-09-30T17:42:53.132Z"
+    },
+    "398": {
+      "id": 398,
+      "name": "staraptor",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-08T22:49:50.475Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-08T22:49:50.475Z",
+      "lastPulledAt": "2026-11-08T22:49:50.475Z"
     },
     "401": {
       "id": 401,

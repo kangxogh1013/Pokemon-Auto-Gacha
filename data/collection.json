@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 290,
-  "updatedAt": "2026-11-09T02:16:20.563Z",
+  "totalPulls": 291,
+  "updatedAt": "2026-11-09T09:56:52.722Z",
   "lastPull": {
-    "id": 240,
-    "name": "magby",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/240.png",
+    "id": 732,
+    "name": "trumbeak",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
     "types": [
-      "fire"
+      "normal",
+      "flying"
     ],
-    "totalStats": 365,
+    "totalStats": 355,
     "grade": "N",
-    "pulledAt": "2026-11-09T02:16:20.563Z"
+    "pulledAt": "2026-11-09T09:56:52.722Z"
   },
   "pulls": [
+    {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-09T09:56:52.722Z"
+    },
     {
       "id": 240,
       "name": "magby",
@@ -116,18 +129,6 @@
       "totalStats": 530,
       "grade": "SR",
       "pulledAt": "2026-11-07T13:21:27.843Z"
-    },
-    {
-      "id": 520,
-      "name": "tranquill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/520.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 358,
-      "grade": "N",
-      "pulledAt": "2026-11-07T06:18:13.576Z"
     }
   ],
   "pokemon": {
@@ -2793,6 +2794,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T07:00:24.583Z",
       "lastPulledAt": "2026-10-15T23:54:19.095Z"
+    },
+    "732": {
+      "id": 732,
+      "name": "trumbeak",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
+      "types": [
+        "normal",
+        "flying"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-09T09:56:52.722Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-09T09:56:52.722Z",
+      "lastPulledAt": "2026-11-09T09:56:52.722Z"
     },
     "733": {
       "id": 733,

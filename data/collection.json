@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 293,
-  "updatedAt": "2026-11-10T02:56:29.616Z",
+  "totalPulls": 294,
+  "updatedAt": "2026-11-10T10:59:11.989Z",
   "lastPull": {
-    "id": 125,
-    "name": "electabuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+    "id": 647,
+    "name": "keldeo-ordinary",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
     "types": [
-      "electric"
+      "water",
+      "fighting"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-10T02:56:29.616Z"
+    "totalStats": 580,
+    "grade": "SR",
+    "pulledAt": "2026-11-10T10:59:11.989Z"
   },
   "pulls": [
+    {
+      "id": 647,
+      "name": "keldeo-ordinary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T10:59:11.989Z"
+    },
     {
       "id": 125,
       "name": "electabuzz",
@@ -116,17 +129,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-08T01:10:17.855Z"
-    },
-    {
-      "id": 289,
-      "name": "slaking",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/289.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 670,
-      "grade": "SSR",
-      "pulledAt": "2026-11-07T21:53:23.756Z"
     }
   ],
   "pokemon": {
@@ -2465,6 +2467,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-13T11:26:34.258Z",
       "lastPulledAt": "2026-10-13T11:26:34.258Z"
+    },
+    "647": {
+      "id": 647,
+      "name": "keldeo-ordinary",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+      "types": [
+        "water",
+        "fighting"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T10:59:11.989Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T10:59:11.989Z",
+      "lastPulledAt": "2026-11-10T10:59:11.989Z"
     },
     "650": {
       "id": 650,

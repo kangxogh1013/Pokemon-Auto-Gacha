@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 292,
-  "updatedAt": "2026-11-09T20:38:22.234Z",
+  "totalPulls": 293,
+  "updatedAt": "2026-11-10T02:56:29.616Z",
   "lastPull": {
-    "id": 942,
-    "name": "maschiff",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/942.png",
+    "id": 125,
+    "name": "electabuzz",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
     "types": [
-      "dark"
+      "electric"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-09T20:38:22.234Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-10T02:56:29.616Z"
   },
   "pulls": [
+    {
+      "id": 125,
+      "name": "electabuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-10T02:56:29.616Z"
+    },
     {
       "id": 942,
       "name": "maschiff",
@@ -116,17 +127,6 @@
       "totalStats": 670,
       "grade": "SSR",
       "pulledAt": "2026-11-07T21:53:23.756Z"
-    },
-    {
-      "id": 704,
-      "name": "goomy",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/704.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 300,
-      "grade": "N",
-      "pulledAt": "2026-11-07T18:09:18.032Z"
     }
   ],
   "pokemon": {
@@ -609,6 +609,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T21:32:58.886Z",
       "lastPulledAt": "2026-09-30T21:32:58.886Z"
+    },
+    "125": {
+      "id": 125,
+      "name": "electabuzz",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-10T02:56:29.616Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T02:56:29.616Z",
+      "lastPulledAt": "2026-11-10T02:56:29.616Z"
     },
     "126": {
       "id": 126,

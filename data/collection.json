@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 295,
-  "updatedAt": "2026-11-10T18:37:52.236Z",
+  "totalPulls": 296,
+  "updatedAt": "2026-11-10T23:43:55.285Z",
   "lastPull": {
-    "id": 344,
-    "name": "claydol",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+    "id": 790,
+    "name": "cosmoem",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
     "types": [
-      "ground",
       "psychic"
     ],
-    "totalStats": 500,
-    "grade": "SR",
-    "pulledAt": "2026-11-10T18:37:52.236Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-10T23:43:55.285Z"
   },
   "pulls": [
+    {
+      "id": 790,
+      "name": "cosmoem",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/790.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-10T23:43:55.285Z"
+    },
     {
       "id": 344,
       "name": "claydol",
@@ -118,17 +128,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-08T14:27:51.511Z"
-    },
-    {
-      "id": 432,
-      "name": "purugly",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/432.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 452,
-      "grade": "R",
-      "pulledAt": "2026-11-08T07:25:53.728Z"
     }
   ],
   "pokemon": {
@@ -3103,10 +3102,10 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-28T20:50:05.986Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T20:50:05.986Z",
-      "lastPulledAt": "2026-11-04T09:53:17.240Z"
+      "lastPulledAt": "2026-11-10T23:43:55.285Z"
     },
     "799": {
       "id": 799,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 294,
-  "updatedAt": "2026-11-10T10:59:11.989Z",
+  "totalPulls": 295,
+  "updatedAt": "2026-11-10T18:37:52.236Z",
   "lastPull": {
-    "id": 647,
-    "name": "keldeo-ordinary",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/647.png",
+    "id": 344,
+    "name": "claydol",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
     "types": [
-      "water",
-      "fighting"
+      "ground",
+      "psychic"
     ],
-    "totalStats": 580,
+    "totalStats": 500,
     "grade": "SR",
-    "pulledAt": "2026-11-10T10:59:11.989Z"
+    "pulledAt": "2026-11-10T18:37:52.236Z"
   },
   "pulls": [
+    {
+      "id": 344,
+      "name": "claydol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T18:37:52.236Z"
+    },
     {
       "id": 647,
       "name": "keldeo-ordinary",
@@ -117,18 +129,6 @@
       "totalStats": 452,
       "grade": "R",
       "pulledAt": "2026-11-08T07:25:53.728Z"
-    },
-    {
-      "id": 839,
-      "name": "coalossal",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/839.png",
-      "types": [
-        "rock",
-        "fire"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-08T01:10:17.855Z"
     }
   ],
   "pokemon": {
@@ -1371,6 +1371,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-14T01:53:01.864Z",
       "lastPulledAt": "2026-10-14T01:53:01.864Z"
+    },
+    "344": {
+      "id": 344,
+      "name": "claydol",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
+      "types": [
+        "ground",
+        "psychic"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-10T18:37:52.236Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-10T18:37:52.236Z",
+      "lastPulledAt": "2026-11-10T18:37:52.236Z"
     },
     "349": {
       "id": 349,

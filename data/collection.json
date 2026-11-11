@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 298,
-  "updatedAt": "2026-11-11T11:03:31.053Z",
+  "totalPulls": 299,
+  "updatedAt": "2026-11-11T18:38:49.913Z",
   "lastPull": {
-    "id": 259,
-    "name": "marshtomp",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/259.png",
+    "id": 696,
+    "name": "tyrunt",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
     "types": [
-      "water",
-      "ground"
+      "rock",
+      "dragon"
     ],
-    "totalStats": 405,
-    "grade": "R",
-    "pulledAt": "2026-11-11T11:03:31.053Z"
+    "totalStats": 362,
+    "grade": "N",
+    "pulledAt": "2026-11-11T18:38:49.913Z"
   },
   "pulls": [
+    {
+      "id": 696,
+      "name": "tyrunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 362,
+      "grade": "N",
+      "pulledAt": "2026-11-11T18:38:49.913Z"
+    },
     {
       "id": 259,
       "name": "marshtomp",
@@ -117,18 +129,6 @@
       "totalStats": 365,
       "grade": "N",
       "pulledAt": "2026-11-09T02:16:20.563Z"
-    },
-    {
-      "id": 398,
-      "name": "staraptor",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/398.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-08T22:49:50.475Z"
     }
   ],
   "pokemon": {
@@ -2731,6 +2731,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-17T16:31:22.348Z",
       "lastPulledAt": "2026-10-17T16:31:22.348Z"
+    },
+    "696": {
+      "id": 696,
+      "name": "tyrunt",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/696.png",
+      "types": [
+        "rock",
+        "dragon"
+      ],
+      "totalStats": 362,
+      "grade": "N",
+      "pulledAt": "2026-11-11T18:38:49.913Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-11T18:38:49.913Z",
+      "lastPulledAt": "2026-11-11T18:38:49.913Z"
     },
     "699": {
       "id": 699,

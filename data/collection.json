@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 300,
-  "updatedAt": "2026-11-12T01:01:22.836Z",
+  "totalPulls": 301,
+  "updatedAt": "2026-11-12T08:13:12.630Z",
   "lastPull": {
-    "id": 84,
-    "name": "doduo",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
+    "id": 922,
+    "name": "pawmo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
     "types": [
-      "normal",
-      "flying"
+      "electric",
+      "fighting"
     ],
-    "totalStats": 310,
+    "totalStats": 350,
     "grade": "N",
-    "pulledAt": "2026-11-12T01:01:22.836Z"
+    "pulledAt": "2026-11-12T08:13:12.630Z"
   },
   "pulls": [
+    {
+      "id": 922,
+      "name": "pawmo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-12T08:13:12.630Z"
+    },
     {
       "id": 84,
       "name": "doduo",
@@ -118,18 +130,6 @@
       "totalStats": 340,
       "grade": "N",
       "pulledAt": "2026-11-09T20:38:22.234Z"
-    },
-    {
-      "id": 732,
-      "name": "trumbeak",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/732.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 355,
-      "grade": "N",
-      "pulledAt": "2026-11-09T09:56:52.722Z"
     }
   ],
   "pokemon": {
@@ -3635,6 +3635,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T19:56:49.667Z",
       "lastPulledAt": "2026-10-29T09:37:28.420Z"
+    },
+    "922": {
+      "id": 922,
+      "name": "pawmo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
+      "types": [
+        "electric",
+        "fighting"
+      ],
+      "totalStats": 350,
+      "grade": "N",
+      "pulledAt": "2026-11-12T08:13:12.630Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T08:13:12.630Z",
+      "lastPulledAt": "2026-11-12T08:13:12.630Z"
     },
     "924": {
       "id": 924,

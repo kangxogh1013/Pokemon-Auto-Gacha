@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 302,
-  "updatedAt": "2026-11-12T16:52:35.822Z",
+  "totalPulls": 303,
+  "updatedAt": "2026-11-12T22:36:06.256Z",
   "lastPull": {
-    "id": 878,
-    "name": "cufant",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/878.png",
+    "id": 192,
+    "name": "sunflora",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
     "types": [
-      "steel"
+      "grass"
     ],
-    "totalStats": 330,
-    "grade": "N",
-    "pulledAt": "2026-11-12T16:52:35.822Z"
+    "totalStats": 425,
+    "grade": "R",
+    "pulledAt": "2026-11-12T22:36:06.256Z"
   },
   "pulls": [
+    {
+      "id": 192,
+      "name": "sunflora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:36:06.256Z"
+    },
     {
       "id": 878,
       "name": "cufant",
@@ -118,17 +129,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-10T10:59:11.989Z"
-    },
-    {
-      "id": 125,
-      "name": "electabuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/125.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-10T02:56:29.616Z"
     }
   ],
   "pokemon": {
@@ -903,6 +903,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-02T20:10:14.762Z",
       "lastPulledAt": "2026-10-02T20:10:14.762Z"
+    },
+    "192": {
+      "id": 192,
+      "name": "sunflora",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/192.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 425,
+      "grade": "R",
+      "pulledAt": "2026-11-12T22:36:06.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-12T22:36:06.256Z",
+      "lastPulledAt": "2026-11-12T22:36:06.256Z"
     },
     "194": {
       "id": 194,

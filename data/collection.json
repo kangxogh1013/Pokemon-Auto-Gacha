@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 304,
-  "updatedAt": "2026-11-13T02:54:48.673Z",
+  "totalPulls": 305,
+  "updatedAt": "2026-11-13T10:45:35.132Z",
   "lastPull": {
-    "id": 92,
-    "name": "gastly",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/92.png",
+    "id": 613,
+    "name": "cubchoo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
     "types": [
-      "ghost",
-      "poison"
+      "ice"
     ],
-    "totalStats": 310,
+    "totalStats": 305,
     "grade": "N",
-    "pulledAt": "2026-11-13T02:54:48.673Z"
+    "pulledAt": "2026-11-13T10:45:35.132Z"
   },
   "pulls": [
+    {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-13T10:45:35.132Z"
+    },
     {
       "id": 92,
       "name": "gastly",
@@ -118,18 +128,6 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-11-10T23:43:55.285Z"
-    },
-    {
-      "id": 344,
-      "name": "claydol",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/344.png",
-      "types": [
-        "ground",
-        "psychic"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-10T18:37:52.236Z"
     }
   ],
   "pokemon": {
@@ -2422,6 +2420,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-21T06:59:30.667Z",
       "lastPulledAt": "2026-09-21T06:59:30.667Z"
+    },
+    "613": {
+      "id": 613,
+      "name": "cubchoo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
+      "types": [
+        "ice"
+      ],
+      "totalStats": 305,
+      "grade": "N",
+      "pulledAt": "2026-11-13T10:45:35.132Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-13T10:45:35.132Z",
+      "lastPulledAt": "2026-11-13T10:45:35.132Z"
     },
     "617": {
       "id": 617,

@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 310,
-  "updatedAt": "2026-11-14T16:54:00.285Z",
+  "totalPulls": 311,
+  "updatedAt": "2026-11-14T21:12:15.819Z",
   "lastPull": {
-    "id": 49,
-    "name": "venomoth",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+    "id": 295,
+    "name": "exploud",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
     "types": [
-      "bug",
-      "poison"
+      "normal"
     ],
-    "totalStats": 450,
+    "totalStats": 490,
     "grade": "R",
-    "pulledAt": "2026-11-14T16:54:00.285Z"
+    "pulledAt": "2026-11-14T21:12:15.819Z"
   },
   "pulls": [
+    {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-14T21:12:15.819Z"
+    },
     {
       "id": 49,
       "name": "venomoth",
@@ -117,18 +127,6 @@
       "totalStats": 330,
       "grade": "N",
       "pulledAt": "2026-11-12T16:52:35.822Z"
-    },
-    {
-      "id": 922,
-      "name": "pawmo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/922.png",
-      "types": [
-        "electric",
-        "fighting"
-      ],
-      "totalStats": 350,
-      "grade": "N",
-      "pulledAt": "2026-11-12T08:13:12.630Z"
     }
   ],
   "pokemon": {
@@ -1341,6 +1339,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T00:49:21.066Z",
       "lastPulledAt": "2026-10-20T08:54:20.309Z"
+    },
+    "295": {
+      "id": 295,
+      "name": "exploud",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-14T21:12:15.819Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T21:12:15.819Z",
+      "lastPulledAt": "2026-11-14T21:12:15.819Z"
     },
     "299": {
       "id": 299,

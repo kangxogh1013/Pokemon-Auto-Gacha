@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 309,
-  "updatedAt": "2026-11-14T10:54:20.985Z",
+  "totalPulls": 310,
+  "updatedAt": "2026-11-14T16:54:00.285Z",
   "lastPull": {
-    "id": 109,
-    "name": "koffing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
+    "id": 49,
+    "name": "venomoth",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
     "types": [
+      "bug",
       "poison"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-14T10:54:20.985Z"
+    "totalStats": 450,
+    "grade": "R",
+    "pulledAt": "2026-11-14T16:54:00.285Z"
   },
   "pulls": [
+    {
+      "id": 49,
+      "name": "venomoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-14T16:54:00.285Z"
+    },
     {
       "id": 109,
       "name": "koffing",
@@ -116,18 +129,6 @@
       "totalStats": 350,
       "grade": "N",
       "pulledAt": "2026-11-12T08:13:12.630Z"
-    },
-    {
-      "id": 84,
-      "name": "doduo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/84.png",
-      "types": [
-        "normal",
-        "flying"
-      ],
-      "totalStats": 310,
-      "grade": "N",
-      "pulledAt": "2026-11-12T01:01:22.836Z"
     }
   ],
   "pokemon": {
@@ -288,6 +289,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T14:14:37.388Z",
       "lastPulledAt": "2026-10-20T03:45:26.810Z"
+    },
+    "49": {
+      "id": 49,
+      "name": "venomoth",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
+      "types": [
+        "bug",
+        "poison"
+      ],
+      "totalStats": 450,
+      "grade": "R",
+      "pulledAt": "2026-11-14T16:54:00.285Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-14T16:54:00.285Z",
+      "lastPulledAt": "2026-11-14T16:54:00.285Z"
     },
     "51": {
       "id": 51,

@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 314,
-  "updatedAt": "2026-11-15T15:09:03.869Z",
+  "totalPulls": 315,
+  "updatedAt": "2026-11-15T20:24:08.928Z",
   "lastPull": {
-    "id": 624,
-    "name": "pawniard",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/624.png",
+    "id": 227,
+    "name": "skarmory",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
     "types": [
-      "dark",
-      "steel"
+      "steel",
+      "flying"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-15T15:09:03.869Z"
+    "totalStats": 465,
+    "grade": "R",
+    "pulledAt": "2026-11-15T20:24:08.928Z"
   },
   "pulls": [
+    {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-11-15T20:24:08.928Z"
+    },
     {
       "id": 624,
       "name": "pawniard",
@@ -118,17 +130,6 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-11-13T18:09:35.022Z"
-    },
-    {
-      "id": 613,
-      "name": "cubchoo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/613.png",
-      "types": [
-        "ice"
-      ],
-      "totalStats": 305,
-      "grade": "N",
-      "pulledAt": "2026-11-13T10:45:35.132Z"
     }
   ],
   "pokemon": {
@@ -1104,6 +1105,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-30T19:34:20.579Z",
       "lastPulledAt": "2026-10-30T19:34:20.579Z"
+    },
+    "227": {
+      "id": 227,
+      "name": "skarmory",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
+      "types": [
+        "steel",
+        "flying"
+      ],
+      "totalStats": 465,
+      "grade": "R",
+      "pulledAt": "2026-11-15T20:24:08.928Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-15T20:24:08.928Z",
+      "lastPulledAt": "2026-11-15T20:24:08.928Z"
     },
     "229": {
       "id": 229,

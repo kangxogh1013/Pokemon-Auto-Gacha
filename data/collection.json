@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 316,
-  "updatedAt": "2026-11-16T00:13:01.354Z",
+  "totalPulls": 317,
+  "updatedAt": "2026-11-16T06:46:09.229Z",
   "lastPull": {
-    "id": 236,
-    "name": "tyrogue",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
+    "id": 665,
+    "name": "spewpa",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
     "types": [
-      "fighting"
+      "bug"
     ],
-    "totalStats": 210,
+    "totalStats": 213,
     "grade": "N",
-    "pulledAt": "2026-11-16T00:13:01.354Z"
+    "pulledAt": "2026-11-16T06:46:09.229Z"
   },
   "pulls": [
+    {
+      "id": 665,
+      "name": "spewpa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 213,
+      "grade": "N",
+      "pulledAt": "2026-11-16T06:46:09.229Z"
+    },
     {
       "id": 236,
       "name": "tyrogue",
@@ -117,17 +128,6 @@
       "totalStats": 348,
       "grade": "N",
       "pulledAt": "2026-11-14T03:33:26.770Z"
-    },
-    {
-      "id": 216,
-      "name": "teddiursa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/216.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 330,
-      "grade": "N",
-      "pulledAt": "2026-11-13T23:36:21.485Z"
     }
   ],
   "pokemon": {
@@ -2777,6 +2777,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T05:51:26.948Z",
       "lastPulledAt": "2026-10-28T23:37:16.766Z"
+    },
+    "665": {
+      "id": 665,
+      "name": "spewpa",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 213,
+      "grade": "N",
+      "pulledAt": "2026-11-16T06:46:09.229Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-16T06:46:09.229Z",
+      "lastPulledAt": "2026-11-16T06:46:09.229Z"
     },
     "668": {
       "id": 668,

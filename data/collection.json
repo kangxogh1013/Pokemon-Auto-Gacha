@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 319,
-  "updatedAt": "2026-11-17T00:27:45.642Z",
+  "totalPulls": 320,
+  "updatedAt": "2026-11-17T08:24:24.071Z",
   "lastPull": {
-    "id": 367,
-    "name": "huntail",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+    "id": 988,
+    "name": "slither-wing",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
     "types": [
-      "water"
+      "bug",
+      "fighting"
     ],
-    "totalStats": 485,
-    "grade": "R",
-    "pulledAt": "2026-11-17T00:27:45.642Z"
+    "totalStats": 570,
+    "grade": "SR",
+    "pulledAt": "2026-11-17T08:24:24.071Z"
   },
   "pulls": [
+    {
+      "id": 988,
+      "name": "slither-wing",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+      "types": [
+        "bug",
+        "fighting"
+      ],
+      "totalStats": 570,
+      "grade": "SR",
+      "pulledAt": "2026-11-17T08:24:24.071Z"
+    },
     {
       "id": 367,
       "name": "huntail",
@@ -115,18 +128,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-14T21:12:15.819Z"
-    },
-    {
-      "id": 49,
-      "name": "venomoth",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/49.png",
-      "types": [
-        "bug",
-        "poison"
-      ],
-      "totalStats": 450,
-      "grade": "R",
-      "pulledAt": "2026-11-14T16:54:00.285Z"
     }
   ],
   "pokemon": {
@@ -4170,10 +4171,10 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-09-22T01:11:28.516Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T01:11:28.516Z",
-      "lastPulledAt": "2026-09-22T01:11:28.516Z"
+      "lastPulledAt": "2026-11-17T08:24:24.071Z"
     },
     "990": {
       "id": 990,

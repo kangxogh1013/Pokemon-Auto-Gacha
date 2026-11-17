@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 320,
-  "updatedAt": "2026-11-17T08:24:24.071Z",
+  "totalPulls": 321,
+  "updatedAt": "2026-11-17T17:47:47.350Z",
   "lastPull": {
-    "id": 988,
-    "name": "slither-wing",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/988.png",
+    "id": 179,
+    "name": "mareep",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
     "types": [
-      "bug",
-      "fighting"
+      "electric"
     ],
-    "totalStats": 570,
-    "grade": "SR",
-    "pulledAt": "2026-11-17T08:24:24.071Z"
+    "totalStats": 280,
+    "grade": "N",
+    "pulledAt": "2026-11-17T17:47:47.350Z"
   },
   "pulls": [
+    {
+      "id": 179,
+      "name": "mareep",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/179.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 280,
+      "grade": "N",
+      "pulledAt": "2026-11-17T17:47:47.350Z"
+    },
     {
       "id": 988,
       "name": "slither-wing",
@@ -117,17 +127,6 @@
       "totalStats": 410,
       "grade": "R",
       "pulledAt": "2026-11-15T01:05:54.377Z"
-    },
-    {
-      "id": 295,
-      "name": "exploud",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/295.png",
-      "types": [
-        "normal"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-14T21:12:15.819Z"
     }
   ],
   "pokemon": {
@@ -899,10 +898,10 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-10-18T17:18:11.608Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-18T17:18:11.608Z",
-      "lastPulledAt": "2026-10-18T17:18:11.608Z"
+      "lastPulledAt": "2026-11-17T17:47:47.350Z"
     },
     "180": {
       "id": 180,

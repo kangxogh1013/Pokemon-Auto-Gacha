@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 318,
-  "updatedAt": "2026-11-16T16:30:15.305Z",
+  "totalPulls": 319,
+  "updatedAt": "2026-11-17T00:27:45.642Z",
   "lastPull": {
-    "id": 573,
-    "name": "cinccino",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/573.png",
+    "id": 367,
+    "name": "huntail",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
     "types": [
-      "normal"
+      "water"
     ],
-    "totalStats": 470,
+    "totalStats": 485,
     "grade": "R",
-    "pulledAt": "2026-11-16T16:30:15.305Z"
+    "pulledAt": "2026-11-17T00:27:45.642Z"
   },
   "pulls": [
+    {
+      "id": 367,
+      "name": "huntail",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 485,
+      "grade": "R",
+      "pulledAt": "2026-11-17T00:27:45.642Z"
+    },
     {
       "id": 573,
       "name": "cinccino",
@@ -116,17 +127,6 @@
       "totalStats": 450,
       "grade": "R",
       "pulledAt": "2026-11-14T16:54:00.285Z"
-    },
-    {
-      "id": 109,
-      "name": "koffing",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/109.png",
-      "types": [
-        "poison"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-14T10:54:20.985Z"
     }
   ],
   "pokemon": {
@@ -1612,10 +1612,10 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-09-21T13:57:39.432Z",
-      "count": 3,
-      "fusionLevel": 0,
+      "count": 4,
+      "fusionLevel": 1,
       "firstPulledAt": "2026-09-21T13:57:39.432Z",
-      "lastPulledAt": "2026-11-06T20:33:50.289Z"
+      "lastPulledAt": "2026-11-17T00:27:45.642Z"
     },
     "380": {
       "id": 380,

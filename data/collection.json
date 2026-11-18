@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 324,
-  "updatedAt": "2026-11-18T16:37:57.584Z",
+  "totalPulls": 325,
+  "updatedAt": "2026-11-18T23:09:07.068Z",
   "lastPull": {
-    "id": 166,
-    "name": "ledian",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
+    "id": 1,
+    "name": "bulbasaur",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
     "types": [
-      "bug",
-      "flying"
+      "grass",
+      "poison"
     ],
-    "totalStats": 390,
+    "totalStats": 318,
     "grade": "N",
-    "pulledAt": "2026-11-18T16:37:57.584Z"
+    "pulledAt": "2026-11-18T23:09:07.068Z"
   },
   "pulls": [
+    {
+      "id": 1,
+      "name": "bulbasaur",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+      "types": [
+        "grass",
+        "poison"
+      ],
+      "totalStats": 318,
+      "grade": "N",
+      "pulledAt": "2026-11-18T23:09:07.068Z"
+    },
     {
       "id": 166,
       "name": "ledian",
@@ -116,18 +128,6 @@
       "totalStats": 210,
       "grade": "N",
       "pulledAt": "2026-11-16T00:13:01.354Z"
-    },
-    {
-      "id": 227,
-      "name": "skarmory",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/227.png",
-      "types": [
-        "steel",
-        "flying"
-      ],
-      "totalStats": 465,
-      "grade": "R",
-      "pulledAt": "2026-11-15T20:24:08.928Z"
     }
   ],
   "pokemon": {
@@ -142,10 +142,10 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-11-08T19:02:03.937Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-08T19:02:03.937Z",
-      "lastPulledAt": "2026-11-08T19:02:03.937Z"
+      "lastPulledAt": "2026-11-18T23:09:07.068Z"
     },
     "2": {
       "id": 2,

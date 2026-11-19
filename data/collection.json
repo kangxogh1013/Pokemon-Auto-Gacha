@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 326,
-  "updatedAt": "2026-11-19T04:12:24.545Z",
+  "totalPulls": 327,
+  "updatedAt": "2026-11-19T13:27:43.952Z",
   "lastPull": {
-    "id": 265,
-    "name": "wurmple",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+    "id": 202,
+    "name": "wobbuffet",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
     "types": [
-      "bug"
+      "psychic"
     ],
-    "totalStats": 195,
-    "grade": "N",
-    "pulledAt": "2026-11-19T04:12:24.545Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-19T13:27:43.952Z"
   },
   "pulls": [
+    {
+      "id": 202,
+      "name": "wobbuffet",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/202.png",
+      "types": [
+        "psychic"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-19T13:27:43.952Z"
+    },
     {
       "id": 265,
       "name": "wurmple",
@@ -116,17 +127,6 @@
       "totalStats": 470,
       "grade": "R",
       "pulledAt": "2026-11-16T16:30:15.305Z"
-    },
-    {
-      "id": 665,
-      "name": "spewpa",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/665.png",
-      "types": [
-        "bug"
-      ],
-      "totalStats": 213,
-      "grade": "N",
-      "pulledAt": "2026-11-16T06:46:09.229Z"
     }
   ],
   "pokemon": {
@@ -1006,10 +1006,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-10-16T20:31:01.470Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-16T20:31:01.470Z",
-      "lastPulledAt": "2026-10-16T20:31:01.470Z"
+      "lastPulledAt": "2026-11-19T13:27:43.952Z"
     },
     "205": {
       "id": 205,

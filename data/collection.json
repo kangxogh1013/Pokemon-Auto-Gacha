@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 325,
-  "updatedAt": "2026-11-18T23:09:07.068Z",
+  "totalPulls": 326,
+  "updatedAt": "2026-11-19T04:12:24.545Z",
   "lastPull": {
-    "id": 1,
-    "name": "bulbasaur",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
+    "id": 265,
+    "name": "wurmple",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
     "types": [
-      "grass",
-      "poison"
+      "bug"
     ],
-    "totalStats": 318,
+    "totalStats": 195,
     "grade": "N",
-    "pulledAt": "2026-11-18T23:09:07.068Z"
+    "pulledAt": "2026-11-19T04:12:24.545Z"
   },
   "pulls": [
+    {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-19T04:12:24.545Z"
+    },
     {
       "id": 1,
       "name": "bulbasaur",
@@ -117,17 +127,6 @@
       "totalStats": 213,
       "grade": "N",
       "pulledAt": "2026-11-16T06:46:09.229Z"
-    },
-    {
-      "id": 236,
-      "name": "tyrogue",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/236.png",
-      "types": [
-        "fighting"
-      ],
-      "totalStats": 210,
-      "grade": "N",
-      "pulledAt": "2026-11-16T00:13:01.354Z"
     }
   ],
   "pokemon": {
@@ -1261,6 +1260,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-11T11:03:31.053Z",
       "lastPulledAt": "2026-11-11T11:03:31.053Z"
+    },
+    "265": {
+      "id": 265,
+      "name": "wurmple",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/265.png",
+      "types": [
+        "bug"
+      ],
+      "totalStats": 195,
+      "grade": "N",
+      "pulledAt": "2026-11-19T04:12:24.545Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-19T04:12:24.545Z",
+      "lastPulledAt": "2026-11-19T04:12:24.545Z"
     },
     "268": {
       "id": 268,

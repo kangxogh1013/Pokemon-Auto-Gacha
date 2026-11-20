@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 328,
-  "updatedAt": "2026-11-19T21:44:39.385Z",
+  "totalPulls": 329,
+  "updatedAt": "2026-11-20T02:40:38.277Z",
   "lastPull": {
-    "id": 645,
-    "name": "landorus-incarnate",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
+    "id": 394,
+    "name": "prinplup",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
     "types": [
-      "ground",
-      "flying"
+      "water"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-19T21:44:39.385Z"
+    "totalStats": 405,
+    "grade": "R",
+    "pulledAt": "2026-11-20T02:40:38.277Z"
   },
   "pulls": [
+    {
+      "id": 394,
+      "name": "prinplup",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 405,
+      "grade": "R",
+      "pulledAt": "2026-11-20T02:40:38.277Z"
+    },
     {
       "id": 645,
       "name": "landorus-incarnate",
@@ -118,17 +128,6 @@
       "totalStats": 570,
       "grade": "SR",
       "pulledAt": "2026-11-17T08:24:24.071Z"
-    },
-    {
-      "id": 367,
-      "name": "huntail",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/367.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-17T00:27:45.642Z"
     }
   ],
   "pokemon": {
@@ -1738,10 +1737,10 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-09-30T17:42:53.132Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-30T17:42:53.132Z",
-      "lastPulledAt": "2026-09-30T17:42:53.132Z"
+      "lastPulledAt": "2026-11-20T02:40:38.277Z"
     },
     "398": {
       "id": 398,

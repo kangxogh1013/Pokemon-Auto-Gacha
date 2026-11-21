@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 333,
-  "updatedAt": "2026-11-21T07:38:36.375Z",
+  "totalPulls": 334,
+  "updatedAt": "2026-11-21T15:37:58.751Z",
   "lastPull": {
-    "id": 46,
-    "name": "paras",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+    "id": 571,
+    "name": "zoroark",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
     "types": [
-      "bug",
-      "grass"
+      "dark"
     ],
-    "totalStats": 285,
-    "grade": "N",
-    "pulledAt": "2026-11-21T07:38:36.375Z"
+    "totalStats": 510,
+    "grade": "SR",
+    "pulledAt": "2026-11-21T15:37:58.751Z"
   },
   "pulls": [
+    {
+      "id": 571,
+      "name": "zoroark",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T15:37:58.751Z"
+    },
     {
       "id": 46,
       "name": "paras",
@@ -119,18 +129,6 @@
       "totalStats": 318,
       "grade": "N",
       "pulledAt": "2026-11-18T23:09:07.068Z"
-    },
-    {
-      "id": 166,
-      "name": "ledian",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/166.png",
-      "types": [
-        "bug",
-        "flying"
-      ],
-      "totalStats": 390,
-      "grade": "N",
-      "pulledAt": "2026-11-18T16:37:57.584Z"
     }
   ],
   "pokemon": {
@@ -2472,6 +2470,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-27T00:38:20.388Z",
       "lastPulledAt": "2026-09-27T00:38:20.388Z"
+    },
+    "571": {
+      "id": 571,
+      "name": "zoroark",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+      "types": [
+        "dark"
+      ],
+      "totalStats": 510,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T15:37:58.751Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T15:37:58.751Z",
+      "lastPulledAt": "2026-11-21T15:37:58.751Z"
     },
     "573": {
       "id": 573,

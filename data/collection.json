@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 334,
-  "updatedAt": "2026-11-21T15:37:58.751Z",
+  "totalPulls": 335,
+  "updatedAt": "2026-11-21T21:11:37.866Z",
   "lastPull": {
-    "id": 571,
-    "name": "zoroark",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/571.png",
+    "id": 899,
+    "name": "wyrdeer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
     "types": [
-      "dark"
+      "normal",
+      "psychic"
     ],
-    "totalStats": 510,
+    "totalStats": 525,
     "grade": "SR",
-    "pulledAt": "2026-11-21T15:37:58.751Z"
+    "pulledAt": "2026-11-21T21:11:37.866Z"
   },
   "pulls": [
+    {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T21:11:37.866Z"
+    },
     {
       "id": 571,
       "name": "zoroark",
@@ -117,18 +130,6 @@
       "totalStats": 195,
       "grade": "N",
       "pulledAt": "2026-11-19T04:12:24.545Z"
-    },
-    {
-      "id": 1,
-      "name": "bulbasaur",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/1.png",
-      "types": [
-        "grass",
-        "poison"
-      ],
-      "totalStats": 318,
-      "grade": "N",
-      "pulledAt": "2026-11-18T23:09:07.068Z"
     }
   ],
   "pokemon": {
@@ -3914,6 +3915,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-22T16:49:12.790Z",
       "lastPulledAt": "2026-09-22T16:49:12.790Z"
+    },
+    "899": {
+      "id": 899,
+      "name": "wyrdeer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
+      "types": [
+        "normal",
+        "psychic"
+      ],
+      "totalStats": 525,
+      "grade": "SR",
+      "pulledAt": "2026-11-21T21:11:37.866Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T21:11:37.866Z",
+      "lastPulledAt": "2026-11-21T21:11:37.866Z"
     },
     "900": {
       "id": 900,

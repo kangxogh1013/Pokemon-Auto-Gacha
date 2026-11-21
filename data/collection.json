@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 331,
-  "updatedAt": "2026-11-20T18:49:06.631Z",
+  "totalPulls": 332,
+  "updatedAt": "2026-11-21T00:28:39.185Z",
   "lastPull": {
-    "id": 183,
-    "name": "marill",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
+    "id": 649,
+    "name": "genesect",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
     "types": [
-      "water",
-      "fairy"
+      "bug",
+      "steel"
     ],
-    "totalStats": 250,
-    "grade": "N",
-    "pulledAt": "2026-11-20T18:49:06.631Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-21T00:28:39.185Z"
   },
   "pulls": [
+    {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T00:28:39.185Z"
+    },
     {
       "id": 183,
       "name": "marill",
@@ -118,18 +130,6 @@
       "totalStats": 280,
       "grade": "N",
       "pulledAt": "2026-11-18T07:19:48.200Z"
-    },
-    {
-      "id": 248,
-      "name": "tyranitar",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/248.png",
-      "types": [
-        "rock",
-        "dark"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-18T00:04:27.278Z"
     }
   ],
   "pokemon": {
@@ -2796,6 +2796,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-10T10:59:11.989Z",
       "lastPulledAt": "2026-11-10T10:59:11.989Z"
+    },
+    "649": {
+      "id": 649,
+      "name": "genesect",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+      "types": [
+        "bug",
+        "steel"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-21T00:28:39.185Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T00:28:39.185Z",
+      "lastPulledAt": "2026-11-21T00:28:39.185Z"
     },
     "650": {
       "id": 650,

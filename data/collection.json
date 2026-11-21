@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 332,
-  "updatedAt": "2026-11-21T00:28:39.185Z",
+  "totalPulls": 333,
+  "updatedAt": "2026-11-21T07:38:36.375Z",
   "lastPull": {
-    "id": 649,
-    "name": "genesect",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/649.png",
+    "id": 46,
+    "name": "paras",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
     "types": [
       "bug",
-      "steel"
+      "grass"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-21T00:28:39.185Z"
+    "totalStats": 285,
+    "grade": "N",
+    "pulledAt": "2026-11-21T07:38:36.375Z"
   },
   "pulls": [
+    {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:38:36.375Z"
+    },
     {
       "id": 649,
       "name": "genesect",
@@ -119,17 +131,6 @@
       "totalStats": 390,
       "grade": "N",
       "pulledAt": "2026-11-18T16:37:57.584Z"
-    },
-    {
-      "id": 524,
-      "name": "roggenrola",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/524.png",
-      "types": [
-        "rock"
-      ],
-      "totalStats": 280,
-      "grade": "N",
-      "pulledAt": "2026-11-18T07:19:48.200Z"
     }
   ],
   "pokemon": {
@@ -274,6 +275,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-24T23:23:16.144Z",
       "lastPulledAt": "2026-09-24T23:23:16.144Z"
+    },
+    "46": {
+      "id": 46,
+      "name": "paras",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
+      "types": [
+        "bug",
+        "grass"
+      ],
+      "totalStats": 285,
+      "grade": "N",
+      "pulledAt": "2026-11-21T07:38:36.375Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-21T07:38:36.375Z",
+      "lastPulledAt": "2026-11-21T07:38:36.375Z"
     },
     "48": {
       "id": 48,

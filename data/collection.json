@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 337,
-  "updatedAt": "2026-11-22T08:36:23.920Z",
+  "totalPulls": 338,
+  "updatedAt": "2026-11-22T16:37:55.804Z",
   "lastPull": {
-    "id": 341,
-    "name": "corphish",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
+    "id": 760,
+    "name": "bewear",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
     "types": [
-      "water"
+      "normal",
+      "fighting"
     ],
-    "totalStats": 308,
-    "grade": "N",
-    "pulledAt": "2026-11-22T08:36:23.920Z"
+    "totalStats": 500,
+    "grade": "SR",
+    "pulledAt": "2026-11-22T16:37:55.804Z"
   },
   "pulls": [
+    {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T16:37:55.804Z"
+    },
     {
       "id": 341,
       "name": "corphish",
@@ -118,18 +131,6 @@
       "totalStats": 405,
       "grade": "R",
       "pulledAt": "2026-11-20T02:40:38.277Z"
-    },
-    {
-      "id": 645,
-      "name": "landorus-incarnate",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/645.png",
-      "types": [
-        "ground",
-        "flying"
-      ],
-      "totalStats": 600,
-      "grade": "SSR",
-      "pulledAt": "2026-11-19T21:44:39.385Z"
     }
   ],
   "pokemon": {
@@ -3341,6 +3342,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-07T13:45:12.507Z",
       "lastPulledAt": "2026-10-07T13:45:12.507Z"
+    },
+    "760": {
+      "id": 760,
+      "name": "bewear",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+      "types": [
+        "normal",
+        "fighting"
+      ],
+      "totalStats": 500,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T16:37:55.804Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T16:37:55.804Z",
+      "lastPulledAt": "2026-11-22T16:37:55.804Z"
     },
     "765": {
       "id": 765,

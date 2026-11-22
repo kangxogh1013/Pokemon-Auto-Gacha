@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 338,
-  "updatedAt": "2026-11-22T16:37:55.804Z",
+  "totalPulls": 339,
+  "updatedAt": "2026-11-22T22:05:46.686Z",
   "lastPull": {
-    "id": 760,
-    "name": "bewear",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
+    "id": 895,
+    "name": "regidrago",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
     "types": [
-      "normal",
-      "fighting"
+      "dragon"
     ],
-    "totalStats": 500,
+    "totalStats": 580,
     "grade": "SR",
-    "pulledAt": "2026-11-22T16:37:55.804Z"
+    "pulledAt": "2026-11-22T22:05:46.686Z"
   },
   "pulls": [
+    {
+      "id": 895,
+      "name": "regidrago",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T22:05:46.686Z"
+    },
     {
       "id": 760,
       "name": "bewear",
@@ -120,17 +130,6 @@
       "totalStats": 485,
       "grade": "R",
       "pulledAt": "2026-11-20T10:34:28.743Z"
-    },
-    {
-      "id": 394,
-      "name": "prinplup",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/394.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 405,
-      "grade": "R",
-      "pulledAt": "2026-11-20T02:40:38.277Z"
     }
   ],
   "pokemon": {
@@ -3916,6 +3915,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-03T09:44:21.002Z",
       "lastPulledAt": "2026-11-03T09:44:21.002Z"
+    },
+    "895": {
+      "id": 895,
+      "name": "regidrago",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+      "types": [
+        "dragon"
+      ],
+      "totalStats": 580,
+      "grade": "SR",
+      "pulledAt": "2026-11-22T22:05:46.686Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-22T22:05:46.686Z",
+      "lastPulledAt": "2026-11-22T22:05:46.686Z"
     },
     "898": {
       "id": 898,

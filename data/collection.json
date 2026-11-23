@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 339,
-  "updatedAt": "2026-11-22T22:05:46.686Z",
+  "totalPulls": 340,
+  "updatedAt": "2026-11-23T02:43:18.243Z",
   "lastPull": {
-    "id": 895,
-    "name": "regidrago",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
+    "id": 836,
+    "name": "boltund",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
     "types": [
-      "dragon"
+      "electric"
     ],
-    "totalStats": 580,
-    "grade": "SR",
-    "pulledAt": "2026-11-22T22:05:46.686Z"
+    "totalStats": 490,
+    "grade": "R",
+    "pulledAt": "2026-11-23T02:43:18.243Z"
   },
   "pulls": [
+    {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-23T02:43:18.243Z"
+    },
     {
       "id": 895,
       "name": "regidrago",
@@ -118,18 +129,6 @@
       "totalStats": 250,
       "grade": "N",
       "pulledAt": "2026-11-20T18:49:06.631Z"
-    },
-    {
-      "id": 776,
-      "name": "turtonator",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/776.png",
-      "types": [
-        "fire",
-        "dragon"
-      ],
-      "totalStats": 485,
-      "grade": "R",
-      "pulledAt": "2026-11-20T10:34:28.743Z"
     }
   ],
   "pokemon": {
@@ -3652,6 +3651,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-26T00:38:57.299Z",
       "lastPulledAt": "2026-10-26T00:38:57.299Z"
+    },
+    "836": {
+      "id": 836,
+      "name": "boltund",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+      "types": [
+        "electric"
+      ],
+      "totalStats": 490,
+      "grade": "R",
+      "pulledAt": "2026-11-23T02:43:18.243Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T02:43:18.243Z",
+      "lastPulledAt": "2026-11-23T02:43:18.243Z"
     },
     "837": {
       "id": 837,

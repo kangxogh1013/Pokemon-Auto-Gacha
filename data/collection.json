@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 340,
-  "updatedAt": "2026-11-23T02:43:18.243Z",
+  "totalPulls": 341,
+  "updatedAt": "2026-11-23T11:21:12.256Z",
   "lastPull": {
-    "id": 836,
-    "name": "boltund",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
+    "id": 791,
+    "name": "solgaleo",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
     "types": [
-      "electric"
+      "psychic",
+      "steel"
     ],
-    "totalStats": 490,
-    "grade": "R",
-    "pulledAt": "2026-11-23T02:43:18.243Z"
+    "totalStats": 680,
+    "grade": "SSR",
+    "pulledAt": "2026-11-23T11:21:12.256Z"
   },
   "pulls": [
+    {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-23T11:21:12.256Z"
+    },
     {
       "id": 836,
       "name": "boltund",
@@ -117,18 +130,6 @@
       "totalStats": 600,
       "grade": "SSR",
       "pulledAt": "2026-11-21T00:28:39.185Z"
-    },
-    {
-      "id": 183,
-      "name": "marill",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/183.png",
-      "types": [
-        "water",
-        "fairy"
-      ],
-      "totalStats": 250,
-      "grade": "N",
-      "pulledAt": "2026-11-20T18:49:06.631Z"
     }
   ],
   "pokemon": {
@@ -3513,6 +3514,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-28T20:50:05.986Z",
       "lastPulledAt": "2026-11-10T23:43:55.285Z"
+    },
+    "791": {
+      "id": 791,
+      "name": "solgaleo",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
+      "types": [
+        "psychic",
+        "steel"
+      ],
+      "totalStats": 680,
+      "grade": "SSR",
+      "pulledAt": "2026-11-23T11:21:12.256Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-23T11:21:12.256Z",
+      "lastPulledAt": "2026-11-23T11:21:12.256Z"
     },
     "799": {
       "id": 799,

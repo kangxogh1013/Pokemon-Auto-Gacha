@@ -1,20 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 342,
-  "updatedAt": "2026-11-23T22:47:39.635Z",
+  "totalPulls": 343,
+  "updatedAt": "2026-11-24T06:32:38.710Z",
   "lastPull": {
-    "id": 630,
-    "name": "mandibuzz",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
+    "id": 823,
+    "name": "corviknight",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
     "types": [
-      "dark",
-      "flying"
+      "flying",
+      "steel"
     ],
-    "totalStats": 510,
-    "grade": "SR",
-    "pulledAt": "2026-11-23T22:47:39.635Z"
+    "totalStats": 495,
+    "grade": "R",
+    "pulledAt": "2026-11-24T06:32:38.710Z"
   },
   "pulls": [
+    {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-24T06:32:38.710Z"
+    },
     {
       "id": 630,
       "name": "mandibuzz",
@@ -118,18 +130,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-21T15:37:58.751Z"
-    },
-    {
-      "id": 46,
-      "name": "paras",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/46.png",
-      "types": [
-        "bug",
-        "grass"
-      ],
-      "totalStats": 285,
-      "grade": "N",
-      "pulledAt": "2026-11-21T07:38:36.375Z"
     }
   ],
   "pokemon": {
@@ -3607,6 +3607,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-19T19:25:21.738Z",
       "lastPulledAt": "2026-09-19T19:25:21.738Z"
+    },
+    "823": {
+      "id": 823,
+      "name": "corviknight",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/823.png",
+      "types": [
+        "flying",
+        "steel"
+      ],
+      "totalStats": 495,
+      "grade": "R",
+      "pulledAt": "2026-11-24T06:32:38.710Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-24T06:32:38.710Z",
+      "lastPulledAt": "2026-11-24T06:32:38.710Z"
     },
     "827": {
       "id": 827,

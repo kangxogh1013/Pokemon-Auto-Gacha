@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 346,
-  "updatedAt": "2026-11-25T11:44:43.257Z",
+  "totalPulls": 347,
+  "updatedAt": "2026-11-25T20:42:37.902Z",
   "lastPull": {
-    "id": 120,
-    "name": "staryu",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+    "id": 566,
+    "name": "archen",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
     "types": [
-      "water"
+      "rock",
+      "flying"
     ],
-    "totalStats": 340,
-    "grade": "N",
-    "pulledAt": "2026-11-25T11:44:43.257Z"
+    "totalStats": 401,
+    "grade": "R",
+    "pulledAt": "2026-11-25T20:42:37.902Z"
   },
   "pulls": [
+    {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-11-25T20:42:37.902Z"
+    },
     {
       "id": 120,
       "name": "staryu",
@@ -116,17 +129,6 @@
       "totalStats": 500,
       "grade": "SR",
       "pulledAt": "2026-11-22T16:37:55.804Z"
-    },
-    {
-      "id": 341,
-      "name": "corphish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/341.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 308,
-      "grade": "N",
-      "pulledAt": "2026-11-22T08:36:23.920Z"
     }
   ],
   "pokemon": {
@@ -2468,6 +2470,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-10T18:00:28.248Z",
       "lastPulledAt": "2026-10-10T18:00:28.248Z"
+    },
+    "566": {
+      "id": 566,
+      "name": "archen",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+      "types": [
+        "rock",
+        "flying"
+      ],
+      "totalStats": 401,
+      "grade": "R",
+      "pulledAt": "2026-11-25T20:42:37.902Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T20:42:37.902Z",
+      "lastPulledAt": "2026-11-25T20:42:37.902Z"
     },
     "569": {
       "id": 569,

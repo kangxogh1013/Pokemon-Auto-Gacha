@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 344,
-  "updatedAt": "2026-11-24T18:15:58.312Z",
+  "totalPulls": 345,
+  "updatedAt": "2026-11-25T02:37:43.052Z",
   "lastPull": {
-    "id": 63,
-    "name": "abra",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/63.png",
+    "id": 320,
+    "name": "wailmer",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
     "types": [
-      "psychic"
+      "water"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-24T18:15:58.312Z"
+    "totalStats": 400,
+    "grade": "R",
+    "pulledAt": "2026-11-25T02:37:43.052Z"
   },
   "pulls": [
+    {
+      "id": 320,
+      "name": "wailmer",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 400,
+      "grade": "R",
+      "pulledAt": "2026-11-25T02:37:43.052Z"
+    },
     {
       "id": 63,
       "name": "abra",
@@ -117,18 +128,6 @@
       "totalStats": 505,
       "grade": "SR",
       "pulledAt": "2026-11-22T01:23:39.593Z"
-    },
-    {
-      "id": 899,
-      "name": "wyrdeer",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/899.png",
-      "types": [
-        "normal",
-        "psychic"
-      ],
-      "totalStats": 525,
-      "grade": "SR",
-      "pulledAt": "2026-11-21T21:11:37.866Z"
     }
   ],
   "pokemon": {
@@ -1570,10 +1569,10 @@
       "totalStats": 400,
       "grade": "R",
       "pulledAt": "2026-09-23T01:20:40.256Z",
-      "count": 2,
+      "count": 3,
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T01:20:40.256Z",
-      "lastPulledAt": "2026-09-30T11:53:00.079Z"
+      "lastPulledAt": "2026-11-25T02:37:43.052Z"
     },
     "334": {
       "id": 334,

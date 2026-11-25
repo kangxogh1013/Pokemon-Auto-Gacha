@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 345,
-  "updatedAt": "2026-11-25T02:37:43.052Z",
+  "totalPulls": 346,
+  "updatedAt": "2026-11-25T11:44:43.257Z",
   "lastPull": {
-    "id": 320,
-    "name": "wailmer",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/320.png",
+    "id": 120,
+    "name": "staryu",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
     "types": [
       "water"
     ],
-    "totalStats": 400,
-    "grade": "R",
-    "pulledAt": "2026-11-25T02:37:43.052Z"
+    "totalStats": 340,
+    "grade": "N",
+    "pulledAt": "2026-11-25T11:44:43.257Z"
   },
   "pulls": [
+    {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-25T11:44:43.257Z"
+    },
     {
       "id": 320,
       "name": "wailmer",
@@ -116,18 +127,6 @@
       "totalStats": 308,
       "grade": "N",
       "pulledAt": "2026-11-22T08:36:23.920Z"
-    },
-    {
-      "id": 882,
-      "name": "dracovish",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/882.png",
-      "types": [
-        "water",
-        "dragon"
-      ],
-      "totalStats": 505,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T01:23:39.593Z"
     }
   ],
   "pokemon": {
@@ -657,6 +656,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-27T22:21:16.644Z",
       "lastPulledAt": "2026-10-27T22:21:16.644Z"
+    },
+    "120": {
+      "id": 120,
+      "name": "staryu",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
+      "types": [
+        "water"
+      ],
+      "totalStats": 340,
+      "grade": "N",
+      "pulledAt": "2026-11-25T11:44:43.257Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-25T11:44:43.257Z",
+      "lastPulledAt": "2026-11-25T11:44:43.257Z"
     },
     "121": {
       "id": 121,

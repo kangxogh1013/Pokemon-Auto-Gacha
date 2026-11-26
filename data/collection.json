@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 349,
-  "updatedAt": "2026-11-26T12:51:33.641Z",
+  "totalPulls": 350,
+  "updatedAt": "2026-11-26T22:06:19.073Z",
   "lastPull": {
-    "id": 982,
-    "name": "dudunsparce-two-segment",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+    "id": 252,
+    "name": "treecko",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 520,
-    "grade": "SR",
-    "pulledAt": "2026-11-26T12:51:33.641Z"
+    "totalStats": 310,
+    "grade": "N",
+    "pulledAt": "2026-11-26T22:06:19.073Z"
   },
   "pulls": [
+    {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-26T22:06:19.073Z"
+    },
     {
       "id": 982,
       "name": "dudunsparce-two-segment",
@@ -116,17 +127,6 @@
       "totalStats": 680,
       "grade": "SSR",
       "pulledAt": "2026-11-23T11:21:12.256Z"
-    },
-    {
-      "id": 836,
-      "name": "boltund",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/836.png",
-      "types": [
-        "electric"
-      ],
-      "totalStats": 490,
-      "grade": "R",
-      "pulledAt": "2026-11-23T02:43:18.243Z"
     }
   ],
   "pokemon": {
@@ -1275,6 +1275,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-21T19:22:18.799Z",
       "lastPulledAt": "2026-10-21T19:22:18.799Z"
+    },
+    "252": {
+      "id": 252,
+      "name": "treecko",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 310,
+      "grade": "N",
+      "pulledAt": "2026-11-26T22:06:19.073Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T22:06:19.073Z",
+      "lastPulledAt": "2026-11-26T22:06:19.073Z"
     },
     "257": {
       "id": 257,

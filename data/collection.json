@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 348,
-  "updatedAt": "2026-11-26T03:13:11.499Z",
+  "totalPulls": 349,
+  "updatedAt": "2026-11-26T12:51:33.641Z",
   "lastPull": {
-    "id": 933,
-    "name": "naclstack",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+    "id": 982,
+    "name": "dudunsparce-two-segment",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
     "types": [
-      "rock"
+      "normal"
     ],
-    "totalStats": 355,
-    "grade": "N",
-    "pulledAt": "2026-11-26T03:13:11.499Z"
+    "totalStats": 520,
+    "grade": "SR",
+    "pulledAt": "2026-11-26T12:51:33.641Z"
   },
   "pulls": [
+    {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T12:51:33.641Z"
+    },
     {
       "id": 933,
       "name": "naclstack",
@@ -116,17 +127,6 @@
       "totalStats": 490,
       "grade": "R",
       "pulledAt": "2026-11-23T02:43:18.243Z"
-    },
-    {
-      "id": 895,
-      "name": "regidrago",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/895.png",
-      "types": [
-        "dragon"
-      ],
-      "totalStats": 580,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T22:05:46.686Z"
     }
   ],
   "pokemon": {
@@ -4425,6 +4425,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-31T02:30:02.705Z",
       "lastPulledAt": "2026-10-31T02:30:02.705Z"
+    },
+    "982": {
+      "id": 982,
+      "name": "dudunsparce-two-segment",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/982.png",
+      "types": [
+        "normal"
+      ],
+      "totalStats": 520,
+      "grade": "SR",
+      "pulledAt": "2026-11-26T12:51:33.641Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-26T12:51:33.641Z",
+      "lastPulledAt": "2026-11-26T12:51:33.641Z"
     },
     "988": {
       "id": 988,

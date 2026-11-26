@@ -1,20 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 347,
-  "updatedAt": "2026-11-25T20:42:37.902Z",
+  "totalPulls": 348,
+  "updatedAt": "2026-11-26T03:13:11.499Z",
   "lastPull": {
-    "id": 566,
-    "name": "archen",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/566.png",
+    "id": 933,
+    "name": "naclstack",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
     "types": [
-      "rock",
-      "flying"
+      "rock"
     ],
-    "totalStats": 401,
-    "grade": "R",
-    "pulledAt": "2026-11-25T20:42:37.902Z"
+    "totalStats": 355,
+    "grade": "N",
+    "pulledAt": "2026-11-26T03:13:11.499Z"
   },
   "pulls": [
+    {
+      "id": 933,
+      "name": "naclstack",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/933.png",
+      "types": [
+        "rock"
+      ],
+      "totalStats": 355,
+      "grade": "N",
+      "pulledAt": "2026-11-26T03:13:11.499Z"
+    },
     {
       "id": 566,
       "name": "archen",
@@ -117,18 +127,6 @@
       "totalStats": 580,
       "grade": "SR",
       "pulledAt": "2026-11-22T22:05:46.686Z"
-    },
-    {
-      "id": 760,
-      "name": "bewear",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/760.png",
-      "types": [
-        "normal",
-        "fighting"
-      ],
-      "totalStats": 500,
-      "grade": "SR",
-      "pulledAt": "2026-11-22T16:37:55.804Z"
     }
   ],
   "pokemon": {
@@ -4189,10 +4187,10 @@
       "totalStats": 355,
       "grade": "N",
       "pulledAt": "2026-10-01T13:57:18.767Z",
-      "count": 1,
+      "count": 2,
       "fusionLevel": 0,
       "firstPulledAt": "2026-10-01T13:57:18.767Z",
-      "lastPulledAt": "2026-10-01T13:57:18.767Z"
+      "lastPulledAt": "2026-11-26T03:13:11.499Z"
     },
     "936": {
       "id": 936,

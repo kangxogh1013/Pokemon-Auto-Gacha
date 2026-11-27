@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 350,
-  "updatedAt": "2026-11-26T22:06:19.073Z",
+  "totalPulls": 351,
+  "updatedAt": "2026-11-27T04:13:52.120Z",
   "lastPull": {
-    "id": 252,
-    "name": "treecko",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/252.png",
+    "id": 492,
+    "name": "shaymin-land",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
     "types": [
       "grass"
     ],
-    "totalStats": 310,
-    "grade": "N",
-    "pulledAt": "2026-11-26T22:06:19.073Z"
+    "totalStats": 600,
+    "grade": "SSR",
+    "pulledAt": "2026-11-27T04:13:52.120Z"
   },
   "pulls": [
+    {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-27T04:13:52.120Z"
+    },
     {
       "id": 252,
       "name": "treecko",
@@ -115,18 +126,6 @@
       "totalStats": 510,
       "grade": "SR",
       "pulledAt": "2026-11-23T22:47:39.635Z"
-    },
-    {
-      "id": 791,
-      "name": "solgaleo",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/791.png",
-      "types": [
-        "psychic",
-        "steel"
-      ],
-      "totalStats": 680,
-      "grade": "SSR",
-      "pulledAt": "2026-11-23T11:21:12.256Z"
     }
   ],
   "pokemon": {
@@ -2267,6 +2266,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-17T20:09:46.281Z",
       "lastPulledAt": "2026-09-17T20:09:46.281Z"
+    },
+    "492": {
+      "id": 492,
+      "name": "shaymin-land",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 600,
+      "grade": "SSR",
+      "pulledAt": "2026-11-27T04:13:52.120Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T04:13:52.120Z",
+      "lastPulledAt": "2026-11-27T04:13:52.120Z"
     },
     "498": {
       "id": 498,

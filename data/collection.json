@@ -1,19 +1,32 @@
 {
   "version": 1,
-  "totalPulls": 351,
-  "updatedAt": "2026-11-27T04:13:52.120Z",
+  "totalPulls": 352,
+  "updatedAt": "2026-11-27T13:59:22.430Z",
   "lastPull": {
-    "id": 492,
-    "name": "shaymin-land",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/492.png",
+    "id": 743,
+    "name": "ribombee",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
     "types": [
-      "grass"
+      "bug",
+      "fairy"
     ],
-    "totalStats": 600,
-    "grade": "SSR",
-    "pulledAt": "2026-11-27T04:13:52.120Z"
+    "totalStats": 464,
+    "grade": "R",
+    "pulledAt": "2026-11-27T13:59:22.430Z"
   },
   "pulls": [
+    {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-27T13:59:22.430Z"
+    },
     {
       "id": 492,
       "name": "shaymin-land",
@@ -114,18 +127,6 @@
       "totalStats": 495,
       "grade": "R",
       "pulledAt": "2026-11-24T06:32:38.710Z"
-    },
-    {
-      "id": 630,
-      "name": "mandibuzz",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/630.png",
-      "types": [
-        "dark",
-        "flying"
-      ],
-      "totalStats": 510,
-      "grade": "SR",
-      "pulledAt": "2026-11-23T22:47:39.635Z"
     }
   ],
   "pokemon": {
@@ -3352,6 +3353,22 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-09-23T16:53:15.252Z",
       "lastPulledAt": "2026-09-23T16:53:15.252Z"
+    },
+    "743": {
+      "id": 743,
+      "name": "ribombee",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/743.png",
+      "types": [
+        "bug",
+        "fairy"
+      ],
+      "totalStats": 464,
+      "grade": "R",
+      "pulledAt": "2026-11-27T13:59:22.430Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-27T13:59:22.430Z",
+      "lastPulledAt": "2026-11-27T13:59:22.430Z"
     },
     "744": {
       "id": 744,

@@ -1,19 +1,30 @@
 {
   "version": 1,
-  "totalPulls": 355,
-  "updatedAt": "2026-11-28T13:19:09.571Z",
+  "totalPulls": 356,
+  "updatedAt": "2026-11-28T21:07:50.626Z",
   "lastPull": {
-    "id": 915,
-    "name": "lechonk",
-    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/915.png",
+    "id": 254,
+    "name": "sceptile",
+    "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
     "types": [
-      "normal"
+      "grass"
     ],
-    "totalStats": 254,
-    "grade": "N",
-    "pulledAt": "2026-11-28T13:19:09.571Z"
+    "totalStats": 530,
+    "grade": "SR",
+    "pulledAt": "2026-11-28T21:07:50.626Z"
   },
   "pulls": [
+    {
+      "id": 254,
+      "name": "sceptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T21:07:50.626Z"
+    },
     {
       "id": 915,
       "name": "lechonk",
@@ -115,17 +126,6 @@
       "totalStats": 401,
       "grade": "R",
       "pulledAt": "2026-11-25T20:42:37.902Z"
-    },
-    {
-      "id": 120,
-      "name": "staryu",
-      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/120.png",
-      "types": [
-        "water"
-      ],
-      "totalStats": 340,
-      "grade": "N",
-      "pulledAt": "2026-11-25T11:44:43.257Z"
     }
   ],
   "pokemon": {
@@ -1289,6 +1289,21 @@
       "fusionLevel": 0,
       "firstPulledAt": "2026-11-26T22:06:19.073Z",
       "lastPulledAt": "2026-11-26T22:06:19.073Z"
+    },
+    "254": {
+      "id": 254,
+      "name": "sceptile",
+      "image": "https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/other/official-artwork/254.png",
+      "types": [
+        "grass"
+      ],
+      "totalStats": 530,
+      "grade": "SR",
+      "pulledAt": "2026-11-28T21:07:50.626Z",
+      "count": 1,
+      "fusionLevel": 0,
+      "firstPulledAt": "2026-11-28T21:07:50.626Z",
+      "lastPulledAt": "2026-11-28T21:07:50.626Z"
     },
     "257": {
       "id": 257,
